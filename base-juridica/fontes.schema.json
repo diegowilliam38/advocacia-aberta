@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/emidio-a11y/advocacia-aberta/blob/main/base-juridica/fontes.schema.json",
+  "title": "Manifesto de fontes da base jurídica",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "pipeline_version",
+    "diretorio_publicado",
+    "politica_promocao",
+    "conjuntos"
+  ],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "pipeline_version": { "type": "string" },
+    "diretorio_publicado": { "type": "string" },
+    "politica_promocao": {
+      "type": "object",
+      "required": ["limite_mudanca_percentual", "limite_mudanca_minimo"],
+      "properties": {
+        "limite_mudanca_percentual": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 100
+        },
+        "limite_mudanca_minimo": { "type": "integer", "minimum": 1 }
+      }
+    },
+    "conjuntos": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": {
+        "type": "object",
+        "required": ["familia"],
+        "properties": {
+          "familia": { "type": "string" },
+          "adaptador": { "type": ["string", "null"] },
+          "chave_colecao": { "type": "string" },
+          "package_id": { "type": "string" },
+          "join_key": { "type": "string" },
+          "destino": { "type": "string", "pattern": "^[^/]+\\.json$" },
+          "fontes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["id", "url", "arquivo_bruto"],
+              "properties": {
+                "id": { "type": "string" },
+                "resource_id": { "type": "string" },
+                "url": { "type": "string", "pattern": "^https://" },
+                "arquivo_bruto": { "type": "string" },
+                "inicio_apos": {
+                  "type": "string",
+                  "description": "Parágrafo-marcador: a extração de artigos começa após a última ocorrência exata deste texto (ex.: corpo anexado a um decreto de promulgação)."
+                },
+                "fim_antes": {
+                  "type": "string",
+                  "description": "Parágrafo-marcador espelho do inicio_apos: a extração de artigos termina antes da primeira ocorrência exata deste texto (ex.: o Título Único com numeração própria na página do Código Comercial de 1850)."
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
