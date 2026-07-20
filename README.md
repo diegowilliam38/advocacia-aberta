@@ -53,7 +53,7 @@ Hoje transformo dados dispersos — de uma empresa, de um mercado — em ativos 
 Advocacia Aberta é a entrega dessa ideia de volta ao meu campo de origem: **dado legível vem antes do
 modelo**, no Direito como em qualquer operação.
 
-— *Emidio Trancoso · OAB/PR 119.075 (credencial de origem; sem atuação no foro)*
+— *[Emidio Trancoso](https://github.com/emidio-trancoso) · OAB/PR 119.075 (credencial de origem; sem atuação no foro)*
 
 ## Como funciona
 
