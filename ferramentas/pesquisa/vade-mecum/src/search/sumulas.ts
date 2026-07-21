@@ -47,6 +47,28 @@ export interface SumulaVinculante {
 
 export type Tribunal = "STJ" | "STF" | "vinculante";
 
+/** Valores aceitos no filtro de tribunal, para mensagens de erro e documentação. */
+export const TRIBUNAIS_DISPONIVEIS = ["STJ", "STF", "vinculante"] as const;
+
+/**
+ * Interpreta o filtro de tribunal recebido de fora.
+ *
+ * `buscarSumulas` compara o tribunal por igualdade estrita, então "stj" em minúsculas
+ * devolvia lista vazia — indistinguível de "não existe súmula sobre isso". Quem chama
+ * o MCP é um modelo, que escreve o filtro como bem entende; aqui a caixa é normalizada
+ * e o valor irreconhecível vira erro explícito, nunca silêncio.
+ *
+ * Devolve `null` quando o valor não corresponde a nenhum tribunal conhecido.
+ */
+export function normalizarTribunal(valor: string): Tribunal | "todos" | null {
+  const limpo = valor.trim().toLowerCase();
+  if (limpo === "" || limpo === "todos") return "todos";
+  if (limpo === "stj") return "STJ";
+  if (limpo === "stf") return "STF";
+  if (limpo === "vinculante" || limpo === "vinculantes") return "vinculante";
+  return null;
+}
+
 // ── Data loading ───────────────────────────────────────────────────────────
 
 const stj = require("../../data/sumulas_stj.json") as {

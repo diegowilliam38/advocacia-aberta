@@ -8,13 +8,19 @@
  */
 
 import { Server } from "@modelcontextprotocol/sdk/server/index.js";
-import { CallToolRequestSchema, ListToolsRequestSchema } from "@modelcontextprotocol/sdk/types.js";
+import {
+  CallToolRequestSchema,
+  ListToolsRequestSchema,
+  type CallToolRequest,
+  type CallToolResult,
+} from "@modelcontextprotocol/sdk/types.js";
 
 import {
   buscarSumulas,
   formatSumula,
+  normalizarTribunal,
   TOTAIS_SUMULAS,
-  type Tribunal,
+  TRIBUNAIS_DISPONIVEIS,
 } from "./search/sumulas.js";
 import {
   buscarTeses,
@@ -62,6 +68,42 @@ const ANOTACOES_LEITURA = {
   idempotentHint: true,
   openWorldHint: false,
 } as const;
+
+// ── Telemetria de uso ────────────────────────────────────────────────────────
+//
+// Registra QUAL ferramenta foi chamada, se houve resultado e quanto demorou. Serve
+// para saber que partes do acervo são realmente usadas e onde a busca falha.
+//
+// O termo pesquisado NUNCA é registrado: a consulta de um advogado revela a matéria
+// e, muitas vezes, o caso — isso é sigilo (ver SIGILO-E-DADOS.md). Só saem daqui
+// categorias fixas do próprio catálogo (tribunal, código) e medidas.
+//
+// A linha vai para a saída de ERRO, não a padrão: no transporte stdio a saída padrão
+// é o canal do protocolo MCP, e escrever nela corromperia as mensagens. O journald
+// recolhe as duas:  journalctl -u vade-mecum-mcp | grep uso_ferramenta
+const SEM_RESULTADO = /^Nenhum[ao]?\s/;
+
+function registrarUso(
+  request: CallToolRequest,
+  medida: { ms: number; achou?: boolean; falhou: boolean },
+): void {
+  const args = request.params.arguments ?? {};
+  const facetaTexto = (valor: unknown): string | undefined =>
+    typeof valor === "string" && valor.length > 0 ? valor : undefined;
+
+  console.error(
+    JSON.stringify({
+      evento: "uso_ferramenta",
+      ts: new Date().toISOString(),
+      tool: request.params.name,
+      tribunal: facetaTexto(args.tribunal),
+      codigo: facetaTexto(args.codigo),
+      achou: medida.achou,
+      falhou: medida.falhou || undefined,
+      ms: medida.ms,
+    }),
+  );
+}
 
 export function buildServer(): Server {
   const server = new Server(
@@ -286,13 +328,27 @@ Use para verificar o texto exato de um dispositivo legal antes de citar.`,
     };
   });
 
-  server.setRequestHandler(CallToolRequestSchema, async (request) => {
+  const despacharTool = async (request: CallToolRequest): Promise<CallToolResult> => {
     const { name, arguments: args } = request.params;
 
     if (name === "buscar_sumula") {
       const query = String(args?.query ?? "");
-      const tribunal = (args?.tribunal ?? "todos") as Tribunal | "todos";
+      const tribunalInformado = String(args?.tribunal ?? "todos");
+      const tribunal = normalizarTribunal(tribunalInformado);
       const limit = Number(args?.limit ?? 5);
+
+      if (!tribunal) {
+        const disponiveis = [...TRIBUNAIS_DISPONIVEIS, "todos"].join(", ");
+        return {
+          content: [
+            {
+              type: "text",
+              text: `Tribunal indisponível: "${tribunalInformado}". Use: ${disponiveis}.`,
+            },
+          ],
+          isError: true,
+        };
+      }
 
       const results = buscarSumulas(query, tribunal, limit);
       if (results.length === 0) {
@@ -390,6 +446,34 @@ Use para verificar o texto exato de um dispositivo legal antes de citar.`,
     }
 
     return { content: [{ type: "text", text: `Tool desconhecida: ${name}` }] };
+  };
+
+  server.setRequestHandler(CallToolRequestSchema, async (request) => {
+    const inicio = performance.now();
+    let achou: boolean | undefined;
+    let falhou = false;
+    try {
+      const resposta = await despacharTool(request);
+      falhou = resposta.isError === true;
+      // Busca sem acerto responde com "Nenhuma súmula encontrada…" e afins — é o
+      // sinal de que a pergunta não achou nada, e é o que mais interessa medir.
+      // Chamada malformada não conta como busca: não houve pesquisa para achar algo.
+      if (!falhou) {
+        const primeiro = resposta.content?.[0];
+        const texto = primeiro?.type === "text" ? primeiro.text : "";
+        achou = !SEM_RESULTADO.test(texto);
+      }
+      return resposta;
+    } catch (erro) {
+      falhou = true;
+      throw erro;
+    } finally {
+      registrarUso(request, {
+        ms: Math.round((performance.now() - inicio) * 10) / 10,
+        achou,
+        falhou,
+      });
+    }
   });
 
   return server;
