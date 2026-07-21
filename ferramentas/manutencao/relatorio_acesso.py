@@ -239,6 +239,82 @@ def imprimir_secao(titulo: str, contagem: Counter, limite: int = 10, total: int 
         print(f"  ... e mais {restantes} não listados")
 
 
+def formatar_bytes(total: float) -> str:
+    for unidade in ("B", "KiB", "MiB", "GiB"):
+        if abs(total) < 1024 or unidade == "GiB":
+            return f"{total:.0f} {unidade}" if unidade == "B" else f"{total:.1f} {unidade}"
+        total /= 1024
+    return f"{total:.1f} GiB"
+
+
+def relatorio_de_consumo(usos: list[dict]) -> None:
+    """Quem consumiu quanto — a visão de administração do serviço.
+
+    Separa consumo atribuível a uma pessoa do consumo de origem compartilhada. Um IP do
+    claude.ai agrega usuários sem relação entre si: somar aquilo como se fosse um usuário
+    produziria um "heavy user" que não existe.
+    """
+    atores: dict[str, dict] = {}
+    for uso in usos:
+        chave = uso.get("ator")
+        if not chave:
+            continue
+        registro = atores.setdefault(
+            chave,
+            {"chamadas": 0, "bytes": 0, "ms": 0.0, "cliente": uso.get("cliente", "?"),
+             "pessoa": bool(uso.get("pessoa")), "tools": Counter()},
+        )
+        registro["chamadas"] += 1
+        registro["bytes"] += uso.get("bytes", 0) or 0
+        registro["ms"] += uso.get("ms", 0) or 0
+        registro["tools"][uso.get("tool", "?")] += 1
+
+    if not atores:
+        print("\n(Sem identificação de ator nos registros — telemetria anterior à v2.)")
+        return
+
+    print("\nCONSUMO POR ATOR")
+    print("-" * 16)
+    print("  {:<34} {:>8} {:>10} {:>9}".format("ator", "chamadas", "resposta", "tempo"))
+
+    ordenados = sorted(atores.items(), key=lambda item: -item[1]["chamadas"])
+    total_chamadas = sum(r["chamadas"] for _, r in ordenados)
+
+    for chave, registro in ordenados[:15]:
+        # O identificador da OpenAI é longo; o começo já basta para distinguir e agir.
+        rotulo = chave if len(chave) <= 32 else f"{chave[:29]}…"
+        marca = "" if registro["pessoa"] else "  (origem compartilhada)"
+        print(
+            f"  {rotulo:<34} {registro['chamadas']:>8} "
+            f"{formatar_bytes(registro['bytes']):>10} "
+            f"{registro['ms'] / 1000:>8.1f}s{marca}"
+        )
+
+    if len(ordenados) > 15:
+        print(f"  ... e mais {len(ordenados) - 15} atores")
+
+    # Heavy user: quem sozinho responde por fatia desproporcional do total.
+    pessoas = [(k, r) for k, r in ordenados if r["pessoa"]]
+    if pessoas and total_chamadas:
+        maior_chave, maior = pessoas[0]
+        fatia = maior["chamadas"] / total_chamadas
+        print(f"\n  Atores distintos      : {len(atores)}  "
+              f"({len(pessoas)} identificam pessoa)")
+        print(f"  Maior consumidor      : {maior['chamadas']} chamadas "
+              f"({fatia:.0%} do total), {formatar_bytes(maior['bytes'])}")
+        print(f"                          {maior_chave[:56]}")
+        print(f"                          preferidas: "
+              f"{', '.join(t for t, _ in maior['tools'].most_common(3))}")
+        if fatia > 0.5:
+            print("  ⚠ Um único ator responde por mais da metade das chamadas.")
+
+    compartilhado = sum(r["chamadas"] for _, r in ordenados if not r["pessoa"])
+    if compartilhado:
+        print(f"\n  {compartilhado} chamada(s) vieram de origem compartilhada (claude.ai):")
+        print("  o protocolo não expõe o usuário final, então esse consumo é atribuível")
+        print("  à origem, não a uma pessoa.")
+
+
 def relatorio_de_ferramentas(usos: list[dict]) -> None:
     """Mostra quais ferramentas do acervo foram chamadas e quantas acharam algo."""
     chamadas = Counter()
@@ -329,6 +405,7 @@ def main() -> int:
         print("=" * 60)
         print(f"Janela      : {primeiro:%d/%m/%Y %H:%M} a {ultimo:%d/%m/%Y %H:%M} (UTC)")
         relatorio_de_ferramentas(usos)
+        relatorio_de_consumo(usos)
         return 0
 
     clientes = Counter()

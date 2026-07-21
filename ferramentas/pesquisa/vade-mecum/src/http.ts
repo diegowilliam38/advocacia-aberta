@@ -21,6 +21,7 @@ import { createServer, type IncomingMessage, type ServerResponse } from "node:ht
 import { StreamableHTTPServerTransport } from "@modelcontextprotocol/sdk/server/streamableHttp.js";
 import { isInitializeRequest } from "@modelcontextprotocol/sdk/types.js";
 import { buildServer } from "./server.js";
+import { identificarAtor } from "./identidade.js";
 
 const PORT = Number(process.env.PORT ?? 8080);
 const MCP_PATH = process.env.MCP_PATH ?? "/mcp";
@@ -51,11 +52,20 @@ function clientIp(req: IncomingMessage): string {
   return req.socket.remoteAddress ?? "desconhecido";
 }
 
-function excedeuLimite(ip: string): boolean {
+/**
+ * Conta requisições por ATOR, não por IP.
+ *
+ * Por IP, todos os usuários do claude.ai caem no mesmo balde — eles chegam pelo mesmo
+ * endereço da Anthropic. Um único usuário pesado consumia a cota de todos os outros, e
+ * barrá-lo significava barrar todo mundo junto. Quando o cliente identifica o usuário
+ * (hoje só o ChatGPT/Codex, via X-Openai-Subject), o limite passa a valer por pessoa;
+ * nos demais casos a chave continua sendo o IP, como antes.
+ */
+function excedeuLimite(chave: string): boolean {
   const agora = Date.now();
-  const historico = (acessos.get(ip) ?? []).filter((t) => agora - t < JANELA_MS);
+  const historico = (acessos.get(chave) ?? []).filter((t) => agora - t < JANELA_MS);
   historico.push(agora);
-  acessos.set(ip, historico);
+  acessos.set(chave, historico);
   return historico.length > RATE_LIMIT_RPM;
 }
 
@@ -143,7 +153,17 @@ const httpServer = createServer(async (req, res) => {
   }
 
   const ip = clientIp(req);
-  if (excedeuLimite(ip)) {
+  const ator = identificarAtor(req, ip);
+  if (excedeuLimite(ator.chave)) {
+    console.log(
+      JSON.stringify({
+        evento: "limite_excedido",
+        ts: new Date().toISOString(),
+        ator: ator.chave,
+        cliente: ator.cliente,
+        pessoa: ator.identificaPessoa,
+      }),
+    );
     return responderJson(res, 429, erroRpc("Limite de requisições excedido. Tente novamente em instantes."));
   }
 
@@ -175,7 +195,11 @@ const httpServer = createServer(async (req, res) => {
             ultimaAtividade.delete(transport.sessionId);
           }
         };
-        const server = buildServer();
+        const server = buildServer({
+          ator: ator.chave,
+          cliente: ator.cliente,
+          identificaPessoa: ator.identificaPessoa,
+        });
         await server.connect(transport);
         await transport.handleRequest(req, res, corpo);
         return;

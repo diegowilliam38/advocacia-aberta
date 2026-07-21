@@ -83,9 +83,20 @@ const ANOTACOES_LEITURA = {
 // recolhe as duas:  journalctl -u vade-mecum-mcp | grep uso_ferramenta
 const SEM_RESULTADO = /^Nenhum[ao]?\s/;
 
+/**
+ * Quem está do outro lado da sessão. Preenchido pelo entrypoint HTTP; no uso local
+ * (stdio) não existe ator remoto e o campo fica ausente.
+ */
+export interface ContextoDeUso {
+  readonly ator: string;
+  readonly cliente: string;
+  readonly identificaPessoa: boolean;
+}
+
 function registrarUso(
   request: CallToolRequest,
-  medida: { ms: number; achou?: boolean; falhou: boolean },
+  medida: { ms: number; bytes: number; achou?: boolean; falhou: boolean },
+  contexto?: ContextoDeUso,
 ): void {
   const args = request.params.arguments ?? {};
   const facetaTexto = (valor: unknown): string | undefined =>
@@ -96,16 +107,22 @@ function registrarUso(
       evento: "uso_ferramenta",
       ts: new Date().toISOString(),
       tool: request.params.name,
+      ator: contexto?.ator,
+      cliente: contexto?.cliente,
+      // Distingue "consumo de uma pessoa" de "consumo de uma origem compartilhada":
+      // sem isso, o relatório somaria usuários distintos do claude.ai como se fossem um.
+      pessoa: contexto ? contexto.identificaPessoa : undefined,
       tribunal: facetaTexto(args.tribunal),
       codigo: facetaTexto(args.codigo),
       achou: medida.achou,
       falhou: medida.falhou || undefined,
       ms: medida.ms,
+      bytes: medida.bytes,
     }),
   );
 }
 
-export function buildServer(): Server {
+export function buildServer(contexto?: ContextoDeUso): Server {
   const server = new Server(
     { name: "vade-mecum", version: "1.0.0" },
     { capabilities: { tools: {} } }
@@ -452,15 +469,18 @@ Use para verificar o texto exato de um dispositivo legal antes de citar.`,
     const inicio = performance.now();
     let achou: boolean | undefined;
     let falhou = false;
+    let bytes = 0;
     try {
       const resposta = await despacharTool(request);
       falhou = resposta.isError === true;
+      const primeiro = resposta.content?.[0];
+      const texto = primeiro?.type === "text" ? primeiro.text : "";
+      // Peso da resposta: é o que o consumo de banda realmente mede.
+      bytes = Buffer.byteLength(texto, "utf8");
       // Busca sem acerto responde com "Nenhuma súmula encontrada…" e afins — é o
       // sinal de que a pergunta não achou nada, e é o que mais interessa medir.
       // Chamada malformada não conta como busca: não houve pesquisa para achar algo.
       if (!falhou) {
-        const primeiro = resposta.content?.[0];
-        const texto = primeiro?.type === "text" ? primeiro.text : "";
         achou = !SEM_RESULTADO.test(texto);
       }
       return resposta;
@@ -468,11 +488,11 @@ Use para verificar o texto exato de um dispositivo legal antes de citar.`,
       falhou = true;
       throw erro;
     } finally {
-      registrarUso(request, {
-        ms: Math.round((performance.now() - inicio) * 10) / 10,
-        achou,
-        falhou,
-      });
+      registrarUso(
+        request,
+        { ms: Math.round((performance.now() - inicio) * 10) / 10, bytes, achou, falhou },
+        contexto,
+      );
     }
   });
 
