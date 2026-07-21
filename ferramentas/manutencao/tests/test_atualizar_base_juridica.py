@@ -1259,7 +1259,10 @@ class EspelhosStjTest(unittest.TestCase):
         self.assertEqual(registro["referenciasLegislativas"], ["LEG:FED LEI:013105 ANO:2015"])
         self.assertEqual(registro["ementa"], "PROCESSUAL CIVIL. Ementa do acórdão.")
         self.assertIn("201900000001", registro["links"]["consultaProcessual"])
-        self.assertIn("000815561", registro["links"]["jurisprudencia"])
+        # Sem link do SCON: o id do dataset CKAN não é o @cod do documento, então o
+        # link antigo caía em busca vazia (BASE-028). A consulta processual por número
+        # de registro é a fonte que abre.
+        self.assertNotIn("jurisprudencia", registro["links"])
 
 
 if __name__ == "__main__":

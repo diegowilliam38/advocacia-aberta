@@ -22,7 +22,6 @@ export interface EspelhoAcordao {
   readonly referenciasLegislativas: readonly string[];
   readonly links: {
     readonly consultaProcessual?: string;
-    readonly jurisprudencia?: string;
   };
 }
 
@@ -111,10 +110,7 @@ export function formatEspelho(item: EspelhoAcordao): string {
   const jurisprudencia = item.jurisprudenciaCitada?.trim()
     ? `\n**Jurisprudência citada:** ${item.jurisprudenciaCitada}`
     : "";
-  const links = [
-    ["Consulta processual", item.links.consultaProcessual],
-    ["Jurisprudência do STJ", item.links.jurisprudencia],
-  ]
+  const links = [["Consulta processual", item.links.consultaProcessual]]
     .filter((entry): entry is [string, string] => Boolean(entry[1]))
     .map(([rotulo, url]) => `- ${rotulo}: ${url}`)
     .join("\n");
