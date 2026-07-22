@@ -1,7 +1,7 @@
 {
   "_meta": {
     "version": "2.0",
-    "generatedAt": "2026-07-19T00:29:27+00:00",
+    "generatedAt": "2026-07-22T23:39:48+00:00",
     "totalTemas": 1462,
     "source": {
       "provenanceStatus": "reproducible_pipeline",
@@ -22,8 +22,8 @@
         }
       },
       "method": "Junção determinística de Temas.csv e Processos.csv por sequencialPrecedente; seleção preferencial do leading case.",
-      "metadata_sha256": "58d7279c2fc2b741b90ab482b20132924f9cd4966a365e94f0583796d8c27111",
-      "collectedAt": "2026-07-19T00:29:27+00:00"
+      "metadata_sha256": "e77aff121bcb043e46cabafb84bd55fac6f8571967977ebab1018ee9b0e47df4",
+      "collectedAt": "2026-07-22T23:39:48+00:00"
     },
     "transformacao": "temas_stj_csv_v1"
   },
@@ -27152,7 +27152,7 @@
     },
     "948": {
       "numero": 948,
-      "situacao": "Trânsito em Julgado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "Partes e Procuradores",
       "assuntos": [
         "Partes e Procuradores",
@@ -38908,7 +38908,7 @@
         "Concessão"
       ],
       "questao": "Definir se é possível a concessão do benefício da remição penal, por aprovação no ENEM/ENCCEJA, quando o sentenciado tenha concluído o ensino médio anteriormente ao início do cumprimento da pena.",
-      "teseFirmada": "É possível a concessão do benefício da remição pena, por aprovação no ENEM ou ENCCEJA, quando o apenado tenha concluído o ensino médio, ou outro grau de instrução superior, anteriormente ao início do cumprimento da pena.",
+      "teseFirmada": "TESE 1: É cabível a remição da pena por aprovação no Exame Nacional do Ensino Médio (ENEM), ainda que o sentenciado tenha concluído o ensino médio anteriormente ao início do cumprimento da pena, pois a aprovação no exame demanda estudo por conta própria e representa fato gerador distinto da mera certificação de conclusão do ensino médio;TESE 2: É cabível a remição da pena pela aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA), ainda que o sentenciado já possuísse, ao ingressar no sistema prisional, certificação de conclusão do mesmo nível de ensino avaliado, pois a aprovação no exame durante o cumprimento da pena configura esforço educacional autônomo apto a justificar a remição;TESE 3: Não é cabível nova remição de pena quando o fato gerador educacional - aprovação em exame ou conclusão de nível de ensino - já tiver sido integralmente utilizado para remição anteriormente concedida na mesma execução penal, configurando-se, na hipótese, indevido bis in idem.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2072985/DF",
       "relator": "CARLOS CINI MARCHIONATTI (DESEMBARGADOR CONVOCADO TJRS)",
