@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test";
 
 import { CODIGOS_DISPONIVEIS } from "./search/legislacao.js";
+import { normalizarTribunal } from "./search/sumulas.js";
 
 interface ToolMCP {
   name: string;
@@ -17,6 +18,8 @@ interface RespostaMCP {
   result?: {
     tools?: ToolMCP[];
     serverInfo?: { name?: string; version?: string };
+    content?: Array<{ type: string; text?: string }>;
+    isError?: boolean;
   };
 }
 
@@ -101,4 +104,79 @@ test("MCP anuncia cobertura e contagens derivadas dos dados", async () => {
   expect(descricoes).not.toContain("fontes primárias");
   expect(descricoes).not.toContain("Força: ORIENTATIVA");
   expect(descricoes).not.toContain("força persuasiva");
+});
+
+test("filtro de tribunal aceita qualquer caixa e recusa valor desconhecido", () => {
+  expect(normalizarTribunal("stj")).toBe("STJ");
+  expect(normalizarTribunal("STJ")).toBe("STJ");
+  expect(normalizarTribunal(" Stj ")).toBe("STJ");
+  expect(normalizarTribunal("stf")).toBe("STF");
+  expect(normalizarTribunal("VINCULANTE")).toBe("vinculante");
+  expect(normalizarTribunal("todos")).toBe("todos");
+  expect(normalizarTribunal("")).toBe("todos");
+  // Valor irreconhecível precisa virar erro explícito, não busca em tudo.
+  expect(normalizarTribunal("tjpr")).toBeNull();
+  expect(normalizarTribunal("supremo")).toBeNull();
+});
+
+test("buscar_sumula com tribunal em minúsculas devolve o mesmo que em maiúsculas", async () => {
+  const raizMotor = new URL("..", import.meta.url).pathname;
+  const processo = Bun.spawn(["bun", "run", "src/index.ts"], {
+    cwd: raizMotor,
+    stdin: "pipe",
+    stdout: "pipe",
+    stderr: "pipe",
+  });
+
+  const chamada = (id: number, tribunal: string) => ({
+    jsonrpc: "2.0",
+    id,
+    method: "tools/call",
+    params: { name: "buscar_sumula", arguments: { query: "dano moral", tribunal, limit: 1 } },
+  });
+
+  const mensagens = [
+    {
+      jsonrpc: "2.0",
+      id: 1,
+      method: "initialize",
+      params: {
+        protocolVersion: "2025-06-18",
+        capabilities: {},
+        clientInfo: { name: "teste", version: "1.0" },
+      },
+    },
+    { jsonrpc: "2.0", method: "notifications/initialized" },
+    chamada(2, "STJ"),
+    chamada(3, "stj"),
+    chamada(4, "tjpr"),
+  ];
+
+  processo.stdin.write(mensagens.map((item) => JSON.stringify(item)).join("\n"));
+  processo.stdin.write("\n");
+  processo.stdin.end();
+
+  const [stdout, stderr, exitCode] = await Promise.all([
+    new Response(processo.stdout).text(),
+    new Response(processo.stderr).text(),
+    processo.exited,
+  ]);
+  expect(exitCode, stderr).toBe(0);
+
+  const respostas = stdout
+    .trim()
+    .split("\n")
+    .map((linha) => JSON.parse(linha) as RespostaMCP);
+  const texto = (id: number) => respostas.find((r) => r.id === id)?.result?.content?.[0]?.text ?? "";
+
+  expect(texto(2)).toContain("SÚMULA STJ");
+  expect(texto(3)).toBe(texto(2));
+  expect(texto(3)).not.toContain("Nenhuma súmula");
+
+  // Tribunal inexistente avisa, em vez de devolver busca vazia como se nada existisse.
+  expect(texto(4)).toContain("Tribunal indisponível");
+  expect(respostas.find((r) => r.id === 4)?.result?.isError).toBe(true);
+
+  // A telemetria vai para stderr; o stdout do stdio é só protocolo.
+  expect(stderr).toContain("uso_ferramenta");
 });
