@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_loas.json",
       "colecao": "artigos",
-      "sha256": "cd15c2ae52225124a2657187995f0282ef94eefc370c7cc634f1965878261b0b",
+      "sha256": "e8231c772a729b9bb583063b5472f49a8739949b8c425a65387272e8ba604e70",
       "total_registros": 71,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:33+00:00"
     },
     "relacao": {
       "chave": "numero",

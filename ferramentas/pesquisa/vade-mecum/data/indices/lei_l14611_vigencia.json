@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l14611.json",
       "colecao": "artigos",
-      "sha256": "d3ac63bbdf9976ce8963c7d96934ac8e135cbdc576af499e96cd5b395649bd73",
+      "sha256": "b8d356727bdf4f0a0917fe9601cc6a4b04e4fc120f1c2d0e6e998ec8d1fd21fc",
       "total_registros": 7,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:34+00:00"
     },
     "relacao": {
       "chave": "numero",

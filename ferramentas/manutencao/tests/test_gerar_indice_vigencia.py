@@ -206,14 +206,14 @@ class IndicePublicadoTest(unittest.TestCase):
                     eventos += 1
                     if evento["diploma"] is None:
                         sem_diploma += 1
-        self.assertEqual(artigos, 7309)
-        self.assertEqual(eventos, 32074)
-        self.assertEqual(situacoes.get("revogado"), 866)
+        self.assertEqual(artigos, 7319)
+        self.assertEqual(eventos, 32144)
+        self.assertEqual(situacoes.get("revogado"), 872)
         self.assertEqual(situacoes.get("vetado"), 395)
         self.assertEqual(situacoes.get("vigencia_encerrada"), 33)
         # Sem diploma nomeado é o marcador seco da fonte — "(Revogado)",
         # "(VETADO)", "(Vigência)" —, não falha de extração.
-        self.assertEqual(sem_diploma, 4990)
+        self.assertEqual(sem_diploma, 5001)
 
 
 if __name__ == "__main__":

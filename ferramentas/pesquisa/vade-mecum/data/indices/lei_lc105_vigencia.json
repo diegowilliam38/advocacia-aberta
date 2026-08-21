@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_lc105.json",
       "colecao": "artigos",
-      "sha256": "e873b0fffe2954a8c60c77e9174af8962c27dec599ffa7f9eb7f3e43111d9674",
+      "sha256": "ac9c7371749e05ee5801ef8781287050fb34c74c099ab3876cb15189869124c3",
       "total_registros": 13,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:32+00:00"
     },
     "relacao": {
       "chave": "numero",

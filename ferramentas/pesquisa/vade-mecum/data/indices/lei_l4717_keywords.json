@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_l4717.json",
       "colecao": "artigos",
-      "sha256": "d3f2965ab2458b728ebd5bdb1a798f7a6fa94c72e6c6fc27a66e84c2ccdb5dab",
+      "sha256": "946f8cab664d1dabc0e855febd1bc7fc56e3f2f18dbd6f9c0b7c9cba7295f6e9",
       "total_registros": 22,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:29+00:00"
     },
     "relacao": {
       "chave": "numero",

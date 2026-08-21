@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_l14063.json",
       "colecao": "artigos",
-      "sha256": "3cde3f404c559d66efd206069d07f445ce1cc8fab9dc0cd893f02577f40577fb",
+      "sha256": "ef5bcfadc1fcf785b2a41547e00269f6c228c8da62e722af8e3d5fa453f9226f",
       "total_registros": 21,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:29+00:00"
     },
     "relacao": {
       "chave": "numero",

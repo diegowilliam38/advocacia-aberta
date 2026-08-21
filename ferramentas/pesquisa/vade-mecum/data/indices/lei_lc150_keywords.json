@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_lc150.json",
       "colecao": "artigos",
-      "sha256": "f05c3dcdd13ff2863ba1859d73bf3821cca187bab8bf2689222d3d97671eb3ce",
+      "sha256": "429b3266e2cfa5f199914430a2cdbb056c5f32b2b4de68f941794b8d740555f2",
       "total_registros": 48,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:34+00:00"
     },
     "relacao": {
       "chave": "numero",

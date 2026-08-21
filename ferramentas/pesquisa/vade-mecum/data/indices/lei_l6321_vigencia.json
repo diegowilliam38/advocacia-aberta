@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l6321.json",
       "colecao": "artigos",
-      "sha256": "f93711bf2e934f1288fa1f32b7a4b5535630695a0585a640bd1ce73cacfc01b4",
+      "sha256": "38e2b533baf50e8a6d869c8ae113d4c3860cf0d6d570bcd86a6180435c37caf4",
       "total_registros": 7,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:34+00:00"
     },
     "relacao": {
       "chave": "numero",

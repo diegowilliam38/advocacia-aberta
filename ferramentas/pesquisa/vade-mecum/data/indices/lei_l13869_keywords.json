@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_l13869.json",
       "colecao": "artigos",
-      "sha256": "0f3aa37a53b974c9d612e5ced1be450620c5dcc911552e5693b7a875664001f7",
+      "sha256": "a918ca1c9e332f632e4c3f96c3068df09754632333b69bb09ea4c45eb3e9a945",
       "total_registros": 46,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:32+00:00"
     },
     "relacao": {
       "chave": "numero",

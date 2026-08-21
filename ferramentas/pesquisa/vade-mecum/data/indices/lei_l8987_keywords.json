@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_l8987.json",
       "colecao": "artigos",
-      "sha256": "bd133b0f4fc31fec536a78502ff0f10444f114da604026173b58f2450c1fca24",
+      "sha256": "0ce1eef45f257c64e2ecf26810c8dc9884c8deb5ac149723b5c7eb54cf6563c8",
       "total_registros": 52,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:29+00:00"
     },
     "relacao": {
       "chave": "numero",

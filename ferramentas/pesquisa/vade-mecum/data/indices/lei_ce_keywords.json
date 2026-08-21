@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_ce.json",
       "colecao": "artigos",
-      "sha256": "0f283e241bca594383147a6890f790140e0dee426ff45ad3a4d032ed788a9632",
+      "sha256": "55ddde37e6921394617d51c85394ada180ee02959397f5dace8c3912eb0434dd",
       "total_registros": 387,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:09+00:00"
     },
     "relacao": {
       "chave": "numero",
@@ -383,8 +383,8 @@
     "345": "art 345 nao cumprir autoridade judiciaria qualquer funcionario dos orgaos justica eleitoral nos prazos legais deveres impostos por este codigo infracao estiver sujeita outra penalidade redacao dada pela lei 961 1966 pena pagamento trinta noventa dias multa",
     "346": "art 346 violar disposto 377 pena detencao ate seis meses pagamento dias multa paragrafo unico incorrerao alem autoridade responsavel servidores que prestarem servicos candidatos membros diretores partido derem causa infracao",
     "347": "art 347 recusar alguem cumprimento obediencia diligencias ordens instrucoes justica eleitoral opor embaracos sua execucao pena detencao tres meses ano pagamento dias multa",
-    "348": "art 348 falsificar todo parte documento publico alterar verdadeiro para fins eleitorais pena reclusao dois seis anos pagamento dias multa agente funcionario comete crime prevalecendo cargo agravada efeitos penais equipara emanado entidade paraestatal inclusive fundacao estado 349 particular ate cinco",
-    "349": "art 349 falsificar todo parte documento particular alterar verdadeiro para fins eleitorais pena reclusao ate cinco anos pagamento tres dez dias multa",
+    "348": "art 348 falsificar todo parte documento publico alterar verdadeiro para fins eleitorais pena reclusao dois seis anos pagamento dias multa agente funcionario comete crime prevalecendo cargo agravada efeitos penais equipara emanado entidade paraestatal inclusive fundacao estado",
+    "349": "art 349 falsificar todo parte documento particular alterar verdadeiro para fins eleitorais pena reclusao ate cinco anos pagamento dias multa",
     "350": "art 350 omitir documento publico particular declaracao que dele devia constar nele inserir fazer falsa diversa ser escrita para fins eleitorais pena reclusao ate cinco anos pagamento dias multa tres paragrafo unico agente falsidade documental funcionario comete crime prevalecendo cargo falsificacao alteracao assentamentos registro civil agravada",
     "351": "art 351 equipara documento 348 349 350 para efeitos penais fotografia filme cinematografico disco fonografico fita ditafone que incorpore declaracao imagem destinada prova fato juridicamente relevante 352 reconhecer como verdadeira exercicio funcao publica firma letra nao seja fins eleitorais pena reclusao ate cinco anos pagamento dias multa publico tres particular",
     "352": "art 352 reconhecer como verdadeira exercicio funcao publica firma letra que nao seja para fins eleitorais pena reclusao ate cinco anos pagamento dias multa documento publico tres particular",

@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_adct.json",
       "colecao": "artigos",
-      "sha256": "bd9a3b842e8e8050c3adee9ad573f00abe41c328783cd470aa802f8a8b8c18f4",
+      "sha256": "2fa7f349b457fdcae662e499ebb7215b830ea4a2c85612ff77386fe22e21b6bc",
       "total_registros": 148,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:08+00:00"
     },
     "relacao": {
       "chave": "numero",

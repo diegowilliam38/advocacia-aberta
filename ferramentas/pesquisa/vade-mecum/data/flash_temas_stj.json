@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": "2.0",
-    "generatedAt": "2026-07-29T19:41:49+00:00",
-    "totalTemas": 1462,
+    "generatedAt": "2026-08-21T22:36:24+00:00",
+    "totalTemas": 1468,
     "source": {
       "provenanceStatus": "reproducible_pipeline",
       "dataset": "Precedentes qualificados — Portal de Dados Abertos do STJ",
@@ -22,8 +22,8 @@
         }
       },
       "method": "Junção determinística de Temas.csv e Processos.csv por sequencialPrecedente; seleção preferencial do leading case.",
-      "metadata_sha256": "ebb4ebfa0235f8f9001cd5a9295a56dd85ee21b835b645e7e0b8c4493e932201",
-      "collectedAt": "2026-07-29T19:41:49+00:00"
+      "metadata_sha256": "9d3857693e090f3759c8e0e7ee7226f46089624009a91ce66b7d0cdf431abb7b",
+      "collectedAt": "2026-08-21T22:36:24+00:00"
     },
     "transformacao": "temas_stj_csv_v1"
   },
@@ -5062,7 +5062,7 @@
       "teseFirmada": "A ação penal nos crimes de lesão corporal leve cometidos em detrimento da mulher, no âmbito doméstico e familiar, é pública incondicionada.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "Pet 11805/DF",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "09/06/2009",
       "dataJulgamento": "24/02/2010",
       "links": {
@@ -12728,7 +12728,7 @@
       "teseFirmada": "Primeira tese: É recomendável que cada autorização de saída temporária do preso seja precedida de decisão judicial motivada. Entretanto, se a apreciação individual do pedido estiver, por deficiência exclusiva do aparato estatal, a interferir no direito subjetivo do apenado e no escopo ressocializador da pena, deve ser reconhecida, excepcionalmente, a possibilidade de fixação de calendário anual de saídas temporárias por ato judicial único, observadas as hipóteses de revogação automática do art. 125 da LEP. Segunda tese: O calendário prévio das saídas temporárias deverá ser fixado, obrigatoriamente, pelo Juízo das Execuções, não se lhe permitindo delegar à autoridade prisional a escolha das datas específicas nas quais o apenado irá usufruir os benefícios. Inteligência da Súmula n. 520 do STJ. Terceira tese: Respeitado o limite anual de 35 dias, estabelecido pelo art. 124 da LEP, é cabível a concessão de maior número de autorizações de curta duração. Quarta tese: As autorizações de saída temporária para visita à família e para participação em atividades que concorram para o retorno ao convívio social, se limitadas a cinco vezes durante o ano, deverão observar o prazo mínimo de 45 dias de intervalo entre uma e outra. Na hipótese de maior número de saídas temporárias de curta duração, já intercaladas durante os doze meses do ano e muitas vezes sem pernoite, não se exige o intervalo previsto no art. 124, § 3°, da LEP.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1544036/RJ",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "05/11/2010",
       "dataJulgamento": "14/03/2012",
       "links": {
@@ -19374,7 +19374,7 @@
     },
     "677": {
       "numero": 677,
-      "situacao": "Acórdão Publicado - RE Pendente",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Espécies de Contratos",
       "assuntos": [
         "Espécies de Contratos"
@@ -26203,7 +26203,7 @@
       "teseFirmada": "Consuma-se o crime de roubo com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1499050/RJ",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "09/02/2015",
       "dataJulgamento": "14/10/2015",
       "links": {
@@ -26233,7 +26233,7 @@
       "teseFirmada": "É possível a remição de parte do tempo de execução da pena quando o condenado, em regime fechado ou semiaberto, desempenha atividade laborativa extramuros.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1381315/RJ",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "10/02/2015",
       "dataJulgamento": "13/05/2015",
       "links": {
@@ -26264,7 +26264,7 @@
       "teseFirmada": "Para a caracterização do crime de estupro de vulnerável previsto no art. 217-A, caput, do Código Penal, basta que o agente tenha conjunção carnal ou pratique qualquer ato libidinoso com pessoa menor de 14 anos. O consentimento da vítima, sua eventual experiência sexual anterior ou a existência de relacionamento amoroso entre o agente e a vítima não afastam a ocorrência do crime.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1480881/PI",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "10/02/2015",
       "dataJulgamento": "26/08/2015",
       "links": {
@@ -26324,7 +26324,7 @@
       "teseFirmada": "Se descumpridas as condições impostas durante o período de prova da suspensão condicional do processo, o benefício poderá ser revogado, mesmo se já ultrapassado o prazo legal, desde que referente a fato ocorrido durante sua vigência.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1498034/RS",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "28/05/2015",
       "dataJulgamento": "25/11/2015",
       "links": {
@@ -26443,7 +26443,7 @@
       "teseFirmada": "A existência de sistema de segurança ou de vigilância eletrônica não torna impossível, por si só, o crime de furto cometido no interior de estabelecimento comercial.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1385621/MG",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "24/04/2015",
       "dataJulgamento": "27/05/2015",
       "links": {
@@ -26502,7 +26502,7 @@
       "teseFirmada": "É suficiente, para a comprovação da materialidade do delito previsto no art. 184, § 2º, do Código Penal, a perícia realizada, por amostragem, sobre os aspectos externos do material apreendido, sendo desnecessária a identificação dos titulares dos direitos autorais violados ou de quem os represente.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1456239/MG",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "11/05/2015",
       "dataJulgamento": "12/08/2015",
       "links": {
@@ -26624,7 +26624,7 @@
       "teseFirmada": "Não há óbice a que se estabeleçam, no prudente uso da faculdade judicial disposta no art. 89, § 2º, da Lei n. 9.099/1995, obrigações equivalentes, do ponto de vista prático, a sanções penais (tais como a prestação de serviços comunitários ou a prestação pecuniária), mas que, para os fins do sursis processual, se apresentam tão somente como condições para sua incidência.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1498034/RS",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "28/05/2015",
       "dataJulgamento": "25/11/2015",
       "links": {
@@ -26651,7 +26651,7 @@
       "teseFirmada": "O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2090454/SP",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "28/05/2015",
       "dataJulgamento": "26/08/2015",
       "links": {
@@ -27488,7 +27488,7 @@
       "teseFirmada": "O termo inicial da contagem do prazo para impugnar decisão judicial é, para o Ministério Público, a data da entrega dos autos na repartição administrativa do órgão, sendo irrelevante que a intimação pessoal tenha se dado em audiência, em cartório ou por mandado.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1349935/PE",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "16/09/2016",
       "dataJulgamento": "23/08/2017",
       "links": {
@@ -27748,8 +27748,8 @@
         "DIREITO CIVIL",
         "Obrigações",
         "Espécies de Contratos",
-        "Juros de Mora - Legais / Contratuais",
-        "Mútuo"
+        "Mútuo",
+        "Juros de Mora - Legais / Contratuais"
       ],
       "questao": "i. Cabimento ou não da incidência de juros remuneratórios na repetição de indébito apurado em favor do mutuário de contrato de mútuo feneratício; ii. taxa de juros remuneratórios a ser aplicada na hipótese do item anterior.",
       "teseFirmada": "Descabimento da repetição do indébito com os mesmos encargos do contrato.",
@@ -27960,8 +27960,8 @@
       "ramo": "DIREITO PREVIDENCIÁRIO",
       "assuntos": [
         "DIREITO PREVIDENCIÁRIO",
-        "Aposentadoria por Tempo de Serviço (Art. 52/4)",
-        "Decadência/Prescrição"
+        "Decadência/Prescrição",
+        "Aposentadoria por Tempo de Serviço (Art. 52/4)"
       ],
       "questao": "Questão atinente à incidência do prazo decadencial sobre o direito de revisão do ato de concessão de benefício previdenciário do regime geral (art. 103 da Lei 8.213/1991) nas hipóteses em que o ato administrativo da autarquia previdenciária não apreciou o mérito do objeto da revisão.",
       "teseFirmada": "Aplica-se o prazo decadencial de dez anos estabelecido no art. 103, caput, da Lei 8.213/1991 às hipóteses em que a questão controvertida não foi apreciada no ato administrativo de análise de concessão de benefício previdenciário.",
@@ -28207,7 +28207,7 @@
       "teseFirmada": "Nos casos de violência contra a mulher praticados no âmbito doméstico e familiar, é possível a fixação de valor mínimo indenizatório a título de dano moral, desde que haja pedido expresso da acusação ou da parte ofendida, ainda que não especificada a quantia, e independentemente de instrução probatória.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1643051/MS",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "04/10/2017",
       "dataJulgamento": "28/02/2018",
       "links": {
@@ -28234,7 +28234,7 @@
       "teseFirmada": "1ª) As tabelas de honorários elaboradas unilateralmente pelos Conselhos Seccionais da OAB não vinculam o magistrado no momento de arbitrar o valor da remuneração a que faz jus o defensor dativo que atua no processo penal; servem como referência para o estabelecimento de valor que seja justo e que reflita o labor despendido pelo advogado;2ª) Nas hipóteses em que o juiz da causa considerar desproporcional a quantia indicada na tabela da OAB em relação aos esforços despendidos pelo defensor dativo para os atos processuais praticados, poderá, motivadamente, arbitrar outro valor;3ª) São, porém, vinculativas, quanto aos valores estabelecidos para os atos praticados por defensor dativo, as tabelas produzidas mediante acordo entre o Poder Público, a Defensoria Pública e a seccional da OAB.4ª) Dado o disposto no art. 105, parágrafo único, II, da Constituição da República, possui caráter vinculante a Tabela de Honorários da Justiça Federal, assim como tabelas similares instituídas, eventualmente, pelos órgãos competentes das Justiças dos Estados e do Distrito Federal, na forma dos arts 96, I, e 125, § 1º, parte final, da Constituição da República.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1656322/SC",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "22/11/2017",
       "dataJulgamento": "23/10/2019",
       "links": {
@@ -28881,7 +28881,7 @@
       "teseFirmada": "A unificação de penas não enseja a alteração da data-base para concessão de novos benefícios executórios.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1753512/PR",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "18/12/2018",
       "dataJulgamento": "18/12/2018",
       "links": {
@@ -29513,7 +29513,7 @@
       "teseFirmada": "",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1825622/SP",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "",
       "dataJulgamento": "",
       "links": {
@@ -30256,7 +30256,7 @@
       "teseFirmada": "Para ensejar a aplicação de causa de aumento de pena prevista no art. 40, VI, da Lei n. 11.343/2006 ou a condenação pela prática do crime previsto no art. 244-B da Lei n. 8.069/1990, a qualificação do menor, constante do boletim de ocorrência, deve trazer dados indicativos de consulta a documento hábil - como o número do documento de identidade, do CPF ou de outro registro formal, tal como a certidão de nascimento.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1619265/MG",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "07/04/2020",
       "dataJulgamento": "07/04/2020",
       "links": {
@@ -31182,7 +31182,7 @@
       "teseFirmada": "É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1910240/MG",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "23/03/2021",
       "dataJulgamento": "26/05/2021",
       "links": {
@@ -31844,7 +31844,7 @@
       "teseFirmada": "",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2249202/RS",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "19/04/2026",
       "dataJulgamento": "",
       "links": {
@@ -32391,7 +32391,7 @@
       "teseFirmada": "",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1962736/SP",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "04/02/2022",
       "dataJulgamento": "",
       "links": {
@@ -33444,7 +33444,7 @@
       "teseFirmada": "",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 1990972/MG",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "01/09/2022",
       "dataJulgamento": "",
       "links": {
@@ -34415,7 +34415,7 @@
     },
     "1198": {
       "numero": 1198,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "Empréstimo consignado",
       "assuntos": [
         "Empréstimo consignado"
@@ -36427,7 +36427,7 @@
       "teseFirmada": "No rito especial que visa apurar a prática de ato infracional, além da audiência de apresentação do adolescente prevista no art. 184 do ECA, aplica-se subsidiariamente o art. 400 do CPP, de modo que, em acréscimo, é preciso garantir ao adolescente o interrogatório ao final da instrução. A inobservância desse procedimento implicará nulidade se o prejuízo à autodefesa for informado pela parte na primeira oportunidade que tiver para se manifestar nos autos, sob pena de preclusão. O entendimento é aplicável aos feitos com instrução encerrada após 3/3/2016.",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2088626/RS",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "03/07/2024",
       "dataJulgamento": "08/10/2025",
       "links": {
@@ -36454,7 +36454,7 @@
       "teseFirmada": "",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2101592/SP",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "03/07/2024",
       "dataJulgamento": "",
       "links": {
@@ -36527,7 +36527,7 @@
     },
     "1273": {
       "numero": 1273,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "ICMS/Importação",
       "assuntos": [
         "ICMS/Importação"
@@ -36807,7 +36807,7 @@
     },
     "1283": {
       "numero": 1283,
-      "situacao": "Acórdão Publicado - RE Pendente",
+      "situacao": "Trânsito em Julgado",
       "ramo": "PIS - Cofins",
       "assuntos": [
         "PIS - Cofins"
@@ -37110,7 +37110,7 @@
     },
     "1294": {
       "numero": 1294,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "Multas e demais Sanções",
       "assuntos": [
         "Multas e demais Sanções",
@@ -37763,7 +37763,7 @@
     },
     "1317": {
       "numero": 1317,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "ICMS/ Imposto sobre Circulação de Mercadorias",
       "assuntos": [
         "ICMS/ Imposto sobre Circulação de Mercadorias",
@@ -38162,7 +38162,7 @@
       "teseFirmada": "",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2150091/AL",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "22/04/2025",
       "dataJulgamento": "",
       "links": {
@@ -38193,7 +38193,7 @@
       "teseFirmada": "",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2074518/MG",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "22/04/2025",
       "dataJulgamento": "",
       "links": {
@@ -38344,7 +38344,7 @@
       "teseFirmada": "",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2188922/MG",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "05/05/2025",
       "dataJulgamento": "18/06/2026",
       "links": {
@@ -38787,7 +38787,7 @@
     },
     "1353": {
       "numero": 1353,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "Crimes contra a Ordem Tributária",
       "assuntos": [
         "Crimes contra a Ordem Tributária",
@@ -38845,7 +38845,7 @@
     },
     "1355": {
       "numero": 1355,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Pena Privativa de Liberdade",
       "assuntos": [
         "Pena Privativa de Liberdade",
@@ -39596,7 +39596,7 @@
       "teseFirmada": "",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2192373/RN",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "18/09/2025",
       "dataJulgamento": "",
       "links": {
@@ -39624,7 +39624,7 @@
       "teseFirmada": "",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2052194/MG",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "18/09/2025",
       "dataJulgamento": "",
       "links": {
@@ -39642,19 +39642,19 @@
     },
     "1383": {
       "numero": 1383,
-      "situacao": "Afetado",
+      "situacao": "Mérito Julgado",
       "ramo": "Extinção da Punibilidade",
       "assuntos": [
         "Extinção da Punibilidade",
         "Pena de Multa"
       ],
       "questao": "Definir se é possível a penhora de pecúlio do condenado para pagamento de pena de multa, diante da alegação de impenhorabilidade das verbas de natureza alimentar.",
-      "teseFirmada": "",
+      "teseFirmada": "*Aguardando a publicação do acórdão do julgamento de mérito",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2204874/SP",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "18/09/2025",
-      "dataJulgamento": "",
+      "dataJulgamento": "12/08/2026",
       "links": {
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1383&cod_tema_final=1383",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222204874%22&O=JT",
@@ -39945,7 +39945,7 @@
     },
     "1394": {
       "numero": 1394,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Homicídio Qualificado",
       "assuntos": [
         "Homicídio Qualificado"
@@ -40137,7 +40137,7 @@
     },
     "1401": {
       "numero": 1401,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "Fundo de Participação dos Municípios",
       "assuntos": [
         "Fundo de Participação dos Municípios"
@@ -40164,7 +40164,7 @@
     },
     "1402": {
       "numero": 1402,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "Revisão/Desconstituição de Ato Administrativo",
       "assuntos": [
         "Revisão/Desconstituição de Ato Administrativo",
@@ -40202,7 +40202,7 @@
       "teseFirmada": "",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2225548/PA",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "22/12/2025",
       "dataJulgamento": "",
       "links": {
@@ -40356,7 +40356,7 @@
     },
     "1410": {
       "numero": 1410,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Trânsito em Julgado",
       "ramo": "Pagamento em Pecúnia",
       "assuntos": [
         "Pagamento em Pecúnia"
@@ -40592,7 +40592,7 @@
     },
     "1421": {
       "numero": 1421,
-      "situacao": "Acórdão Publicado",
+      "situacao": "Acórdão Publicado - RE Pendente",
       "ramo": "Parcelas de benefício não pagas",
       "assuntos": [
         "Parcelas de benefício não pagas",
@@ -40873,7 +40873,7 @@
       "teseFirmada": "",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2218010/PI",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "18/05/2026",
       "dataJulgamento": "",
       "links": {
@@ -41344,7 +41344,7 @@
       "teseFirmada": "",
       "orgaoJulgador": "Terceira Seção",
       "processo": "REsp 2266131/BA",
-      "relator": "ROGERIO SCHIETTI CRUZ",
+      "relator": "ROGERIO SCHIETTI",
       "dataAfetacao": "26/06/2026",
       "dataJulgamento": "",
       "links": {
@@ -41456,6 +41456,128 @@
         "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1462&cod_tema_final=1462",
         "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%226153%22&O=JT",
         "consultaProcessual": "https://processo.stj.jus.br/processo/pesquisa/?aplicacao=processos.ea&tipoPesquisa=tipoPesquisaNumeroRegistro&termo=202601621803"
+      }
+    },
+    "1463": {
+      "numero": 1463,
+      "situacao": "Afetado",
+      "ramo": "Tratamento médico-hospitalar",
+      "assuntos": [
+        "Tratamento médico-hospitalar"
+      ],
+      "questao": "Definir a obrigatoriedade de custeio de musicoterapia, pela operadora de plano de saúde, em favor de beneficiário com transtorno do espectro autista.",
+      "teseFirmada": "",
+      "orgaoJulgador": "Segunda Seção",
+      "processo": "REsp 2242804/AC",
+      "relator": "RAUL ARAÚJO",
+      "dataAfetacao": "03/08/2026",
+      "dataJulgamento": "",
+      "links": {
+        "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1463&cod_tema_final=1463",
+        "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222242804%22&O=JT",
+        "consultaProcessual": "https://processo.stj.jus.br/processo/pesquisa/?aplicacao=processos.ea&tipoPesquisa=tipoPesquisaNumeroRegistro&termo=202504293667"
+      }
+    },
+    "1464": {
+      "numero": 1464,
+      "situacao": "Afetado",
+      "ramo": "Abatimento proporcional do preço",
+      "assuntos": [
+        "Abatimento proporcional do preço"
+      ],
+      "questao": "Definir o percentual e a respectiva base de cálculo dos valores que o vendedor poderá reter na rescisão, por iniciativa e culpa do comprador/consumidor, de contratos de compra e venda de imóvel não edificado (lote/terreno) firmados posteriormente à vigência da Lei nº 13.786/2018 (Lei do Distrato).",
+      "teseFirmada": "",
+      "orgaoJulgador": "Segunda Seção",
+      "processo": "REsp 2255394/MA",
+      "relator": "RICARDO VILLAS BÔAS CUEVA",
+      "dataAfetacao": "04/08/2026",
+      "dataJulgamento": "",
+      "links": {
+        "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1464&cod_tema_final=1464",
+        "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222255394%22&O=JT",
+        "consultaProcessual": "https://processo.stj.jus.br/processo/pesquisa/?aplicacao=processos.ea&tipoPesquisa=tipoPesquisaNumeroRegistro&termo=202600274500"
+      }
+    },
+    "1465": {
+      "numero": 1465,
+      "situacao": "Afetado",
+      "ramo": "Rescisão do contrato e devolução do dinheiro",
+      "assuntos": [
+        "Rescisão do contrato e devolução do dinheiro"
+      ],
+      "questao": "Definir o percentual e a respectiva base de cálculo dos valores que o vendedor poderá reter na rescisão, por iniciativa e culpa do comprador/consumidor, de contratos de compra e venda de imóvel firmados anteriormente à vigência da Lei nº 13.786/2018 (Lei do Distrato).",
+      "teseFirmada": "",
+      "orgaoJulgador": "Segunda Seção",
+      "processo": "REsp 2255393/MA",
+      "relator": "RICARDO VILLAS BÔAS CUEVA",
+      "dataAfetacao": "04/08/2026",
+      "dataJulgamento": "",
+      "links": {
+        "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1465&cod_tema_final=1465",
+        "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222255393%22&O=JT",
+        "consultaProcessual": "https://processo.stj.jus.br/processo/pesquisa/?aplicacao=processos.ea&tipoPesquisa=tipoPesquisaNumeroRegistro&termo=202600273336"
+      }
+    },
+    "1466": {
+      "numero": 1466,
+      "situacao": "Afetado",
+      "ramo": "Promessa de Compra e Venda",
+      "assuntos": [
+        "Promessa de Compra e Venda"
+      ],
+      "questao": "Definir se, nos contratos de compra e venda de imóveis submetidos a regime de patrimônio de afetação e firmados após a vigência da Lei nº 13.786/2018 (Lei do Distrato), a rescisão por inadimplemento do comprador autoriza o vendedor a reter até 50% (cinquenta por cento) das quantias pagas, nos termos do art. 67-A, § 5º, da Lei nº 4.591/1964.",
+      "teseFirmada": "",
+      "orgaoJulgador": "Segunda Seção",
+      "processo": "REsp 2258565/SP",
+      "relator": "RICARDO VILLAS BÔAS CUEVA",
+      "dataAfetacao": "04/08/2026",
+      "dataJulgamento": "",
+      "links": {
+        "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1466&cod_tema_final=1466",
+        "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222258565%22&O=JT",
+        "consultaProcessual": "https://processo.stj.jus.br/processo/pesquisa/?aplicacao=processos.ea&tipoPesquisa=tipoPesquisaNumeroRegistro&termo=202600497587"
+      }
+    },
+    "1467": {
+      "numero": 1467,
+      "situacao": "Afetado",
+      "ramo": "Indenização por Dano Moral",
+      "assuntos": [
+        "Indenização por Dano Moral",
+        "Obrigação de Fazer / Não Fazer"
+      ],
+      "questao": "Definir se a demora injustificada ou indevida da operadora de plano de saúde em autorizar o tratamento prescrito pelo médico equipara-se à recusa indevida de cobertura para fins de aplicação do Tema 1.365.",
+      "teseFirmada": "",
+      "orgaoJulgador": "Segunda Seção",
+      "processo": "REsp 2223773/MA",
+      "relator": "RICARDO VILLAS BÔAS CUEVA",
+      "dataAfetacao": "04/08/2026",
+      "dataJulgamento": "",
+      "links": {
+        "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1467&cod_tema_final=1467",
+        "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222223773%22&O=JT",
+        "consultaProcessual": "https://processo.stj.jus.br/processo/pesquisa/?aplicacao=processos.ea&tipoPesquisa=tipoPesquisaNumeroRegistro&termo=202502649312"
+      }
+    },
+    "1468": {
+      "numero": 1468,
+      "situacao": "Afetado",
+      "ramo": "Obrigação Acessória",
+      "assuntos": [
+        "Obrigação Acessória",
+        "Obrigação Acessória"
+      ],
+      "questao": "Definir se a cobrança de empréstimo concedido pelo ente público a particular (contrato de mútuo), a título de implementação da política de microcrédito (Banco do Povo), pode ser efetivada por intermédio da execução fiscal regida pela Lei n. 6.830/1980.",
+      "teseFirmada": "",
+      "orgaoJulgador": "Primeira Seção",
+      "processo": "REsp 2271268/TO",
+      "relator": "SÉRGIO KUKINA",
+      "dataAfetacao": "06/08/2026",
+      "dataJulgamento": "",
+      "links": {
+        "paginaTema": "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1468&cod_tema_final=1468",
+        "scon": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&livre=%40num%3D%222271268%22&O=JT",
+        "consultaProcessual": "https://processo.stj.jus.br/processo/pesquisa/?aplicacao=processos.ea&tipoPesquisa=tipoPesquisaNumeroRegistro&termo=202601584361"
       }
     }
   },

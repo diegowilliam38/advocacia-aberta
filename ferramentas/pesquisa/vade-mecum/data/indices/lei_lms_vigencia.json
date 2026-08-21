@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_lms.json",
       "colecao": "artigos",
-      "sha256": "fbaea83fe2aec0b7264d05e68f303051e873a91bb016b4e03c8971277b73f989",
+      "sha256": "cd1c765b572a1c06e066a9924cca9afdadf0ccf992f1a3e0be030c5f56e8b768",
       "total_registros": 29,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:30+00:00"
     },
     "relacao": {
       "chave": "numero",

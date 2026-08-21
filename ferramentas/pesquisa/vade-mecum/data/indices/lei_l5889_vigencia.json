@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l5889.json",
       "colecao": "artigos",
-      "sha256": "c5e5479cb76d6a14012c076646480355a1ff1308f913462fcc86e61d94f89657",
+      "sha256": "c07db23828dc3fbc6850f30abfbdcb0d7044d8cd58e63e2921c9a71c8f2db724",
       "total_registros": 22,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:34+00:00"
     },
     "relacao": {
       "chave": "numero",

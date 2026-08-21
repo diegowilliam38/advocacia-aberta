@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_fgts.json",
       "colecao": "artigos",
-      "sha256": "5b7deedebac7ca082292fc96ae2e9d04c9f1ee5770c7300f1dcca28b49d7c55f",
+      "sha256": "4b5a18c4e6b7f8b471da7b4bb15ba10e4cebc9db1b5d0dbce2446c6d49df014b",
       "total_registros": 49,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:34+00:00"
     },
     "relacao": {
       "chave": "numero",
@@ -1336,15 +1336,15 @@
       "situacao": null,
       "eventos": [
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "13.832",
-            "ano": 2019
+            "numero": "15.486",
+            "ano": 2026
           },
-          "trecho": "…iciência, sem fins lucrativos e que participem de forma complementar do SUS, ocorrerão até o final do exercício de 2022.",
-          "literal": "(Incluído pela Lei nº 13.832, de 2019)"
+          "trecho": "…iciência, sem fins lucrativos e que participem de forma complementar do SUS, ocorrerão até o final do exercício de 2030.",
+          "literal": "(Redação dada pela Lei nº 15.486, de 2026)"
         }
       ]
     },

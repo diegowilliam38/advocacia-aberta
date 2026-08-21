@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_lindb.json",
       "colecao": "artigos",
-      "sha256": "040447966b5d0b9028a8b897b5d06c8cfec7bce94ce1650ab0a05add9ff89faa",
+      "sha256": "37bd0502a36725a1785b44d2f01064d089f1a323ea6afcc5854d32fc4a6fc6c5",
       "total_registros": 30,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:11+00:00"
     },
     "relacao": {
       "chave": "numero",

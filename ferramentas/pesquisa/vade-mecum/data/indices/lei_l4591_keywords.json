@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_l4591.json",
       "colecao": "artigos",
-      "sha256": "a6119bd8a50c7dd525f1d7f8f3d6fe274cb0dc8e71c551ed4c71a7adcab5d5b7",
+      "sha256": "ea80fae4a04b57362053a247fcf6d09d40b146947b10a2b5008caa90554a27fc",
       "total_registros": 86,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:32+00:00"
     },
     "relacao": {
       "chave": "numero",

@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l4749.json",
       "colecao": "artigos",
-      "sha256": "bcd5f1b58ec3db5d917529ae2439abe10d7b75a42b83310ab828e54f05f797d1",
+      "sha256": "8d5644ef4635f9803176da9923a83c4c944f6940b406d1b81646c573bd773e5d",
       "total_registros": 8,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:34+00:00"
     },
     "relacao": {
       "chave": "numero",

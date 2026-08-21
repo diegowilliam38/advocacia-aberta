@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_l8629.json",
       "colecao": "artigos",
-      "sha256": "b6bc7d20db6dca0fd39a5762d401533f274bb20262008d5ff54c4ff597ef5e53",
+      "sha256": "39321830b40c774e72acb2b932e3f019542d6b38899b0ca04f829e7acb6b6218",
       "total_registros": 36,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:32+00:00"
     },
     "relacao": {
       "chave": "numero",

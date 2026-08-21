@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_l605.json",
       "colecao": "artigos",
-      "sha256": "0fb409b60f9631598ae6b9e080056d39f18e46ecb0656d6e92eb382d47a21674",
+      "sha256": "15d00a28b69c7e528330257a4889899570e2b577c9718bf55ea38be673eb2e97",
       "total_registros": 16,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:34+00:00"
     },
     "relacao": {
       "chave": "numero",

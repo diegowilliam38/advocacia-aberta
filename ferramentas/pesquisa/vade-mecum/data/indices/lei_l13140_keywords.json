@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_l13140.json",
       "colecao": "artigos",
-      "sha256": "391c008974e1664510a3bb5bbe5ddd65129640c1c57a45bb85fbc462a376e04e",
+      "sha256": "7ec895a6d2087aa973c6f228d04ef23a2b8a23b044db5a9c51c31afca1447ca0",
       "total_registros": 48,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:30+00:00"
     },
     "relacao": {
       "chave": "numero",

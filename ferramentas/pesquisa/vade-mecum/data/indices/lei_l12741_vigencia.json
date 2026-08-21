@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l12741.json",
       "colecao": "artigos",
-      "sha256": "14c0d4e3374dafc5149b12dfcd042ab002483b7b503bc62d7e954db0aeee8575",
+      "sha256": "902e8e8ae6faae019039a7aebf05699ed6597f9ca2b20e25c235ab1cb00e1506",
       "total_registros": 6,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:30+00:00"
     },
     "relacao": {
       "chave": "numero",

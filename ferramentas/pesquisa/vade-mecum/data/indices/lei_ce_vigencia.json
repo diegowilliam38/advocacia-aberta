@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_ce.json",
       "colecao": "artigos",
-      "sha256": "0f283e241bca594383147a6890f790140e0dee426ff45ad3a4d032ed788a9632",
+      "sha256": "55ddde37e6921394617d51c85394ada180ee02959397f5dace8c3912eb0434dd",
       "total_registros": 387,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:09+00:00"
     },
     "relacao": {
       "chave": "numero",

@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l13455.json",
       "colecao": "artigos",
-      "sha256": "4e5559abae9cd54273e0ddbf04bcf1e2532b5432a2c09660a02468f19df68b96",
+      "sha256": "6bfdaf7faa8ebf93a13846d94af7524cdb484d23902ddcd6604a98a6c252e624",
       "total_registros": 3,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:30+00:00"
     },
     "relacao": {
       "chave": "numero",

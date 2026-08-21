@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_l14711.json",
       "colecao": "artigos",
-      "sha256": "89963fc6bb929f0c8ab101d449c1e83ae2f9f8637025251d9e7de74beaacc061",
+      "sha256": "88f795f423be0d7085467f94bf5cbb23433584e43085e75e9aedcfcce6beccd3",
       "total_registros": 19,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:30+00:00"
     },
     "relacao": {
       "chave": "numero",

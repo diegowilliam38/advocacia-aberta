@@ -4,9 +4,9 @@
     "nome": "Disposições Previdenciárias Diversas (inclui cooperados)",
     "lei": "Lei 10.666/2003",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.666compilado.htm",
-    "total_artigos": 15,
+    "total_artigos": 16,
     "version": "2.0",
-    "gerado_em": "2026-07-23",
+    "gerado_em": "2026-08-21T22:36:32+00:00",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": []
   },
@@ -73,6 +73,22 @@
         "section_name": null
       },
       "prev": "3",
+      "next": "4-A"
+    },
+    "4-A": {
+      "numero": "4-A",
+      "texto": "Art. 4º-A. O Transportador Autônomo de Cargas (TAC), inscrito e regular no Registro Nacional de Transportadores Rodoviários de Cargas (RNTRC), poderá optar pelo recolhimento direto da contribuição previdenciária por ele devida ao Regime Geral de Previdência Social (RGPS), na qualidade de segurado contribuinte individual, inclusive nas hipóteses em que prestar serviço a pessoa jurídica. (Incluído pela Lei nº 15.485, de 2026)\n\n§ 1º A opção de que trata o caput deste artigo deverá ser formalizada pelo TAC perante o órgão ou sistema competente do Poder Executivo federal, na forma de regulamento, e produzirá efeitos somente após sua validação e comunicação à pessoa jurídica contratante. (Incluído pela Lei nº 15.485, de 2026)\n\n§ 2º Na hipótese de opção válida pelo recolhimento direto, fica afastada a responsabilidade da pessoa jurídica contratante quanto ao desconto e ao recolhimento da contribuição previdenciária devida pelo TAC na qualidade de segurado contribuinte individual, relativamente aos serviços prestados após a comunicação de que trata o § 1º deste artigo. (Incluído pela Lei nº 15.485, de 2026)\n\n§ 3º O disposto no § 2º deste artigo não afasta a responsabilidade da pessoa jurídica contratante pelo recolhimento das contribuições previdenciárias que lhe sejam próprias, nem o cumprimento das obrigações acessórias previstas na legislação aplicável. (Incluído pela Lei nº 15.485, de 2026)\n\n§ 4º O TAC que optar pelo recolhimento direto deverá comprovar a regularidade de suas contribuições previdenciárias por ocasião da revalidação de sua inscrição no RNTRC, na forma de regulamento. (Incluído pela Lei nº 15.485, de 2026)\n\n§ 5º A ausência de comprovação da regularidade previdenciária pelo TAC optante pelo recolhimento direto impedirá a revalidação da opção de que trata este artigo e poderá acarretar a suspensão da inscrição no RNTRC até a comprovação da quitação, do parcelamento regular ou da inexistência de débitos previdenciários exigíveis. (Incluído pela Lei nº 15.485, de 2026)\n\n§ 6º A opção pelo recolhimento direto poderá ser cancelada pelo TAC, na forma de regulamento, hipótese em que será restabelecida a responsabilidade da pessoa jurídica contratante pelo desconto e recolhimento da contribuição previdenciária devida pelo segurado contribuinte individual, nos termos do art. 4º desta Lei. (Incluído pela Lei nº 15.485, de 2026)\n\n§ 7º O disposto neste artigo será regulamentado pelo Poder Executivo federal. (Incluído pela Lei nº 15.485, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.666compilado.htm#:~:text=Art.%204%C2%BA-A.%20O%20Transportador%20Aut%C3%B4nomo%20de%20Cargas%20%28TAC%29%2C%20inscrito%20e%20regular%20no%20Registro%20Nacional%20de%20Transportadores%20Rodovi%C3%A1rios%20de%20Cargas%20%28RNTRC%29%2C%20poder%C3%A1%20optar",
+      "keywords": [],
+      "hierarchy": {
+        "title": null,
+        "title_name": null,
+        "chapter": null,
+        "chapter_name": null,
+        "section": null,
+        "section_name": null
+      },
+      "prev": "4",
       "next": "5"
     },
     "5": {
@@ -88,7 +104,7 @@
         "section": null,
         "section_name": null
       },
-      "prev": "4",
+      "prev": "4-A",
       "next": "6"
     },
     "6": {

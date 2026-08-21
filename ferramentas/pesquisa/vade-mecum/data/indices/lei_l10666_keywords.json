@@ -22,14 +22,14 @@
     "fonte": {
       "arquivo": "lei_l10666.json",
       "colecao": "artigos",
-      "sha256": "e00d6831aca66883591cc56951db50a1e41e15f51f572f209c633e1df71a4e67",
-      "total_registros": 15,
-      "gerado_em": "2026-07-23"
+      "sha256": "16f58e626120fc86d5657c57836592b08c8d3c55f2fb2e78c309f8193c357b3e",
+      "total_registros": 16,
+      "gerado_em": "2026-08-21T22:36:32+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "complementar ao índice curado indexes.keywords; a união cobre todos os dispositivos publicados (1:1)",
-      "dispositivos_indexados": 15,
+      "dispositivos_indexados": 16,
       "dispositivos_no_indice_curado": 0
     }
   },
@@ -38,6 +38,7 @@
     "2": "art revogado pela lei 846 2019",
     "3": "art perda qualidade segurado nao sera considerada para concessao das aposentadorias por tempo contribuicao especial hipotese aposentadoria idade desse beneficio desde que conte com minimo correspondente exigido efeito carencia data requerimento nos termos observara fins calculo valor disposto caput lei 876 novembro 1999 havendo salarios recolhidos periodo partir competencia julho 1994 213 1991",
     "4": "art fica empresa obrigada arrecadar contribuicao segurado contribuinte individual seu servico descontando respectiva remuneracao recolher valor arrecadado juntamente com cargo ate dia vinte mes seguinte competencia util imediatamente anterior nao houver expediente bancario naquele redacao dada pela lei 933 2009 producao efeitos cooperativas trabalho arrecadarao social dos seus associados como recolherao subsequente que referir cooperativa pessoa juridica sao obrigadas efetuar inscricao instituto nacional seguro inss cooperados contratados respectivamente contribuintes individuais ainda inscritos disposto neste artigo aplica quando contratado por outro equiparado produtor rural fisica missao diplomatica reparticao consular carreira estrangeiras nem brasileiro civil trabalha exterior para organismo oficial internacional qual brasil membro efetivo",
+    "4-A": "art transportador autonomo cargas tac inscrito regular registro nacional transportadores rodoviarios rntrc podera optar pelo recolhimento direto contribuicao previdenciaria por ele devida regime geral previdencia social rgps qualidade segurado contribuinte individual inclusive nas hipoteses que prestar servico pessoa juridica incluido pela lei 485 2026 opcao trata caput deste artigo devera ser formalizada perante orgao sistema competente poder executivo federal forma regulamento produzira efeitos somente apos sua validacao comunicacao contratante hipotese valida fica afastada responsabilidade quanto desconto relativamente aos servicos prestados disposto nao afasta das contribuicoes previdenciarias lhe sejam proprias nem cumprimento obrigacoes acessorias previstas legislacao aplicavel comprovar regularidade suas ocasiao revalidacao inscricao ausencia comprovacao optante impedira este acarretar suspensao ate quitacao parcelamento inexistencia debitos previdenciarios exigiveis cancelada sera restabelecida nos termos desta neste regulamentado",
     "5": "art contribuinte individual que refere obrigado complementar diretamente contribuicao ate valor minimo mensal salario quando remuneracoes recebidas mes por servicos prestados pessoas juridicas forem inferiores este",
     "6": "art percentual retencao valor bruto nota fiscal fatura prestacao servicos relativa prestados mediante cessao mao obra inclusive regime trabalho temporario cargo empresa contratante acrescido quatro tres dois pontos percentuais relativamente aos pelo segurado empregado cuja atividade permita concessao aposentadoria especial apos quinze vinte cinco anos contribuicao respectivamente producao efeito",
     "7": "art nao poderao ser objeto parcelamento contribuicoes descontadas dos empregados inclusive domesticos trabalhadores avulsos contribuintes individuais decorrentes sub rogacao demais importancias forma legislacao previdenciaria",

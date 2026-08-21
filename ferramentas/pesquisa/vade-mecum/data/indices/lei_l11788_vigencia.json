@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l11788.json",
       "colecao": "artigos",
-      "sha256": "67f4e3f65a134b176afb454b21899ffeb911085db99e7e01412619338bf230e0",
+      "sha256": "02c9f12f50ef80473020e579c2ec0e1e7922c354f3a1558987314c27ec6ab7d9",
       "total_registros": 22,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:34+00:00"
     },
     "relacao": {
       "chave": "numero",

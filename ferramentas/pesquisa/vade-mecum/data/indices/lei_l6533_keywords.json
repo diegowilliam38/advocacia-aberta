@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_l6533.json",
       "colecao": "artigos",
-      "sha256": "719f254c3b941af5c4f0fc79bc16582d3529b4dec58dcc95c2196a44f38f7fa1",
+      "sha256": "fcb385a7ecf519b735f3756e2997999e22c66619178dbd6567f9dba41527de1b",
       "total_registros": 37,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:34+00:00"
     },
     "relacao": {
       "chave": "numero",

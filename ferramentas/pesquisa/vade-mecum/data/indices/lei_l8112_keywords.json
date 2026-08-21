@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_l8112.json",
       "colecao": "artigos",
-      "sha256": "417ccb719d0fe6d59d01b8b0b0d532c494c158125f0a32a4ec0f379735d8adfe",
+      "sha256": "451490a079a58acfc770cd418ca1af945531c08e48b653bf36259b2f889ae04f",
       "total_registros": 259,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:29+00:00"
     },
     "relacao": {
       "chave": "numero",

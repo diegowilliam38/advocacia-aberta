@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l10666.json",
       "colecao": "artigos",
-      "sha256": "e00d6831aca66883591cc56951db50a1e41e15f51f572f209c633e1df71a4e67",
-      "total_registros": 15,
-      "gerado_em": "2026-07-23"
+      "sha256": "16f58e626120fc86d5657c57836592b08c8d3c55f2fb2e78c309f8193c357b3e",
+      "total_registros": 16,
+      "gerado_em": "2026-08-21T22:36:32+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 3,
-      "anotacoes": 4,
+      "artigos_com_anotacao": 4,
+      "anotacoes": 12,
       "anotacoes_sem_diploma_nomeado": 0
     }
   },
@@ -76,6 +76,99 @@
           },
           "trecho": "…de competência a que se referir, ou até o dia útil imediatamente anterior se não houver expediente bancário naquele dia.",
           "literal": "(Redação dada pela Lei nº 11.933, de 2009)"
+        }
+      ]
+    },
+    "4-A": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "…PS), na qualidade de segurado contribuinte individual, inclusive nas hipóteses em que prestar serviço a pessoa jurídica.",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "…al, na forma de regulamento, e produzirá efeitos somente após sua validação e comunicação à pessoa jurídica contratante.",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "…urado contribuinte individual, relativamente aos serviços prestados após a comunicação de que trata o § 1º deste artigo.",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "…s previdenciárias que lhe sejam próprias, nem o cumprimento das obrigações acessórias previstas na legislação aplicável.",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 4º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "…ade de suas contribuições previdenciárias por ocasião da revalidação de sua inscrição no RNTRC, na forma de regulamento.",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 5º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "…no RNTRC até a comprovação da quitação, do parcelamento regular ou da inexistência de débitos previdenciários exigíveis.",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 6º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "…colhimento da contribuição previdenciária devida pelo segurado contribuinte individual, nos termos do art. 4º desta Lei.",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 7º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "§ 7º O disposto neste artigo será regulamentado pelo Poder Executivo federal.",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
         }
       ]
     },

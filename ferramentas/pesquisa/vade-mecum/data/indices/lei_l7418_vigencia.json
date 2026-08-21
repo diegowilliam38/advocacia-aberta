@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l7418.json",
       "colecao": "artigos",
-      "sha256": "f2caa00d560fc667ea3b4265751626bb26c9df860d1664429089c0d18225e4f0",
+      "sha256": "a9c8f6e5a37049b377de45f7ccd6d911b02acef12fc32eb31fee32e3d1f7f3f4",
       "total_registros": 12,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:34+00:00"
     },
     "relacao": {
       "chave": "numero",

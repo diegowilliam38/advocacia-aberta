@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_lc142.json",
       "colecao": "artigos",
-      "sha256": "a8dd651743453c647ccaca4dd48ca70d2d5f3287331af6fa852010db4e5d73e8",
+      "sha256": "f9fdc26ccf8d083e582588685dab98ef0d3f08dfed44404dabe9a5365e14128b",
       "total_registros": 11,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:33+00:00"
     },
     "relacao": {
       "chave": "numero",
