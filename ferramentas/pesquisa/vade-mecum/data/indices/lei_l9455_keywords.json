@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_l9455.json",
       "colecao": "artigos",
-      "sha256": "89d0885011391c4df6fce971f15f4ff5d5d85047604094d8d33779e1aa4a6b87",
+      "sha256": "e8d46f2c1bc9c2626c497d38ef3cef0f95edc050dc0eb7b4042d0329a4bb51cd",
       "total_registros": 4,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:32+00:00"
     },
     "relacao": {
       "chave": "numero",

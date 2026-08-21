@@ -4,9 +4,9 @@
     "nome": "Estatuto da Criança e do Adolescente",
     "lei": "Lei 8.069/1990",
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm",
-    "total_artigos": 325,
+    "total_artigos": 329,
     "version": "2.0",
-    "gerado_em": "2026-07-23",
+    "gerado_em": "2026-08-21T22:36:11+00:00",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": []
   },
@@ -3325,7 +3325,7 @@
     },
     "190-A": {
       "numero": "190-A",
-      "texto": "Art. 190-A. A infiltração de agentes de polícia na internet com o fim de investigar os crimes previstos nos arts. 240 , 241 , 241-A , 241-B , 241-C e 241-D desta Lei e nos arts. 154-A , 217-A , 218 , 218-A e 218-B do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) , obedecerá às seguintes regras: (Incluído pela Lei nº 13.441, de 2017)\n\nI – será precedida de autorização judicial devidamente circunstanciada e fundamentada, que estabelecerá os limites da infiltração para obtenção de prova, ouvido o Ministério Público; (Incluído pela Lei nº 13.441, de 2017)\n\nII – dar-se-á mediante requerimento do Ministério Público ou representação de delegado de polícia e conterá a demonstração de sua necessidade, o alcance das tarefas dos policiais, os nomes ou apelidos das pessoas investigadas e, quando possível, os dados de conexão ou cadastrais que permitam a identificação dessas pessoas; (Incluído pela Lei nº 13.441, de 2017)\n\nIII – não poderá exceder o prazo de 90 (noventa) dias, sem prejuízo de eventuais renovações, desde que o total não exceda a 720 (setecentos e vinte) dias e seja demonstrada sua efetiva necessidade, a critério da autoridade judicial. (Incluído pela Lei nº 13.441, de 2017)\n\n§ 1 º A autoridade judicial e o Ministério Público poderão requisitar relatórios parciais da operação de infiltração antes do término do prazo de que trata o inciso II do § 1 º deste artigo. (Incluído pela Lei nº 13.441, de 2017)\n\n§ 2 º Para efeitos do disposto no inciso I do § 1 º deste artigo, consideram-se: (Incluído pela Lei nº 13.441, de 2017)\n\nI – dados de conexão: informações referentes a hora, data, início, término, duração, endereço de Protocolo de Internet (IP) utilizado e terminal de origem da conexão; (Incluído pela Lei nº 13.441, de 2017)\n\nII – dados cadastrais: informações referentes a nome e endereço de assinante ou de usuário registrado ou autenticado para a conexão a quem endereço de IP, identificação de usuário ou código de acesso tenha sido atribuído no momento da conexão.\n\n§ 3 º A infiltração de agentes de polícia na internet não será admitida se a prova puder ser obtida por outros meios. (Incluído pela Lei nº 13.441, de 2017)",
+      "texto": "Art. 190-A. A infiltração de agentes de polícia na internet com o fim de investigar os crimes previstos nos arts. 240, 241, 241-A, 241-B, 241-C, 241-D e 244-A desta Lei e nos arts. 154-A, 217-A, 218, 218-A, 218-B e 218-C do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), obedecerá às seguintes regras: (Redação dada pela Lei nº 15.487, de 2026)\n\nI – será precedida de autorização judicial devidamente circunstanciada e fundamentada, que estabelecerá os limites da infiltração para obtenção de prova, ouvido o Ministério Público; (Incluído pela Lei nº 13.441, de 2017)\n\nII – dar-se-á mediante requerimento do Ministério Público ou representação de delegado de polícia e conterá a demonstração de sua necessidade, o alcance das tarefas dos policiais, os nomes ou apelidos das pessoas investigadas e, quando possível, os dados de conexão ou cadastrais que permitam a identificação dessas pessoas; (Incluído pela Lei nº 13.441, de 2017)\n\nIII – não poderá exceder o prazo de 90 (noventa) dias, sem prejuízo de eventuais renovações, desde que o total não exceda a 720 (setecentos e vinte) dias e seja demonstrada sua efetiva necessidade, a critério da autoridade judicial. (Incluído pela Lei nº 13.441, de 2017)\n\n§ 1 º A autoridade judicial e o Ministério Público poderão requisitar relatórios parciais da operação de infiltração antes do término do prazo de que trata o inciso II do § 1 º deste artigo. (Incluído pela Lei nº 13.441, de 2017)\n\n§ 2 º Para efeitos do disposto no inciso I do § 1 º deste artigo, consideram-se: (Incluído pela Lei nº 13.441, de 2017)\n\nI – dados de conexão: informações referentes a hora, data, início, término, duração, endereço de Protocolo de Internet (IP) utilizado e terminal de origem da conexão; (Incluído pela Lei nº 13.441, de 2017)\n\nII – dados cadastrais: informações referentes a nome e endereço de assinante ou de usuário registrado ou autenticado para a conexão a quem endereço de IP, identificação de usuário ou código de acesso tenha sido atribuído no momento da conexão.\n\n§ 3 º A infiltração de agentes de polícia na internet não será admitida se a prova puder ser obtida por outros meios. (Incluído pela Lei nº 13.441, de 2017)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm#:~:text=Art.%20190-A.%20A%20infiltra%C3%A7%C3%A3o%20de%20agentes%20de%20pol%C3%ADcia%20na%20internet%20com%20o%20fim%20de%20investigar%20os%20crimes%20previstos%20nos%20arts.%20240%20%2C",
       "keywords": [],
       "hierarchy": {
@@ -3357,7 +3357,7 @@
     },
     "190-C": {
       "numero": "190-C",
-      "texto": "Art. 190-C. Não comete crime o policial que oculta a sua identidade para, por meio da internet, colher indícios de autoria e materialidade dos crimes previstos nos arts. 240 , 241 , 241-A , 241-B , 241-C e 241-D desta Lei e nos arts. 154-A , 217-A , 218 , 218-A e 218-B do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) . (Incluído pela Lei nº 13.441, de 2017)\n\nParágrafo único. O agente policial infiltrado que deixar de observar a estrita finalidade da investigação responderá pelos excessos praticados. (Incluído pela Lei nº 13.441, de 2017)",
+      "texto": "Art. 190-C. Não comete crime o policial que oculta a sua identidade para, por meio da internet, colher indícios de autoria e materialidade dos crimes previstos nos arts. 240, 241, 241-A, 241-B, 241-C, 241-D e 244-A desta Lei e nos arts. 154-A, 217-A, 218, 218-A, 218-B e 218-C do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal). (Redação dada pela Lei nº 15.487, de 2026)\n\nParágrafo único. O agente policial infiltrado que deixar de observar a estrita finalidade da investigação responderá pelos excessos praticados. (Incluído pela Lei nº 13.441, de 2017)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm#:~:text=Art.%20190-C.%20N%C3%A3o%20comete%20crime%20o%20policial%20que%20oculta%20a%20sua%20identidade%20para%2C%20por%20meio%20da%20internet%2C%20colher%20ind%C3%ADcios%20de%20autoria%20e",
       "keywords": [],
       "hierarchy": {
@@ -3401,6 +3401,22 @@
         "section_name": "Seção V-A"
       },
       "prev": "190-D",
+      "next": "190-F"
+    },
+    "190-F": {
+      "numero": "190-F",
+      "texto": "Art. 190-F. É lícita a ronda virtual realizada por órgão de persecução penal mediante utilização de software estritamente destinado à identificação e à coleta de arquivos disponibilizados em ambientes digitais públicos e relacionados a crimes de violência sexual contra criança ou adolescente. (Incluído pela Lei nº 15.487, de 2026)\n\n§ 1º Consideram-se ambientes digitais públicos aqueles em que qualquer pessoa, com ou sem realização de cadastro, visualize conteúdo disponibilizado ao público em geral, em redes peer-to-peer (P2P), fóruns, sites, canais, redes sociais ou outros ambientes cibernéticos correlatos, desde que acessíveis sem mecanismos especiais de ingresso, como autorização individual ou permissão prévia. (Incluído pela Lei nº 15.487, de 2026)\n\n§ 2º Nos casos de flagrante, de risco à vida ou de risco à integridade física de criança ou adolescente identificados durante a ronda virtual, a autoridade policial ou o Ministério Público poderão requisitar diretamente ao provedor de conexão ou ao provedor de aplicação, respectivamente, os registros de conexão ou os dados cadastrais de que disponham, sem necessidade de ordem judicial prévia, nos termos da Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet). (Incluído pela Lei nº 15.487, de 2026)\n\n§ 3º Na hipótese prevista no § 2º deste artigo, o órgão de persecução penal responsável pela ronda virtual deverá comunicar a requisição à autoridade judicial competente em até 48 (quarenta e oito) horas, para fins de controle judicial da legalidade do procedimento, vedada a utilização dos dados para fins diversos daqueles da investigação que os originou. (Incluído pela Lei nº 15.487, de 2026)\n\n§ 4º A atividade prevista neste artigo consiste na coleta de arquivos disponibilizados em ambiente compartilhado e público, não configurando a interceptação de comunicações prevista na Lei nº 9.296, de 24 de julho de 1996, nem a infiltração policial prevista no art. 190-A desta Lei, e dispensa autorização judicial prévia. (Incluído pela Lei nº 15.487, de 2026)\n\n§ 5º A coleta de arquivos prevista neste artigo deverá observar as disposições constantes do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), relativas à cadeia de custódia da prova produzida. (Incluído pela Lei nº 15.487, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm#:~:text=Art.%20190-F.%20%C3%89%20l%C3%ADcita%20a%20ronda%20virtual%20realizada%20por%20%C3%B3rg%C3%A3o%20de%20persecu%C3%A7%C3%A3o%20penal%20mediante%20utiliza%C3%A7%C3%A3o%20de%20software%20estritamente%20destinado%20%C3%A0%20identifica%C3%A7%C3%A3o%20e",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VI",
+        "title_name": "Do Acesso à Justiça",
+        "chapter": "III",
+        "chapter_name": "Dos Procedimentos",
+        "section": "V",
+        "section_name": "Seção V-A"
+      },
+      "prev": "190-E",
       "next": "191"
     },
     "191": {
@@ -3416,7 +3432,7 @@
         "section": "VI",
         "section_name": "Da Apuração de Irregularidades em Entidade de Atendimento"
       },
-      "prev": "190-E",
+      "prev": "190-F",
       "next": "192"
     },
     "192": {
@@ -4153,6 +4169,22 @@
         "section_name": "Disposições Gerais"
       },
       "prev": "225",
+      "next": "226-A"
+    },
+    "226-A": {
+      "numero": "226-A",
+      "texto": "Art. 226-A. Aumenta-se a pena de 1/3 (um terço) a 2/3 (dois terços) se o agente comete crime previsto neste Capítulo mediante utilização de modulador de proxy ou técnica de mascaramento, ocultação, falsificação, alteração ou anonimização de endereço IP ou de qualquer outro identificador digital, por meio de software, programa, ferramenta, navegador ou qualquer outro meio, com o objetivo de impedir ou dificultar sua identificação. (Incluído pela Lei nº 15.487, de 2026)\n\nParágrafo único. O disposto neste artigo não se aplica ao uso legítimo de tecnologias de privacidade e segurança digital quando empregadas para fins lícitos, como a proteção de dados pessoais ou comerciais, a garantia da privacidade e a segurança cibernética. (Incluído pela Lei nº 15.487, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm#:~:text=Art.%20226-A.%20Aumenta-se%20a%20pena%20de%201%2F3%20%28um%20ter%C3%A7o%29%20a%202%2F3%20%28dois%20ter%C3%A7os%29%20se%20o%20agente%20comete%20crime%20previsto%20neste%20Cap%C3%ADtulo%20mediante",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "Dos Crimes e Das Infrações Administrativas",
+        "chapter": "I",
+        "chapter_name": "Dos Crimes",
+        "section": "I",
+        "section_name": "Disposições Gerais"
+      },
+      "prev": "226",
       "next": "227"
     },
     "227": {
@@ -4168,7 +4200,7 @@
         "section": "I",
         "section_name": "Disposições Gerais"
       },
-      "prev": "226",
+      "prev": "226-A",
       "next": "227-A"
     },
     "227-A": {
@@ -4185,6 +4217,38 @@
         "section_name": "Disposições Gerais"
       },
       "prev": "227",
+      "next": "227-B"
+    },
+    "227-B": {
+      "numero": "227-B",
+      "texto": "Art. 227-B. A criança ou o adolescente vítima ou testemunha de violência sexual tem direito a atendimento psicológico e psicossocial, de forma individual, especializada, contínua e integral, nos termos da Lei nº 13.431, de 4 de abril de 2017. (Incluído pela Lei nº 15.487, de 2026)\n\n§ 1º O atendimento previsto no caput deste artigo deverá abranger os impactos emocionais, sociais e cognitivos decorrentes da exposição indevida da vítima, bem como considerar os efeitos da revitimização provocada pela reprodução, circulação e permanência do material de violência sexual em ambiente digital, inclusive em âmbito internacional. (Incluído pela Lei nº 15.487, de 2026)\n\n§ 2º Para os efeitos do caput deste artigo, a criança ou o adolescente vítima ou testemunha de violência sexual tem o direito de ser acolhido e atendido nos serviços de saúde prestados no âmbito do SUS, na rede própria ou conveniada, em local e ambiente que garantam sua privacidade e restrição do acesso de terceiros não autorizados, especialmente do agressor. (Incluído pela Lei nº 15.487, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm#:~:text=Art.%20227-B.%20A%20crian%C3%A7a%20ou%20o%20adolescente%20v%C3%ADtima%20ou%20testemunha%20de%20viol%C3%AAncia%20sexual%20tem%20direito%20a%20atendimento%20psicol%C3%B3gico%20e%20psicossocial%2C%20de%20forma",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "Dos Crimes e Das Infrações Administrativas",
+        "chapter": "I",
+        "chapter_name": "Dos Crimes",
+        "section": "I",
+        "section_name": "Disposições Gerais"
+      },
+      "prev": "227-A",
+      "next": "227-C"
+    },
+    "227-C": {
+      "numero": "227-C",
+      "texto": "Art. 227-C. O agente que causar lesão corporal ou praticar violência física, sexual ou psicológica contra criança ou adolescente é obrigado a cobrir integralmente os custos decorrentes do tratamento da vítima, incluído o ressarcimento ao SUS pelos serviços de saúde prestados, sendo os valores arrecadados destinados ao Fundo de Saúde do ente federado responsável pela unidade de saúde que realizou o atendimento. (Incluído pela Lei nº 15.487, de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm#:~:text=Art.%20227-C.%20O%20agente%20que%20causar%20les%C3%A3o%20corporal%20ou%20praticar%20viol%C3%AAncia%20f%C3%ADsica%2C%20sexual%20ou%20psicol%C3%B3gica%20contra%20crian%C3%A7a%20ou%20adolescente%20%C3%A9%20obrigado%20a",
+      "keywords": [],
+      "hierarchy": {
+        "title": "VII",
+        "title_name": "Dos Crimes e Das Infrações Administrativas",
+        "chapter": "I",
+        "chapter_name": "Dos Crimes",
+        "section": "I",
+        "section_name": "Disposições Gerais"
+      },
+      "prev": "227-B",
       "next": "228"
     },
     "228": {
@@ -4200,7 +4264,7 @@
         "section": "II",
         "section_name": "Dos Crimes em Espécie"
       },
-      "prev": "227-A",
+      "prev": "227-C",
       "next": "229"
     },
     "229": {
@@ -4381,7 +4445,7 @@
     },
     "240": {
       "numero": "240",
-      "texto": "Art. 240. Produzir, reproduzir, dirigir, fotografar, filmar ou registrar, por qualquer meio, cena de sexo explícito ou pornográfica, envolvendo criança ou adolescente: (Redação dada pela Lei nº 11.829, de 2008)\n\nPena – reclusão, de 4 (quatro) a 8 (oito) anos, e multa. (Redação dada pela Lei nº 11.829, de 2008)\n\n§ 1º Incorre nas mesmas penas quem: (Redação dada pela Lei nº 14.811, de 2024)\n\nI - agencia, facilita, recruta, coage ou de qualquer modo intermedeia a participação de criança ou adolescente nas cenas referidas no caput deste artigo, ou ainda quem com esses contracena; (Incluído pela Lei nº 14.811, de 2024)\n\nII - exibe, transmite, auxilia ou facilita a exibição ou transmissão, em tempo real, pela internet, por aplicativos, por meio de dispositivo informático ou qualquer meio ou ambiente digital, de cena de sexo explícito ou pornográfica com a participação de criança ou adolescente. (Incluído pela Lei nº 14.811, de 2024)\n\n§ 2 o Aumenta-se a pena de 1/3 (um terço) se o agente comete o crime: (Redação dada pela Lei nº 11.829, de 2008)\n\nI – no exercício de cargo ou função pública ou a pretexto de exercê-la; (Redação dada pela Lei nº 11.829, de 2008)\n\nII – prevalecendo-se de relações domésticas, de coabitação ou de hospitalidade; ou (Redação dada pela Lei nº 11.829, de 2008)\n\nIII – prevalecendo-se de relações de parentesco consangüíneo ou afim até o terceiro grau, ou por adoção, de tutor, curador, preceptor, empregador da vítima ou de quem, a qualquer outro título, tenha autoridade sobre ela, ou com seu consentimento. (Incluído pela Lei nº 11.829, de 2008)",
+      "texto": "Art. 240. Produzir, reproduzir, dirigir, fotografar, filmar ou registrar, por qualquer meio, conteúdo de violência sexual contra criança ou adolescente: (Redação dada pela Lei nº 15.487, de 2026)\n\nPena - reclusão, de 4 (quatro) a 10 (dez) anos, e multa. (Redação dada pela Lei nº 15.487, de 2026)\n\n§ 1º Incorre nas mesmas penas quem: (Redação dada pela Lei nº 14.811, de 2024)\n\nI - financia, agencia, facilita, recruta, coage ou de qualquer modo intermedeia a participação de criança ou adolescente no conteúdo referido no caput deste artigo, ou ainda quem com eles contracena; (Redação dada pela Lei nº 15.487, de 2026)\n\nII - exibe, transmite, auxilia ou facilita a exibição ou a transmissão, em tempo real, pela internet, por aplicativos, por meio de dispositivo informático ou qualquer meio ou ambiente digital, de conteúdo de violência sexual contra criança ou adolescente. (Redação dada pela Lei nº 15.487, de 2026)\n\n§ 2º Aumenta-se a pena de 1/3 (um terço) a 2/3 (dois terços) se o agente comete o crime: (Redação dada pela Lei nº 15.487, de 2026)\n\nI – no exercício de cargo ou função pública ou a pretexto de exercê-la; (Redação dada pela Lei nº 11.829, de 2008)\n\nII – prevalecendo-se de relações domésticas, de coabitação ou de hospitalidade; ou (Redação dada pela Lei nº 11.829, de 2008)\n\nIII – prevalecendo-se de relações de parentesco consangüíneo ou afim até o terceiro grau, ou por adoção, de tutor, curador, preceptor, empregador da vítima ou de quem, a qualquer outro título, tenha autoridade sobre ela, ou com seu consentimento. (Incluído pela Lei nº 11.829, de 2008)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm#:~:text=Art.%20240.%20Produzir%2C%20reproduzir%2C%20dirigir%2C%20fotografar%2C%20filmar%20ou%20registrar%2C%20por%20qualquer%20meio%2C%20cena%20de%20sexo%20expl%C3%ADcito%20ou%20pornogr%C3%A1fica%2C%20envolvendo%20crian%C3%A7a%20ou%20adolescente%3A",
       "keywords": [],
       "hierarchy": {
@@ -4397,7 +4461,7 @@
     },
     "241": {
       "numero": "241",
-      "texto": "Art. 241. Vender ou expor à venda fotografia, vídeo ou outro registro que contenha cena de sexo explícito ou pornográfica envolvendo criança ou adolescente: (Redação dada pela Lei nº 11.829, de 2008)\n\nPena – reclusão, de 4 (quatro) a 8 (oito) anos, e multa. (Redação dada pela Lei nº 11.829, de 2008)",
+      "texto": "Art. 241. Vender ou expor à venda fotografia, vídeo ou outro registro que contenha violência sexual contra criança ou adolescente: (Redação dada pela Lei nº 15.487, de 2026)\n\nPena - reclusão, de 4 (quatro) a 10 (dez) anos, e multa, além da perda de bens e valores recebidos em virtude da prática criminosa em favor do Fundo dos Direitos da Criança e do Adolescente da unidade da Federação em que foi cometido o crime, ressalvado o direito de terceiro de boa-fé. (Redação dada pela Lei nº 15.487, de 2026)\n\nParágrafo único. Aumenta-se a pena de 1/3 (um terço) caso a venda ou a exposição à venda prevista no caput deste artigo ocorra por meio de tecnologias da informação e comunicação, incluídas a internet e suas aplicações, bem como as redes sociais. (Incluído pela Lei nº 15.487, de 2026)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm#:~:text=Art.%20241.%20Vender%20ou%20expor%20%C3%A0%20venda%20fotografia%2C%20v%C3%ADdeo%20ou%20outro%20registro%20que%20contenha%20cena%20de%20sexo%20expl%C3%ADcito%20ou%20pornogr%C3%A1fica%20envolvendo%20crian%C3%A7a",
       "keywords": [],
       "hierarchy": {
@@ -4413,7 +4477,7 @@
     },
     "241-A": {
       "numero": "241-A",
-      "texto": "Art. 241-A. Oferecer, trocar, disponibilizar, transmitir, distribuir, publicar ou divulgar por qualquer meio, inclusive por meio de sistema de informática ou telemático, fotografia, vídeo ou outro registro que contenha cena de sexo explícito ou pornográfica envolvendo criança ou adolescente: (Incluído pela Lei nº 11.829, de 2008)\n\nPena – reclusão, de 3 (três) a 6 (seis) anos, e multa. (Incluído pela Lei nº 11.829, de 2008)\n\n§ 1 o Nas mesmas penas incorre quem: (Incluído pela Lei nº 11.829, de 2008)\n\nI – assegura os meios ou serviços para o armazenamento das fotografias, cenas ou imagens de que trata o caput deste artigo; (Incluído pela Lei nº 11.829, de 2008)\n\nII – assegura, por qualquer meio, o acesso por rede de computadores às fotografias, cenas ou imagens de que trata o caput deste artigo. (Incluído pela Lei nº 11.829, de 2008)\n\n§ 2 o As condutas tipificadas nos incisos I e II do § 1 o deste artigo são puníveis quando o responsável legal pela prestação do serviço, oficialmente notificado, deixa de desabilitar o acesso ao conteúdo ilícito de que trata o caput deste artigo. (Incluído pela Lei nº 11.829, de 2008)",
+      "texto": "Art. 241-A. Oferecer, trocar, disponibilizar, transmitir, distribuir, publicar ou divulgar por qualquer meio, inclusive por meio de sistema de informática ou telemático, fotografia, vídeo ou outro registro que contenha violência sexual contra criança ou adolescente: (Redação dada pela Lei nº 15.487, de 2026)\n\nPena - reclusão, de 4 (quatro) a 10 (dez) anos, e multa. (Redação dada pela Lei nº 15.487, de 2026)\n\n§ 1 o Nas mesmas penas incorre quem: (Incluído pela Lei nº 11.829, de 2008)\n\nI – assegura os meios ou serviços para o armazenamento das fotografias, cenas ou imagens de que trata o caput deste artigo; (Incluído pela Lei nº 11.829, de 2008)\n\nII – assegura, por qualquer meio, o acesso por rede de computadores às fotografias, cenas ou imagens de que trata o caput deste artigo. (Incluído pela Lei nº 11.829, de 2008)\n\nIII - cria, administra, hospeda, modera ou é responsável por site, chat, fórum ou ambiente cibernético similar com o fim de armazenar, disponibilizar, compartilhar ou produzir material de violência sexual contra criança ou adolescente. (Incluído pela Lei nº 15.487, de 2026)\n\n§ 2 o As condutas tipificadas nos incisos I e II do § 1 o deste artigo são puníveis quando o responsável legal pela prestação do serviço, oficialmente notificado, deixa de desabilitar o acesso ao conteúdo ilícito de que trata o caput deste artigo. (Incluído pela Lei nº 11.829, de 2008)\n\n§ 3º A pena é aumentada de 1/3 (um terço) quando, em relação ao conteúdo previsto no caput deste artigo, houver publicação ou compartilhamento em mais de uma plataforma digital, rede social, serviço de vídeo sob demanda ou aplicativo acessível ao público em geral. (Incluído pela Lei nº 15.487, de 2026)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm#:~:text=Art.%20241-A.%20Oferecer%2C%20trocar%2C%20disponibilizar%2C%20transmitir%2C%20distribuir%2C%20publicar%20ou%20divulgar%20por%20qualquer%20meio%2C%20inclusive%20por%20meio%20de%20sistema%20de%20inform%C3%A1tica%20ou%20telem%C3%A1tico%2C",
       "keywords": [],
       "hierarchy": {
@@ -4429,7 +4493,7 @@
     },
     "241-B": {
       "numero": "241-B",
-      "texto": "Art. 241-B. Adquirir, possuir ou armazenar, por qualquer meio, fotografia, vídeo ou outra forma de registro que contenha cena de sexo explícito ou pornográfica envolvendo criança ou adolescente: (Incluído pela Lei nº 11.829, de 2008)\n\nPena – reclusão, de 1 (um) a 4 (quatro) anos, e multa. (Incluído pela Lei nº 11.829, de 2008)\n\n§ 1 o A pena é diminuída de 1 (um) a 2/3 (dois terços) se de pequena quantidade o material a que se refere o caput deste artigo. (Incluído pela Lei nº 11.829, de 2008)\n\n§ 2 o Não há crime se a posse ou o armazenamento tem a finalidade de comunicar às autoridades competentes a ocorrência das condutas descritas nos arts. 240, 241, 241-A e 241-C desta Lei, quando a comunicação for feita por: (Incluído pela Lei nº 11.829, de 2008)\n\nI – agente público no exercício de suas funções; (Incluído pela Lei nº 11.829, de 2008)\n\nII – membro de entidade, legalmente constituída, que inclua, entre suas finalidades institucionais, o recebimento, o processamento e o encaminhamento de notícia dos crimes referidos neste parágrafo; (Incluído pela Lei nº 11.829, de 2008)\n\nIII – representante legal e funcionários responsáveis de provedor de acesso ou serviço prestado por meio de rede de computadores, até o recebimento do material relativo à notícia feita à autoridade policial, ao Ministério Público ou ao Poder Judiciário. (Incluído pela Lei nº 11.829, de 2008)\n\n§ 3 o As pessoas referidas no § 2 o deste artigo deverão manter sob sigilo o material ilícito referido. (Incluído pela Lei nº 11.829, de 2008)",
+      "texto": "Art. 241-B. Adquirir, possuir, armazenar ou solicitar, por qualquer meio, fotografia, vídeo ou outra forma de registro que contenha violência sexual contra criança ou adolescente: (Redação dada pela Lei nº 15.487, de 2026)\n\nPena - reclusão, de 3 (três) a 6 (seis) anos, e multa. (Redação dada pela Lei nº 15.487, de 2026)\n\n§ 1º A pena é diminuída de 1/6 (um sexto) a 1/3 (um terço) se for pequena a quantidade de material a que se refere o caput deste artigo. (Redação dada pela Lei nº 15.487, de 2026)\n\n§ 2 o Não há crime se a posse ou o armazenamento tem a finalidade de comunicar às autoridades competentes a ocorrência das condutas descritas nos arts. 240, 241, 241-A e 241-C desta Lei, quando a comunicação for feita por: (Incluído pela Lei nº 11.829, de 2008)\n\nI – agente público no exercício de suas funções; (Incluído pela Lei nº 11.829, de 2008)\n\nII – membro de entidade, legalmente constituída, que inclua, entre suas finalidades institucionais, o recebimento, o processamento e o encaminhamento de notícia dos crimes referidos neste parágrafo; (Incluído pela Lei nº 11.829, de 2008)\n\nIII – representante legal e funcionários responsáveis de provedor de acesso ou serviço prestado por meio de rede de computadores, até o recebimento do material relativo à notícia feita à autoridade policial, ao Ministério Público ou ao Poder Judiciário. (Incluído pela Lei nº 11.829, de 2008)\n\n§ 3 o As pessoas referidas no § 2 o deste artigo deverão manter sob sigilo o material ilícito referido. (Incluído pela Lei nº 11.829, de 2008)\n\n§ 4º Incorre na mesma pena prevista no caput deste artigo quem acessar ou visualizar aplicações de internet, serviços de streaming ou outra forma de registro que disponibilize material de violência sexual contra criança ou adolescente, com a finalidade de satisfazer a própria lascívia ou de outrem. (Incluído pela Lei nº 15.487, de 2026)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm#:~:text=Art.%20241-B.%20Adquirir%2C%20possuir%20ou%20armazenar%2C%20por%20qualquer%20meio%2C%20fotografia%2C%20v%C3%ADdeo%20ou%20outra%20forma%20de%20registro%20que%20contenha%20cena%20de%20sexo%20expl%C3%ADcito",
       "keywords": [],
       "hierarchy": {
@@ -4445,7 +4509,7 @@
     },
     "241-C": {
       "numero": "241-C",
-      "texto": "Art. 241-C. Simular a participação de criança ou adolescente em cena de sexo explícito ou pornográfica por meio de adulteração, montagem ou modificação de fotografia, vídeo ou qualquer outra forma de representação visual: (Incluído pela Lei nº 11.829, de 2008)\n\nPena – reclusão, de 1 (um) a 3 (três) anos, e multa. (Incluído pela Lei nº 11.829, de 2008)\n\nParágrafo único. Incorre nas mesmas penas quem vende, expõe à venda, disponibiliza, distribui, publica ou divulga por qualquer meio, adquire, possui ou armazena o material produzido na forma do caput deste artigo. (Incluído pela Lei nº 11.829, de 2008)",
+      "texto": "Art. 241-C. Simular a participação de criança ou adolescente em conteúdo de violência sexual por meio de adulteração, montagem ou modificação de fotografia, vídeo ou outra forma de representação visual, mediante qualquer recurso tecnológico que altere imagem ou voz da vítima, inclusive com uso de inteligência artificial: (Redação dada pela Lei nº 15.487, de 2026)\n\nPena - reclusão, de 3 (três) a 5 (cinco) anos, e multa. (Redação dada pela Lei nº 15.487, de 2026)\n\nParágrafo único. Incorre nas mesmas penas quem vende, expõe à venda, disponibiliza, distribui, publica ou divulga por qualquer meio, adquire, possui ou armazena o material produzido na forma do caput deste artigo. (Incluído pela Lei nº 11.829, de 2008)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm#:~:text=Art.%20241-C.%20Simular%20a%20participa%C3%A7%C3%A3o%20de%20crian%C3%A7a%20ou%20adolescente%20em%20cena%20de%20sexo%20expl%C3%ADcito%20ou%20pornogr%C3%A1fica%20por%20meio%20de%20adultera%C3%A7%C3%A3o%2C%20montagem%20ou",
       "keywords": [],
       "hierarchy": {
@@ -4461,7 +4525,7 @@
     },
     "241-D": {
       "numero": "241-D",
-      "texto": "Art. 241-D. Aliciar, assediar, instigar ou constranger, por qualquer meio de comunicação, criança, com o fim de com ela praticar ato libidinoso: (Incluído pela Lei nº 11.829, de 2008)\n\nPena – reclusão, de 1 (um) a 3 (três) anos, e multa. (Incluído pela Lei nº 11.829, de 2008)\n\nParágrafo único. Nas mesmas penas incorre quem: (Incluído pela Lei nº 11.829, de 2008)\n\nI – facilita ou induz o acesso à criança de material contendo cena de sexo explícito ou pornográfica com o fim de com ela praticar ato libidinoso; (Incluído pela Lei nº 11.829, de 2008)\n\nII – pratica as condutas descritas no caput deste artigo com o fim de induzir criança a se exibir de forma pornográfica ou sexualmente explícita. (Incluído pela Lei nº 11.829, de 2008)",
+      "texto": "Art. 241-D. Aliciar, assediar, convidar, instigar ou constranger, por qualquer meio, menor de 14 (quatorze) anos, com o fim de praticar ato libidinoso: (Redação dada pela Lei nº 15.487, de 2026)\n\nPena - reclusão, de 3 (três) a 5 (cinco) anos, e multa, se o fato não constituir crime mais grave. (Redação dada pela Lei nº 15.487, de 2026)\n\n§ 1º Nas mesmas penas incorre quem: (Redação dada pela Lei nº 15.487, de 2026)\n\nI - permite, facilita ou induz o acesso de menor de 14 (quatorze) anos a material que contenha cena de sexo explícito ou nudez com o fim de com ele praticar ato libidinoso; (Redação dada pela Lei nº 15.487, de 2026)\n\nII - pratica as condutas descritas no caput deste artigo com o fim de induzir menor de 14 (quatorze) anos a se exibir de forma lasciva ou sexualmente explícita. (Redação dada pela Lei nº 15.487, de 2026)\n\n§ 2º A pena é aumentada de 1/3 (um terço) a 2/3 (dois terços) se o agente pratica as condutas previstas no caput e no § 1º deste artigo: (Incluído pela Lei nº 15.487, de 2026)\n\nI - utilizando recursos de inteligência artificial, deepfake, filtros ou qualquer outro recurso tecnológico que permita ao autor alterar sua imagem e voz, fazendo-se passar por criança ou adolescente, com o fim de induzir a vítima a se exibir de forma lasciva ou sexualmente explícita ou a fornecer fotografias ou vídeos sexuais ou sensuais; (Incluído pela Lei nº 15.487, de 2026)\n\nII - utilizando recursos de anonimização ou identidade ou perfil falsos, ocultando sua verdadeira idade ou empregando qualquer outra forma de ocultação digital; (Incluído pela Lei nº 15.487, de 2026)\n\nIII - utilizando aplicativos de mensagens instantâneas, salas de bate-papo, redes sociais, jogos online ou qualquer outro meio digital; (Incluído pela Lei nº 15.487, de 2026)\n\nIV - prometendo à vítima qualquer tipo de vantagem; (Incluído pela Lei nº 15.487, de 2026)\n\nV - valendo-se de relação de confiança, autoridade, cuidado, proteção, vigilância, educação ou convivência familiar ou profissional. (Incluído pela Lei nº 15.487, de 2026)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm#:~:text=Art.%20241-D.%20Aliciar%2C%20assediar%2C%20instigar%20ou%20constranger%2C%20por%20qualquer%20meio%20de%20comunica%C3%A7%C3%A3o%2C%20crian%C3%A7a%2C%20com%20o%20fim%20de%20com%20ela%20praticar%20ato%20libidinoso%3A",
       "keywords": [],
       "hierarchy": {
@@ -4477,7 +4541,7 @@
     },
     "241-E": {
       "numero": "241-E",
-      "texto": "Art. 241-E. Para efeito dos crimes previstos nesta Lei, a expressão “cena de sexo explícito ou pornográfica” compreende qualquer situação que envolva criança ou adolescente em atividades sexuais explícitas, reais ou simuladas, ou exibição dos órgãos genitais de uma criança ou adolescente para fins primordialmente sexuais. (Incluído pela Lei nº 11.829, de 2008)",
+      "texto": "Art. 241-E. Para efeito dos crimes previstos nesta Lei, considera-se material ou conteúdo de violência sexual contra criança ou adolescente qualquer representação, por qualquer meio, inclusive fotografia, vídeo, imagem digital ou outro registro audiovisual, que envolva criança ou adolescente, real ou fictício, ainda que produzida, manipulada ou gerada mediante o uso de tecnologias digitais, inclusive inteligência artificial, quando: (Redação dada pela Lei nº 15.487, de 2026)\n\nI - retratar atividade sexual explícita, real ou simulada; (Incluído pela Lei nº 15.487, de 2026)\n\nII - contiver nudez total ou parcial com finalidade sexual ou libidinosa; ou (Incluído pela Lei nº 15.487, de 2026)\n\nIII - representar situação, contexto, enquadramento ou pose que evidencie conotação sexual ou libidinosa, ainda que não haja exposição de órgãos genitais ou que esses estejam cobertos. (Incluído pela Lei nº 15.487, de 2026)\n\nParágrafo único. A verificação da natureza sexual ou libidinosa da representação deverá considerar o contexto da imagem, o modo de produção, o enquadramento, a finalidade e os demais elementos relevantes no caso concreto. (Incluído pela Lei nº 15.487, de 2026)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm#:~:text=Art.%20241-E.%20Para%20efeito%20dos%20crimes%20previstos%20nesta%20Lei%2C%20a%20express%C3%A3o%20%E2%80%9Ccena%20de%20sexo%20expl%C3%ADcito%20ou%20pornogr%C3%A1fica%E2%80%9D%20compreende%20qualquer%20situa%C3%A7%C3%A3o%20que%20envolva",
       "keywords": [],
       "hierarchy": {
@@ -4541,7 +4605,7 @@
     },
     "244-A": {
       "numero": "244-A",
-      "texto": "Art. 244-A. Submeter criança ou adolescente, como tais definidos no caput do art. 2 o desta Lei, à prostituição ou à exploração sexual: (Incluído pela Lei nº 9.975, de 23.6.2000)\n\nPena – reclusão de quatro a dez anos e multa, além da perda de bens e valores utilizados na prática criminosa em favor do Fundo dos Direitos da Criança e do Adolescente da unidade da Federação (Estado ou Distrito Federal) em que foi cometido o crime, ressalvado o direito de terceiro de boa-fé. (Redação dada pela Lei nº 13.440, de 2017)\n\n§ 1 o Incorrem nas mesmas penas o proprietário, o gerente ou o responsável pelo local em que se verifique a submissão de criança ou adolescente às práticas referidas no caput deste artigo. (Incluído pela Lei nº 9.975, de 23.6.2000)\n\n§ 2 o Constitui efeito obrigatório da condenação a cassação da licença de localização e de funcionamento do estabelecimento. (Incluído pela Lei nº 9.975, de 23.6.2000)",
+      "texto": "Art. 244-A. Submeter criança ou adolescente, como tais definidos no caput do art. 2º desta Lei, à exploração sexual, se o fato não constituir crime mais grave: (Redação dada pela Lei nº 15.487, de 2026)\n\nPena – reclusão de quatro a dez anos e multa, além da perda de bens e valores utilizados na prática criminosa em favor do Fundo dos Direitos da Criança e do Adolescente da unidade da Federação (Estado ou Distrito Federal) em que foi cometido o crime, ressalvado o direito de terceiro de boa-fé. (Redação dada pela Lei nº 13.440, de 2017)\n\n§ 1 o Incorrem nas mesmas penas o proprietário, o gerente ou o responsável pelo local em que se verifique a submissão de criança ou adolescente às práticas referidas no caput deste artigo. (Incluído pela Lei nº 9.975, de 23.6.2000)\n\n§ 2 o Constitui efeito obrigatório da condenação a cassação da licença de localização e de funcionamento do estabelecimento. (Incluído pela Lei nº 9.975, de 23.6.2000)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm#:~:text=Art.%20244-A.%20Submeter%20crian%C3%A7a%20ou%20adolescente%2C%20como%20tais%20definidos%20no%20caput%20do%20art.%202%20o%20desta%20Lei%2C%20%C3%A0%20prostitui%C3%A7%C3%A3o%20ou%20%C3%A0%20explora%C3%A7%C3%A3o",
       "keywords": [],
       "hierarchy": {

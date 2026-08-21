@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l10887.json",
       "colecao": "artigos",
-      "sha256": "9889905b0d5134f4a425cefca5ba22d5fa714eabe83e8e0a0586f03727503863",
+      "sha256": "2799cc5b419231ce2eafb32461cd4f4d8613f790faaab26d187c7a406b738d32",
       "total_registros": 20,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:32+00:00"
     },
     "relacao": {
       "chave": "numero",

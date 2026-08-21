@@ -47,7 +47,7 @@ export const TOTAL_EDICOES_INFORMATIVO = new Set(
 ).size;
 
 // ── Índice textual em memória ──────────────────────────────────────────────
-// Construído do texto publicado de cada julgado; cobre os 11.567 registros sem
+// Construído do texto publicado de cada julgado; cobre os 11.582 registros sem
 // índice derivado no disco. "Matéria" (100% preenchida) e "Título" garantem
 // recuperação mesmo nos julgados sem resumo ou tese.
 

@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l7998.json",
       "colecao": "artigos",
-      "sha256": "78c971b6e9d8556189b58accd66ae5b09fa1e27545a32286601c938c7705dc15",
+      "sha256": "3ea96151140f9fa70437286b9e5fff6d1cc1b8704e3fd6ea60f52211d21bd896",
       "total_registros": 45,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:34+00:00"
     },
     "relacao": {
       "chave": "numero",

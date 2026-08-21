@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l9656.json",
       "colecao": "artigos",
-      "sha256": "b1a32a10d90bf8cf4d7c476763d795eb6f8af84214c1e9f912a0ed70cc49da49",
+      "sha256": "354bef00dd34263be7a9d1cc5646b020510fd4959c95b34b057172afee3d4c99",
       "total_registros": 58,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:30+00:00"
     },
     "relacao": {
       "chave": "numero",

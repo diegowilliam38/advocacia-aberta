@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_l7357.json",
       "colecao": "artigos",
-      "sha256": "e67ec2c11b54cb606bf844a00a1088ec535c5874339a558a4ff61f340179362e",
+      "sha256": "d5334c1bda10d54655a2b75a7a7a27efe2bcfaf15151961368842f18354509ef",
       "total_registros": 71,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:30+00:00"
     },
     "relacao": {
       "chave": "numero",

@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_cp.json",
       "colecao": "artigos",
-      "sha256": "9fdf75fe57fb0174e13238d0d112930846dfa6d548e57378d9dc178eb8dd1990",
+      "sha256": "02a9235fb3e36188929f1c6c0620f93029a2de8e361dc9968923630d58675724",
       "total_registros": 432,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:10+00:00"
     },
     "relacao": {
       "chave": "numero",
@@ -3821,15 +3821,15 @@
           "literal": "(Incluído pela Lei nº 14.994, de 2024)"
         },
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
-            "numero": "14.994",
-            "ano": 2024
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "… praticado contra a mulher por razões da condição do sexo feminino, nos termos do § 1º do art. 121-A deste Código serão:",
-          "literal": "(Incluído pela Lei nº 14.994, de 2024)"
+          "trecho": "… no caput e no § 1º do art. 244-A da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), serão:",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
           "tipo": "inclusao",

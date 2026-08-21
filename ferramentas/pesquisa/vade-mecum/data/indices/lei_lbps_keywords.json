@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_lbps.json",
       "colecao": "artigos",
-      "sha256": "d23c8034b23087a54835af4112151dd744129f617e4927e42ba7cf8ed758a64f",
+      "sha256": "821f168e3cc4cc6c5e96c423584264f57bbca6a1bbef42e58c2954bf6ee3e859",
       "total_registros": 177,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:11+00:00"
     },
     "relacao": {
       "chave": "numero",

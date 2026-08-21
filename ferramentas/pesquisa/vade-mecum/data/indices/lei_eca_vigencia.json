@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_eca.json",
       "colecao": "artigos",
-      "sha256": "9f1f6c7e1429e6772f3f5a99a4943809db17c0989002cafd7207d9d1ee832e82",
-      "total_registros": 325,
-      "gerado_em": "2026-07-23"
+      "sha256": "58874cf2ac3ff21e555f07400b7614dbd8a715f9594260cde21c13513129fb11",
+      "total_registros": 329,
+      "gerado_em": "2026-08-21T22:36:11+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 139,
-      "anotacoes": 636,
+      "artigos_com_anotacao": 143,
+      "anotacoes": 662,
       "anotacoes_sem_diploma_nomeado": 12
     }
   },
@@ -5054,15 +5054,15 @@
       "situacao": null,
       "eventos": [
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "13.441",
-            "ano": 2017
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "… , 218 , 218-A e 218-B do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) , obedecerá às seguintes regras:",
-          "literal": "(Incluído pela Lei nº 13.441, de 2017)"
+          "trecho": "…8, 218-A, 218-B e 218-C do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), obedecerá às seguintes regras:",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
           "tipo": "inclusao",
@@ -5174,15 +5174,15 @@
       "situacao": null,
       "eventos": [
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "13.441",
-            "ano": 2017
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "…a Lei e nos arts. 154-A , 217-A , 218 , 218-A e 218-B do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) .",
-          "literal": "(Incluído pela Lei nº 13.441, de 2017)"
+          "trecho": "…ei e nos arts. 154-A, 217-A, 218, 218-A, 218-B e 218-C do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
           "tipo": "inclusao",
@@ -5248,6 +5248,77 @@
           },
           "trecho": "…-se a preservação da identidade do agente policial infiltrado e a intimidade das crianças e dos adolescentes envolvidos.",
           "literal": "(Incluído pela Lei nº 13.441, de 2017)"
+        }
+      ]
+    },
+    "190-F": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…sponibilizados em ambientes digitais públicos e relacionados a crimes de violência sexual contra criança ou adolescente.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "… correlatos, desde que acessíveis sem mecanismos especiais de ingresso, como autorização individual ou permissão prévia.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…sem necessidade de ordem judicial prévia, nos termos da Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet).",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…a legalidade do procedimento, vedada a utilização dos dados para fins diversos daqueles da investigação que os originou.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 4º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…4 de julho de 1996, nem a infiltração policial prevista no art. 190-A desta Lei, e dispensa autorização judicial prévia.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 5º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…eto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), relativas à cadeia de custódia da prova produzida.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
         }
       ]
     },
@@ -5866,6 +5937,33 @@
         }
       ]
     },
+    "226-A": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…ware, programa, ferramenta, navegador ou qualquer outro meio, com o objetivo de impedir ou dificultar sua identificação.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…para fins lícitos, como a proteção de dados pessoais ou comerciais, a garantia da privacidade e a segurança cibernética.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
+        }
+      ]
+    },
     "227-A": {
       "situacao": null,
       "eventos": [
@@ -5890,6 +5988,60 @@
           },
           "trecho": "Parágrafo único. A perda do cargo, do mandato ou da função, nesse caso, independerá da pena aplicada na reincidência.",
           "literal": "(Incluído pela Lei nº 13.869. de 2019)"
+        }
+      ]
+    },
+    "227-B": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…icossocial, de forma individual, especializada, contínua e integral, nos termos da Lei nº 13.431, de 4 de abril de 2017.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…odução, circulação e permanência do material de violência sexual em ambiente digital, inclusive em âmbito internacional.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…l e ambiente que garantam sua privacidade e restrição do acesso de terceiros não autorizados, especialmente do agressor.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
+        }
+      ]
+    },
+    "227-C": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "inclusao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "… arrecadados destinados ao Fundo de Saúde do ente federado responsável pela unidade de saúde que realizou o atendimento.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
         }
       ]
     },
@@ -5944,22 +6096,22 @@
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "…afar, filmar ou registrar, por qualquer meio, cena de sexo explícito ou pornográfica, envolvendo criança ou adolescente:",
-          "literal": "(Redação dada pela Lei nº 11.829, de 2008)"
+          "trecho": "…dirigir, fotografar, filmar ou registrar, por qualquer meio, conteúdo de violência sexual contra criança ou adolescente:",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "Pena – reclusão, de 4 (quatro) a 8 (oito) anos, e multa.",
-          "literal": "(Redação dada pela Lei nº 11.829, de 2008)"
+          "trecho": "Pena - reclusão, de 4 (quatro) a 10 (dez) anos, e multa.",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
           "tipo": "redacao",
@@ -5973,37 +6125,37 @@
           "literal": "(Redação dada pela Lei nº 14.811, de 2024)"
         },
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "inciso I",
           "diploma": {
             "especie": "Lei",
-            "numero": "14.811",
-            "ano": 2024
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "… a participação de criança ou adolescente nas cenas referidas no caput deste artigo, ou ainda quem com esses contracena;",
-          "literal": "(Incluído pela Lei nº 14.811, de 2024)"
+          "trecho": "… a participação de criança ou adolescente no conteúdo referido no caput deste artigo, ou ainda quem com eles contracena;",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "inciso II",
           "diploma": {
             "especie": "Lei",
-            "numero": "14.811",
-            "ano": 2024
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "…alquer meio ou ambiente digital, de cena de sexo explícito ou pornográfica com a participação de criança ou adolescente.",
-          "literal": "(Incluído pela Lei nº 14.811, de 2024)"
+          "trecho": "…ositivo informático ou qualquer meio ou ambiente digital, de conteúdo de violência sexual contra criança ou adolescente.",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
           "tipo": "redacao",
           "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "§ 2 o Aumenta-se a pena de 1/3 (um terço) se o agente comete o crime:",
-          "literal": "(Redação dada pela Lei nº 11.829, de 2008)"
+          "trecho": "§ 2º Aumenta-se a pena de 1/3 (um terço) a 2/3 (dois terços) se o agente comete o crime:",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
           "tipo": "redacao",
@@ -6048,22 +6200,33 @@
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "…tografia, vídeo ou outro registro que contenha cena de sexo explícito ou pornográfica envolvendo criança ou adolescente:",
-          "literal": "(Redação dada pela Lei nº 11.829, de 2008)"
+          "trecho": "…Vender ou expor à venda fotografia, vídeo ou outro registro que contenha violência sexual contra criança ou adolescente:",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "Pena – reclusão, de 4 (quatro) a 8 (oito) anos, e multa.",
-          "literal": "(Redação dada pela Lei nº 11.829, de 2008)"
+          "trecho": "…riança e do Adolescente da unidade da Federação em que foi cometido o crime, ressalvado o direito de terceiro de boa-fé.",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "… por meio de tecnologias da informação e comunicação, incluídas a internet e suas aplicações, bem como as redes sociais.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
         }
       ]
     },
@@ -6071,26 +6234,26 @@
       "situacao": null,
       "eventos": [
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "…tografia, vídeo ou outro registro que contenha cena de sexo explícito ou pornográfica envolvendo criança ou adolescente:",
-          "literal": "(Incluído pela Lei nº 11.829, de 2008)"
+          "trecho": "…ormática ou telemático, fotografia, vídeo ou outro registro que contenha violência sexual contra criança ou adolescente:",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "Pena – reclusão, de 3 (três) a 6 (seis) anos, e multa.",
-          "literal": "(Incluído pela Lei nº 11.829, de 2008)"
+          "trecho": "Pena - reclusão, de 4 (quatro) a 10 (dez) anos, e multa.",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
           "tipo": "inclusao",
@@ -6127,6 +6290,17 @@
         },
         {
           "tipo": "inclusao",
+          "unidade": "inciso III",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…o fim de armazenar, disponibilizar, compartilhar ou produzir material de violência sexual contra criança ou adolescente.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
           "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
@@ -6135,6 +6309,17 @@
           },
           "trecho": "…o serviço, oficialmente notificado, deixa de desabilitar o acesso ao conteúdo ilícito de que trata o caput deste artigo.",
           "literal": "(Incluído pela Lei nº 11.829, de 2008)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…m mais de uma plataforma digital, rede social, serviço de vídeo sob demanda ou aplicativo acessível ao público em geral.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
         }
       ]
     },
@@ -6142,37 +6327,37 @@
       "situacao": null,
       "eventos": [
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "… vídeo ou outra forma de registro que contenha cena de sexo explícito ou pornográfica envolvendo criança ou adolescente:",
-          "literal": "(Incluído pela Lei nº 11.829, de 2008)"
+          "trecho": "…qualquer meio, fotografia, vídeo ou outra forma de registro que contenha violência sexual contra criança ou adolescente:",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "Pena – reclusão, de 1 (um) a 4 (quatro) anos, e multa.",
-          "literal": "(Incluído pela Lei nº 11.829, de 2008)"
+          "trecho": "Pena - reclusão, de 3 (três) a 6 (seis) anos, e multa.",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "…pena é diminuída de 1 (um) a 2/3 (dois terços) se de pequena quantidade o material a que se refere o caput deste artigo.",
-          "literal": "(Incluído pela Lei nº 11.829, de 2008)"
+          "trecho": "…minuída de 1/6 (um sexto) a 1/3 (um terço) se for pequena a quantidade de material a que se refere o caput deste artigo.",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
           "tipo": "inclusao",
@@ -6228,6 +6413,17 @@
           },
           "trecho": "§ 3 o As pessoas referidas no § 2 o deste artigo deverão manter sob sigilo o material ilícito referido.",
           "literal": "(Incluído pela Lei nº 11.829, de 2008)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 4º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…erial de violência sexual contra criança ou adolescente, com a finalidade de satisfazer a própria lascívia ou de outrem.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
         }
       ]
     },
@@ -6235,26 +6431,26 @@
       "situacao": null,
       "eventos": [
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "…a por meio de adulteração, montagem ou modificação de fotografia, vídeo ou qualquer outra forma de representação visual:",
-          "literal": "(Incluído pela Lei nº 11.829, de 2008)"
+          "trecho": "… mediante qualquer recurso tecnológico que altere imagem ou voz da vítima, inclusive com uso de inteligência artificial:",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "Pena – reclusão, de 1 (um) a 3 (três) anos, e multa.",
-          "literal": "(Incluído pela Lei nº 11.829, de 2008)"
+          "trecho": "Pena - reclusão, de 3 (três) a 5 (cinco) anos, e multa.",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
           "tipo": "inclusao",
@@ -6273,59 +6469,125 @@
       "situacao": null,
       "eventos": [
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "…ediar, instigar ou constranger, por qualquer meio de comunicação, criança, com o fim de com ela praticar ato libidinoso:",
-          "literal": "(Incluído pela Lei nº 11.829, de 2008)"
+          "trecho": "…convidar, instigar ou constranger, por qualquer meio, menor de 14 (quatorze) anos, com o fim de praticar ato libidinoso:",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "Pena – reclusão, de 1 (um) a 3 (três) anos, e multa.",
-          "literal": "(Incluído pela Lei nº 11.829, de 2008)"
+          "trecho": "Pena - reclusão, de 3 (três) a 5 (cinco) anos, e multa, se o fato não constituir crime mais grave.",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "§ 1º Nas mesmas penas incorre quem:",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…14 (quatorze) anos a material que contenha cena de sexo explícito ou nudez com o fim de com ele praticar ato libidinoso;",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso II",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…put deste artigo com o fim de induzir menor de 14 (quatorze) anos a se exibir de forma lasciva ou sexualmente explícita.",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
           "tipo": "inclusao",
-          "unidade": "parágrafo único",
+          "unidade": "§ 2º",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "Parágrafo único. Nas mesmas penas incorre quem:",
-          "literal": "(Incluído pela Lei nº 11.829, de 2008)"
+          "trecho": "…mentada de 1/3 (um terço) a 2/3 (dois terços) se o agente pratica as condutas previstas no caput e no § 1º deste artigo:",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso I",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "…esso à criança de material contendo cena de sexo explícito ou pornográfica com o fim de com ela praticar ato libidinoso;",
-          "literal": "(Incluído pela Lei nº 11.829, de 2008)"
+          "trecho": "… a vítima a se exibir de forma lasciva ou sexualmente explícita ou a fornecer fotografias ou vídeos sexuais ou sensuais;",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
         },
         {
           "tipo": "inclusao",
           "unidade": "inciso II",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "…descritas no caput deste artigo com o fim de induzir criança a se exibir de forma pornográfica ou sexualmente explícita.",
-          "literal": "(Incluído pela Lei nº 11.829, de 2008)"
+          "trecho": "… ou identidade ou perfil falsos, ocultando sua verdadeira idade ou empregando qualquer outra forma de ocultação digital;",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso III",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…o aplicativos de mensagens instantâneas, salas de bate-papo, redes sociais, jogos online ou qualquer outro meio digital;",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso IV",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "IV - prometendo à vítima qualquer tipo de vantagem;",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso V",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…se de relação de confiança, autoridade, cuidado, proteção, vigilância, educação ou convivência familiar ou profissional.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
         }
       ]
     },
@@ -6333,15 +6595,59 @@
       "situacao": null,
       "eventos": [
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "11.829",
-            "ano": 2008
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "…as, reais ou simuladas, ou exibição dos órgãos genitais de uma criança ou adolescente para fins primordialmente sexuais.",
-          "literal": "(Incluído pela Lei nº 11.829, de 2008)"
+          "trecho": "…a que produzida, manipulada ou gerada mediante o uso de tecnologias digitais, inclusive inteligência artificial, quando:",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "I - retratar atividade sexual explícita, real ou simulada;",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso II",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "II - contiver nudez total ou parcial com finalidade sexual ou libidinosa; ou",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso III",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…evidencie conotação sexual ou libidinosa, ainda que não haja exposição de órgãos genitais ou que esses estejam cobertos.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "parágrafo único",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "…contexto da imagem, o modo de produção, o enquadramento, a finalidade e os demais elementos relevantes no caso concreto.",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
         }
       ]
     },
@@ -6403,15 +6709,15 @@
       "situacao": null,
       "eventos": [
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
             "especie": "Lei",
-            "numero": "9.975",
-            "ano": 2000
+            "numero": "15.487",
+            "ano": 2026
           },
-          "trecho": "…meter criança ou adolescente, como tais definidos no caput do art. 2 o desta Lei, à prostituição ou à exploração sexual:",
-          "literal": "(Incluído pela Lei nº 9.975, de 23.6.2000)"
+          "trecho": "…ente, como tais definidos no caput do art. 2º desta Lei, à exploração sexual, se o fato não constituir crime mais grave:",
+          "literal": "(Redação dada pela Lei nº 15.487, de 2026)"
         },
         {
           "tipo": "redacao",

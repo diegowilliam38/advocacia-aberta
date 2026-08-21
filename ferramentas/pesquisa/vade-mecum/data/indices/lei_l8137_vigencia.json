@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l8137.json",
       "colecao": "artigos",
-      "sha256": "b2d95c4a18b653a62a7b44ed0aad8f2d37cbbf658ddda31f0ab72942fa46309d",
+      "sha256": "f079c1e725dd8e4c97f692da16cddd3d04ef1f196ae7a04b3500c5bd99d24cf5",
       "total_registros": 23,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:32+00:00"
     },
     "relacao": {
       "chave": "numero",

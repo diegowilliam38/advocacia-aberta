@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l9717.json",
       "colecao": "artigos",
-      "sha256": "19e79bd928af84284d3b25931e77c03da485adbf2d12697ae250b9f249e34b7d",
+      "sha256": "61ad0d9690660bb8214b6a5bea7b63f23dbf72fa19f3f367bcceaa9dc8997bc3",
       "total_registros": 15,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:33+00:00"
     },
     "relacao": {
       "chave": "numero",

@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l8245.json",
       "colecao": "artigos",
-      "sha256": "da2c018f7e0087c53ae731ae3ac1c83063744794979ddd2b949f9f6df902b754",
+      "sha256": "f069429c904ac8d2998bb60c18812c689167e101c46444ebdf8db32004614943",
       "total_registros": 91,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:32+00:00"
     },
     "relacao": {
       "chave": "numero",

@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l4950a.json",
       "colecao": "artigos",
-      "sha256": "f22706e9e2850b72560070883e4620f7fea55e4c02db2d745315402ef6c63367",
+      "sha256": "31a48ede61a88060570a594b49fbb27bf98ccbed833833d25ee587d8b579f84f",
       "total_registros": 8,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:34+00:00"
     },
     "relacao": {
       "chave": "numero",

@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_lcp.json",
       "colecao": "artigos",
-      "sha256": "8bdce884808c0e268c6c251a852128581788b74e15fedce68f3c818682fe20a6",
+      "sha256": "a57172e0d359e7c231b051bfcdda8a92dd511d35ae256b171957e50e4323c499",
       "total_registros": 72,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:32+00:00"
     },
     "relacao": {
       "chave": "numero",

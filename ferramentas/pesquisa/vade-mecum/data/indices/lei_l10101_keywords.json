@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_l10101.json",
       "colecao": "artigos",
-      "sha256": "e4183404af4cf376bcbfe2900893c73526188efb3c82a3651473f6964496c10a",
+      "sha256": "b9a849f891226292585983ca0c8e76b055d0928c8d423309d68ad855e6e04666",
       "total_registros": 10,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:34+00:00"
     },
     "relacao": {
       "chave": "numero",

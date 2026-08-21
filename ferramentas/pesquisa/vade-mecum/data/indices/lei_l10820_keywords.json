@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_l10820.json",
       "colecao": "artigos",
-      "sha256": "9983681debeb5c1ff3c365f8f4ad2d3e8cb965abe6031981d8e5334d675ba76b",
+      "sha256": "37c4080d7c3dde59bc5d812a9646d198dddb842ebd01def3ce0f0ff3d924832f",
       "total_registros": 23,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:30+00:00"
     },
     "relacao": {
       "chave": "numero",

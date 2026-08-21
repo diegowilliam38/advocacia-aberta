@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_l11977.json",
       "colecao": "artigos",
-      "sha256": "ab81c753cf1ae73c34c64e844033dead22618b038388a71579bcd01df5e5b8d9",
+      "sha256": "10c22a61c567c796cf356ce6e6861d13610c96d69396d4907591169d388fab4e",
       "total_registros": 80,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:32+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 50,
-      "anotacoes": 275,
+      "artigos_com_anotacao": 53,
+      "anotacoes": 277,
       "anotacoes_sem_diploma_nomeado": 19
     }
   },
@@ -1752,15 +1752,15 @@
           "literal": "(Incluído pela Lei nº 14.118, de 2021)"
         },
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Lei",
-            "numero": "14.118",
-            "ano": 2021
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
           },
-          "trecho": "…procedimentos necessários para inscrição das instituições ou agentes financeiros inadimplentes na dívida ativa da União.",
-          "literal": "(Incluído pela Lei nº 14.118, de 2021)"
+          "trecho": "…rocedimentos necessários à inscrição das instituições ou dos agentes financeiros inadimplentes na Dívida Ativa da União.",
+          "literal": "(Redação dada pela Medida Provisória nº 1.382, de 2026)"
         },
         {
           "tipo": "inclusao",
@@ -1796,15 +1796,15 @@
           "literal": "(Incluído pela Lei nº 14.118, de 2021)"
         },
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "§ 3º",
           "diploma": {
-            "especie": "Lei",
-            "numero": "14.118",
-            "ano": 2021
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
           },
-          "trecho": "…tério do Desenvolvimento Regional as unidades habitacionais que tenham viabilidade de execução para conclusão e entrega.",
-          "literal": "(Incluído pela Lei nº 14.118, de 2021)"
+          "trecho": "…eclarar ao Ministério das Cidades as unidades habitacionais que tenham viabilidade de execução para conclusão e entrega.",
+          "literal": "(Redação dada pela Medida Provisória nº 1.382, de 2026)"
         },
         {
           "tipo": "redacao",
@@ -1840,15 +1840,15 @@
           "literal": "(Incluído pela Lei nº 14.118, de 2021)"
         },
         {
-          "tipo": "inclusao",
+          "tipo": "redacao",
           "unidade": "§ 7º",
           "diploma": {
-            "especie": "Lei",
-            "numero": "14.118",
-            "ano": 2021
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
           },
-          "trecho": "…e se refere o inciso II do caput deste artigo pelas instituições ou agentes financeiros implica a extinção da obrigação.",
-          "literal": "(Incluído pela Lei nº 14.118, de 2021)"
+          "trecho": "…ção a que se refere o inciso II do § 2º pelas instituições ou pelos agentes financeiros implica a extinção da obrigação.",
+          "literal": "(Redação dada pela Medida Provisória nº 1.382, de 2026)"
         },
         {
           "tipo": "inclusao",
@@ -2099,78 +2099,78 @@
           "tipo": "redacao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Lei",
-            "numero": "14.620",
-            "ano": 2023
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
           },
-          "trecho": "…financeiras consignadas nas dotações anuais, do Fundo Garantidor da Habitação Popular (FGHab), que terá por finalidades:",
-          "literal": "(Redação dada pela Lei nº 14.620, de 2023)"
+          "trecho": "…conjunto do Ministério da Fazenda e do Ministério das Cidades, no âmbito dos programas habitacionais do Governo federal.",
+          "literal": "(Redação dada pela Medida Provisória nº 1.382, de 2026)"
         },
         {
-          "tipo": "redacao",
+          "tipo": "revogacao",
           "unidade": "inciso I",
           "diploma": {
-            "especie": "Lei",
-            "numero": "14.462",
-            "ano": 2022
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
           },
-          "trecho": "…da capacidade de pagamento, para famílias com renda mensal de até R$ 4.650,00 (quatro mil seiscentos e cinquenta reais);",
-          "literal": "(Redação dada pela Lei nº 14.462, de 2022)"
+          "trecho": "I -",
+          "literal": "(Revogado pela Medida Provisória nº 1.382, de 2026)"
         },
         {
-          "tipo": "redacao",
+          "tipo": "revogacao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Lei",
-            "numero": "14.462",
-            "ano": 2022
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
           },
-          "trecho": "…sicos ao imóvel para mutuários com renda familiar mensal de até R$ 4.650,00 (quatro mil seiscentos e cinquenta reais); e",
-          "literal": "(Redação dada pela Lei nº 14.462, de 2022)"
+          "trecho": "II -",
+          "literal": "(Revogado pela Medida Provisória nº 1.382, de 2026)"
         },
         {
-          "tipo": "redacao",
+          "tipo": "revogacao",
           "unidade": "inciso III",
           "diploma": {
-            "especie": "Lei",
-            "numero": "14.462",
-            "ano": 2022
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
           },
-          "trecho": "… inciso III do § 6º do art. 3º desta Lei, no âmbito dos programas habitacionais do governo federal estabelecidos em lei.",
-          "literal": "(Redação dada pela Lei nº 14.462, de 2022)"
+          "trecho": "III -",
+          "literal": "(Revogado pela Medida Provisória nº 1.382, de 2026)"
         },
         {
-          "tipo": "redacao",
+          "tipo": "revogacao",
           "unidade": "inciso IV",
           "diploma": {
             "especie": "Medida Provisória",
-            "numero": "1.350",
+            "numero": "1.382",
             "ano": 2026
           },
-          "trecho": "…com a renda familiar mensal de que trata o art. 5º, caput, inciso I, e § 1º-A, da Lei nº 14.620, de 13 de julho de 2023.",
-          "literal": "(Redação dada pela Medida Provisória nº 1.350, de 2026)"
+          "trecho": "IV -",
+          "literal": "(Revogado pela Medida Provisória nº 1.382, de 2026)"
         },
         {
-          "tipo": "redacao",
+          "tipo": "revogacao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Lei",
-            "numero": "12.249",
-            "ano": 2010
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
           },
-          "trecho": "…o estatuto do FGHab, que poderá estabelecer os casos em que será oferecida somente a cobertura de que trata o inciso II.",
-          "literal": "(Redação dada pela Lei nº 12.249, de 2010)"
+          "trecho": "§ 1o",
+          "literal": "(Revogado pela Medida Provisória nº 1.382, de 2026)"
         },
         {
-          "tipo": "redacao",
+          "tipo": "revogacao",
           "unidade": "§ 1º",
           "diploma": {
-            "especie": "Lei",
-            "numero": "15.164",
-            "ano": 2025
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
           },
-          "trecho": "…, III e IV do caput deste artigo para as quais as condições e os limites tenham sido estabelecidos no estatuto do FGHab.",
-          "literal": "(Redação dada pela Lei nº 15.164, de 2025)"
+          "trecho": "§ 1º-A.",
+          "literal": "(Revogado pela Medida Provisória nº 1.382, de 2026)"
         },
         {
           "tipo": "revogacao",
@@ -2222,6 +2222,77 @@
           },
           "trecho": "…a pelo estatuto, podendo ser dispensados dessa obrigação nos casos de operações de crédito para melhorias habitacionais.",
           "literal": "(Redação dada pela Lei nº 15.164, de 2025)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 5º",
+          "diploma": {
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
+          },
+          "trecho": "…de que trata este artigo, em moeda corrente, no montante de R$ 750.000.000,00 (setecentos e cinquenta milhões de reais).",
+          "literal": "(Incluído pela Medida Provisória nº 1.382, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 7º",
+          "diploma": {
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
+          },
+          "trecho": "…, arresto, sequestro, busca e apreensão ou qualquer ato de constrição judicial decorrente de outras obrigações do Fundo.",
+          "literal": "(Incluído pela Medida Provisória nº 1.382, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 8º",
+          "diploma": {
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
+          },
+          "trecho": "§ 8º A constituição do patrimônio de afetação será feita por registro em cartório de registro de títulos e documentos.",
+          "literal": "(Incluído pela Medida Provisória nº 1.382, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 9º",
+          "diploma": {
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
+          },
+          "trecho": "…ão estabelecidos em ato conjunto do Ministério da Fazenda e do Ministério das Cidades e detalhados no estatuto do FGHab.",
+          "literal": "(Incluído pela Medida Provisória nº 1.382, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 10º",
+          "diploma": {
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
+          },
+          "trecho": "…s em operações contratadas até 31 de maio de 2022 ficam mantidas, observado o regramento vigente à época da contratação.",
+          "literal": "(Incluído pela Medida Provisória nº 1.382, de 2026)"
+        }
+      ]
+    },
+    "21": {
+      "situacao": "revogado",
+      "eventos": [
+        {
+          "tipo": "revogacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
+          },
+          "trecho": "Art. 21.",
+          "literal": "(Revogado pela Medida Provisória nº 1.382, de 2026)"
         }
       ]
     },
@@ -2230,30 +2301,84 @@
       "eventos": [
         {
           "tipo": "redacao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
+          },
+          "trecho": "§ 2º A instituição financeira de que trata o caput, na forma estabelecida no estatuto do FGHab:",
+          "literal": "(Redação dada pela Medida Provisória nº 1.382, de 2026)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
+          },
+          "trecho": "…dos direitos do FGHab, de modo a zelar pela manutenção de sua rentabilidade e liquidez, após autorização dos cotistas; e",
+          "literal": "(Redação dada pela Medida Provisória nº 1.382, de 2026)"
+        },
+        {
+          "tipo": "redacao",
           "unidade": "inciso II",
           "diploma": {
-            "especie": "Lei",
-            "numero": "15.164",
-            "ano": 2025
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
           },
           "trecho": "…rio, somado a outras eventuais cobranças de caráter securitário, não ultrapasse 10% (dez por cento) da prestação mensal.",
-          "literal": "(Redação dada pela Lei nº 15.164, de 2025)"
+          "literal": "(Redação dada pela Medida Provisória nº 1.382, de 2026)"
+        }
+      ]
+    },
+    "27": {
+      "situacao": "revogado",
+      "eventos": [
+        {
+          "tipo": "revogacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
+          },
+          "trecho": "Art. 27.",
+          "literal": "(Revogado pela Medida Provisória nº 1.382, de 2026)"
         }
       ]
     },
     "27-A": {
-      "situacao": null,
+      "situacao": "revogado",
       "eventos": [
         {
-          "tipo": "redacao",
+          "tipo": "revogacao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Lei",
-            "numero": "15.164",
-            "ano": 2025
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
           },
-          "trecho": "…aput do art. 20 desta Lei serão prestadas por meio de condições e de limites a serem estabelecidos no estatuto do FGHab.",
-          "literal": "(Redação dada pela Lei nº 15.164, de 2025)"
+          "trecho": "Art. 27-A.",
+          "literal": "(Revogado pela Medida Provisória nº 1.382, de 2026)"
+        }
+      ]
+    },
+    "28": {
+      "situacao": "revogado",
+      "eventos": [
+        {
+          "tipo": "revogacao",
+          "unidade": "caput",
+          "diploma": {
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
+          },
+          "trecho": "Art. 28.",
+          "literal": "(Revogado pela Medida Provisória nº 1.382, de 2026)"
         }
       ]
     },
@@ -2274,122 +2399,34 @@
       ]
     },
     "30": {
-      "situacao": null,
+      "situacao": "revogado",
       "eventos": [
         {
-          "tipo": "redacao",
+          "tipo": "revogacao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Lei",
-            "numero": "14.462",
-            "ano": 2022
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
           },
-          "trecho": "…Hab de que trata o art. 20 desta Lei serão prestadas às operações de financiamento habitacional nas seguintes hipóteses:",
-          "literal": "(Redação dada pela Lei nº 14.462, de 2022)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "14.462",
-            "ano": 2022
-          },
-          "trecho": "I - produção ou aquisição de imóveis em áreas urbanas;",
-          "literal": "(Redação dada pela Lei nº 14.462, de 2022)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.249",
-            "ano": 2010
-          },
-          "trecho": "…ualificação de imóveis já existentes em áreas consolidadas no âmbito do Programa Nacional de Habitação Urbana - PNHU; ou",
-          "literal": "(Redação dada pela Lei nº 12.249, de 2010)"
-        },
-        {
-          "tipo": "redacao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.249",
-            "ano": 2010
-          },
-          "trecho": "III - produção de moradia no âmbito do Programa Nacional de Habitação Rural - PNHR.",
-          "literal": "(Redação dada pela Lei nº 12.249, de 2010)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "§ 1º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.249",
-            "ano": 2010
-          },
-          "trecho": "§ 1o A contratação das coberturas de que trata o caput está sujeita às seguintes condições:",
-          "literal": "(Incluído pela Lei nº 12.249, de 2010)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso I",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.249",
-            "ano": 2010
-          },
-          "trecho": "I - os valores de financiamento devem obedecer aos limites definidos no estatuto do Fundo;",
-          "literal": "(Incluído pela Lei nº 12.249, de 2010)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso II",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.249",
-            "ano": 2010
-          },
-          "trecho": "II - a cobertura do FGHab está limitada a um único imóvel financiado por mutuário no âmbito do SFH; e",
-          "literal": "(Incluído pela Lei nº 12.249, de 2010)"
-        },
-        {
-          "tipo": "inclusao",
-          "unidade": "inciso III",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.249",
-            "ano": 2010
-          },
-          "trecho": "…o FGHab deve estar expressa em cláusula específica dos contratos celebrados entre os agentes financeiros e os mutuários.",
-          "literal": "(Incluído pela Lei nº 12.249, de 2010)"
-        },
-        {
-          "tipo": "renumeracao",
-          "unidade": "§ 2º",
-          "diploma": {
-            "especie": "Lei",
-            "numero": "12.249",
-            "ano": 2010
-          },
-          "trecho": "§ 2o O estatuto do FGHab definirá o prazo das coberturas oferecidas pelo Fundo.",
-          "literal": "(Renumerado pelo parágrafo único pela Lei nº 12.249, de 2010)"
+          "trecho": "Art. 30.",
+          "literal": "(Revogado pela Medida Provisória nº 1.382, de 2026)"
         }
       ]
     },
     "30-A": {
-      "situacao": null,
+      "situacao": "revogado",
       "eventos": [
         {
-          "tipo": "redacao",
+          "tipo": "revogacao",
           "unidade": "caput",
           "diploma": {
-            "especie": "Lei",
-            "numero": "15.164",
-            "ano": 2025
+            "especie": "Medida Provisória",
+            "numero": "1.382",
+            "ano": 2026
           },
-          "trecho": "…As coberturas do FGHab serão prestadas às operações de crédito para melhorias habitacionais, conforme estatuto do Fundo.",
-          "literal": "(Redação dada pela Lei nº 15.164, de 2025)"
+          "trecho": "Art. 30-A.",
+          "literal": "(Revogado pela Medida Provisória nº 1.382, de 2026)"
         }
       ]
     },

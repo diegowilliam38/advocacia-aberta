@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_dl167.json",
       "colecao": "artigos",
-      "sha256": "f2ac929eab6d99754a86437ecaa2f06ce0a9ce03559007eb0ff43dd17c84fe4e",
+      "sha256": "a4c957817e037fb744e20e6ac3ae40f9e26c2c8f89fb8939f9744f030d453d52",
       "total_registros": 84,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:32+00:00"
     },
     "relacao": {
       "chave": "numero",

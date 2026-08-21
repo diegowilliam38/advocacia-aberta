@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l12815.json",
       "colecao": "artigos",
-      "sha256": "e9fab0c2bf725a4ea60889ecb0790f62f3602da4d31a6054af3fcbee02518265",
+      "sha256": "1904cabdd3b6448df738b4110dc3f51d8a71d382f41cdf7a16134802331cf8fc",
       "total_registros": 81,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:34+00:00"
     },
     "relacao": {
       "chave": "numero",

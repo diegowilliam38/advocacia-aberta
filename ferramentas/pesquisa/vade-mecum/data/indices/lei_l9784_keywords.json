@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_l9784.json",
       "colecao": "artigos",
-      "sha256": "901aea076a9a007b484be30ff948ac9a3d452441059617d9c7f71dbeac0c9d10",
+      "sha256": "5180fc4ca3eb875ccd64e2f6abc0f1e4c0e07def2bbcfd6fc28464552f36f47b",
       "total_registros": 80,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:29+00:00"
     },
     "relacao": {
       "chave": "numero",

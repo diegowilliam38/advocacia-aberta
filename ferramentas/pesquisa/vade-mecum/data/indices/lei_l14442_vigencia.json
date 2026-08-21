@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l14442.json",
       "colecao": "artigos",
-      "sha256": "8c04deaffd3408daa33a80f20a4c1e64a1ee8783c0c1eaaf462f41686733703a",
+      "sha256": "cb989d750ea55b7ace3f47abb1981f5a6d78a1e52dcdcfc193075ec07bd05b3d",
       "total_registros": 8,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:34+00:00"
     },
     "relacao": {
       "chave": "numero",

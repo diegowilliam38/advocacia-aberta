@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_d2181.json",
       "colecao": "artigos",
-      "sha256": "40c2e0be57d79a6712016af8879760899b42fc0ea60a4bd40d80e932a365e72f",
+      "sha256": "18f1f1d8bd89ebca86406407665276c0853562ce3ab10f9641d0427a0140b245",
       "total_registros": 80,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:30+00:00"
     },
     "relacao": {
       "chave": "numero",

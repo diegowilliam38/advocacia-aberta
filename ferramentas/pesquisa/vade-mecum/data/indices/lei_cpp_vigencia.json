@@ -23,15 +23,15 @@
     "fonte": {
       "arquivo": "lei_cpp.json",
       "colecao": "artigos",
-      "sha256": "b3e6a069b3db5fba596b72bc7eef0f8e5920089dfba785e295455ccb4db0600e",
+      "sha256": "b328cba56e9e580ef44a76eb1488910a80e1d938f543ae1535663634358af463",
       "total_registros": 849,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:10+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
       "artigos_com_anotacao": 320,
-      "anotacoes": 1078,
+      "anotacoes": 1079,
       "anotacoes_sem_diploma_nomeado": 114
     }
   },
@@ -4992,6 +4992,17 @@
           },
           "trecho": "…consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil.",
           "literal": "(Incluído pela Lei nº 15.358, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso VI",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.487",
+            "ano": 2026
+          },
+          "trecho": "… previstos nos arts. 240 a 241-D e 244-A da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente).",
+          "literal": "(Incluído pela Lei nº 15.487, de 2026)"
         },
         {
           "tipo": "redacao",

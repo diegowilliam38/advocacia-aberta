@@ -6,13 +6,12 @@
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
     "total_artigos": 387,
     "version": "2.0",
-    "gerado_em": "2026-07-23",
+    "gerado_em": "2026-08-21T22:36:09+00:00",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": [
       "247",
       "248",
       "337",
-      "349",
       "352",
       "373"
     ]
@@ -8812,7 +8811,7 @@
     },
     "348": {
       "numero": "348",
-      "texto": "Art. 348. Falsificar, no todo ou em parte, documento público, ou alterar documento público verdadeiro, para fins eleitorais:\n\nPena - reclusão de dois a seis anos e pagamento de 15 a 30 dias-multa.\n\n§ 1º Se o agente é funcionário público e comete o crime prevalecendo-se do cargo, a pena é agravada.\n\n§ 2º Para os efeitos penais, equipara-se a documento público o emanado de entidade paraestatal inclusive Fundação do Estado.\n\nAr. 349. Falsificar, no todo ou em parte, documento particular ou alterar documento particular verdadeiro, para fins eleitorais:\n\nPena - reclusão até cinco anos e pagamento de 3 a 10 dias-multa.",
+      "texto": "Art. 348. Falsificar, no todo ou em parte, documento público, ou alterar documento público verdadeiro, para fins eleitorais:\n\nPena - reclusão de dois a seis anos e pagamento de 15 a 30 dias-multa.\n\n§ 1º Se o agente é funcionário público e comete o crime prevalecendo-se do cargo, a pena é agravada.\n\n§ 2º Para os efeitos penais, equipara-se a documento público o emanado de entidade paraestatal inclusive Fundação do Estado.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/L4737compilado.htm#:~:text=Art.%20348.",
       "keywords": [
         "falsificacao documento",
@@ -8837,20 +8836,8 @@
     },
     "349": {
       "numero": "349",
-      "prev": "348",
-      "next": "350",
-      "texto": "Art. 349. Falsificar, no todo ou em parte, documento particular, ou alterar documento particular verdadeiro, para fins eleitorais:\nPena - reclusão até 5 (cinco) anos e pagamento de 3 (três) a 10 (dez) dias-multa.",
+      "texto": "Art. 349. Falsificar, no todo ou em parte, documento particular ou alterar documento particular verdadeiro, para fins eleitorais:\n\nPena - reclusão até cinco anos e pagamento de 3 a 10 dias-multa.",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/L4737compilado.htm#:~:text=Art.%20349.",
-      "hierarchy": {
-        "parte": "QUINTA",
-        "parte_name": "Disposições Várias",
-        "titulo": "IV",
-        "titulo_name": "Disposições Penais",
-        "capitulo": "II",
-        "capitulo_name": "Dos Crimes Eleitorais",
-        "secao": null,
-        "secao_name": null
-      },
       "keywords": [
         "falsificar documento",
         "documento particular",
@@ -8861,7 +8848,17 @@
         "fraude eleitoral",
         "pagamento multa",
         "conduta vedada"
-      ]
+      ],
+      "hierarchy": {
+        "title": "IV",
+        "title_name": "DISPOSIÇÕES PENAIS",
+        "chapter": "II",
+        "chapter_name": "DOS CRIMES ELEITORAIS",
+        "section": null,
+        "section_name": null
+      },
+      "prev": "348",
+      "next": "350"
     },
     "350": {
       "numero": "350",

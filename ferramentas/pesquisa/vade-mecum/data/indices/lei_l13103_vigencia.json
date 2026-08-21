@@ -23,19 +23,46 @@
     "fonte": {
       "arquivo": "lei_l13103.json",
       "colecao": "artigos",
-      "sha256": "61a34834a5544892eca754c8506e0bc532081d86032bc729b799e7fc4b02e818",
+      "sha256": "835df13291bbd27ea456a1e14c696ebf4adf739688e202cfd831621e7754bb43",
       "total_registros": 22,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:34+00:00"
     },
     "relacao": {
       "chave": "numero",
       "cobertura": "parcial por desenho: só entram os artigos cuja fonte traz anotação de alteração; a ausência significa que o Planalto não anotou mudança, nunca que o dispositivo está vigente",
-      "artigos_com_anotacao": 2,
-      "anotacoes": 14,
-      "anotacoes_sem_diploma_nomeado": 7
+      "artigos_com_anotacao": 4,
+      "anotacoes": 46,
+      "anotacoes_sem_diploma_nomeado": 18
     }
   },
   "vigencia": {
+    "1": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "redacao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "…s cuja condução exija formação profissional e que exerçam a profissão nas seguintes atividades ou categorias econômicas:",
+          "literal": "(Redação dada pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "…r período superior a 24 (vinte e quatro) horas, sem prejuízo da estipulação de condições mais favoráveis ao trabalhador.",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        }
+      ]
+    },
     "7": {
       "situacao": null,
       "eventos": [
@@ -169,6 +196,297 @@
           },
           "trecho": "…te artigo somente será adotado após esgotadas as demais alternativas de reequilíbrio econômico-financeiro dos contratos.",
           "literal": "(Incluído pela Lei nº 13.711, de 2018)"
+        }
+      ]
+    },
+    "19": {
+      "situacao": null,
+      "eventos": [
+        {
+          "tipo": "revogacao",
+          "unidade": "§ 1º",
+          "diploma": null,
+          "trecho": "§ 1º",
+          "literal": "(Revogado)"
+        },
+        {
+          "tipo": "redacao",
+          "unidade": "§ 1º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "§ 1º (Revogado).",
+          "literal": "(Redação dada pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 2º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "§ 2º O Procargas poderá apoiar projetos, programas e ações destinados a:",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso I",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "…, manutenção, modernização e adequação da frota de veículos e implementos utilizados no transporte rodoviário de cargas;",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso II",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "…manutenção e operação de Pontos de Parada e Descanso (PPD) em rodovias não concedidas, observada a legislação aplicável;",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso III",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "…ualificação, certificação e aperfeiçoamento profissional de motoristas, transportadores e demais profissionais do setor;",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso IV",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "… rastreabilidade, integração de dados e utilização de sistemas eletrônicos aplicados ao transporte rodoviário de cargas;",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso V",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "…e ocupacional, segurança viária, prevenção de acidentes e melhoria das condições de trabalho dos profissionais do setor;",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso VI",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "…dicatos, federações, confederações, associações e demais entidades representativas do transporte rodoviário de cargas; e",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "inciso VII",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "…ório da atividade de transporte rodoviário de cargas, no âmbito das competências dos órgãos e das entidades competentes.",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "§ 3º",
+          "diploma": null,
+          "trecho": "§ 3º",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 3º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "§ 3º (VETADO).",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "§ 4º",
+          "diploma": null,
+          "trecho": "§ 4º",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 4º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "§ 4º (VETADO).",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "§ 5º",
+          "diploma": null,
+          "trecho": "§ 5º",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 5º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "§ 5º (VETADO).",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "§ 6º",
+          "diploma": null,
+          "trecho": "§ 6º",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 6º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "§ 6º (VETADO).",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "§ 7º",
+          "diploma": null,
+          "trecho": "§ 7º",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 7º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "§ 7º (VETADO).",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "§ 8º",
+          "diploma": null,
+          "trecho": "§ 8º",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 8º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "§ 8º (VETADO).",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "§ 9º",
+          "diploma": null,
+          "trecho": "§ 9º",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 9º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "§ 9º (VETADO).",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "§ 10º",
+          "diploma": null,
+          "trecho": "§ 10.",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 10º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "§ 10. (VETADO).",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "§ 11º",
+          "diploma": null,
+          "trecho": "§ 11.",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 11º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "§ 11. (VETADO).",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
+        },
+        {
+          "tipo": "veto",
+          "unidade": "§ 12º",
+          "diploma": null,
+          "trecho": "§ 12.",
+          "literal": "(VETADO)"
+        },
+        {
+          "tipo": "inclusao",
+          "unidade": "§ 12º",
+          "diploma": {
+            "especie": "Lei",
+            "numero": "15.485",
+            "ano": 2026
+          },
+          "trecho": "§ 12. (VETADO).",
+          "literal": "(Incluído pela Lei nº 15.485, de 2026)"
         }
       ]
     }

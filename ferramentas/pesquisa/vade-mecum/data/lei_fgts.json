@@ -6,7 +6,7 @@
     "url_base": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm",
     "total_artigos": 49,
     "version": "2.0",
-    "gerado_em": "2026-07-23",
+    "gerado_em": "2026-08-21T22:36:34+00:00",
     "transformacao": "planalto_html_v1",
     "registros_retidos_sem_correspondencia": []
   },
@@ -221,7 +221,7 @@
     },
     "9-C": {
       "numero": "9-C",
-      "texto": "Art. 9º-C. As aplicações do FGTS em operações de crédito destinadas às entidades hospitalares filantrópicas, bem como a instituições que atuem no campo para pessoas com deficiência, sem fins lucrativos e que participem de forma complementar do SUS, ocorrerão até o final do exercício de 2022. (Incluído pela Lei nº 13.832, de 2019)",
+      "texto": "Art. 9º-C. As aplicações do FGTS em operações de crédito destinadas às entidades hospitalares filantrópicas, bem como às instituições que atuem no campo para pessoas com deficiência, sem fins lucrativos e que participem de forma complementar do SUS, ocorrerão até o final do exercício de 2030. (Redação dada pela Lei nº 15.486, de 2026)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm#:~:text=Art.%209%C2%BA-C.%20As%20aplica%C3%A7%C3%B5es%20do%20FGTS%20em%20opera%C3%A7%C3%B5es%20de%20cr%C3%A9dito%20destinadas%20%C3%A0s%20entidades%20hospitalares%20filantr%C3%B3picas%2C%20bem%20como%20a%20institui%C3%A7%C3%B5es%20que%20atuem%20no",
       "keywords": [],
       "hierarchy": {

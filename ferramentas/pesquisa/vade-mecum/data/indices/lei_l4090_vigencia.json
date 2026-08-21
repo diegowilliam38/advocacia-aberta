@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l4090.json",
       "colecao": "artigos",
-      "sha256": "48f5819c7e5a7de9296fe06f995a5090dc70fcccd9e74c4c0deeb7ae42ec3ce2",
+      "sha256": "a231cdd8b8087ef0f7028a6edb260c18d38ab88ea7bfc9390939e50b492f917f",
       "total_registros": 4,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:34+00:00"
     },
     "relacao": {
       "chave": "numero",

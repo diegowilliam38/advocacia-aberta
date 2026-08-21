@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_lrf.json",
       "colecao": "artigos",
-      "sha256": "a0ed0f1b1938040a0609b9af6a686f20b591100456da46aa5cc5693297c93219",
+      "sha256": "29e1af5a84670994bb2237a998f788b36ef99e72edb4a33ef821b0104f853eb9",
       "total_registros": 83,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:30+00:00"
     },
     "relacao": {
       "chave": "numero",

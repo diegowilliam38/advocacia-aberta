@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l4595.json",
       "colecao": "artigos",
-      "sha256": "6adc7623f109c97d6bdd4383a77f0830b3bd991a9eea69b9210614cf2a3f2a01",
+      "sha256": "af41193ccf738f4c268761607d60248cf4211d9dce08c72f2480ec334fa2d802",
       "total_registros": 65,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:30+00:00"
     },
     "relacao": {
       "chave": "numero",

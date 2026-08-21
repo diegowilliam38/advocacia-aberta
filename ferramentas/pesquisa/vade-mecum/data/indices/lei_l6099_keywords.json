@@ -22,9 +22,9 @@
     "fonte": {
       "arquivo": "lei_l6099.json",
       "colecao": "artigos",
-      "sha256": "2aaab025b79653beaf1384e3289db1145a15025b9f9f026602e45b6b6a16e91f",
+      "sha256": "2136d9711c3b1f28c373e07a07ddd7cf6a9e06b515de662da40bf69938abc171",
       "total_registros": 26,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:30+00:00"
     },
     "relacao": {
       "chave": "numero",

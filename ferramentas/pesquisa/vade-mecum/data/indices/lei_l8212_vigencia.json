@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l8212.json",
       "colecao": "artigos",
-      "sha256": "0ccf9b23105fef79ccff7c9709b7c590b9422907a32990faecb4b372a4e9072b",
+      "sha256": "2893fa0f359927450d9086630fc6a6b2614a671334c9254152860ac2bcf00cac",
       "total_registros": 112,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:33+00:00"
     },
     "relacao": {
       "chave": "numero",

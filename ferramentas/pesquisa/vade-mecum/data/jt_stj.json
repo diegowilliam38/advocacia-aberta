@@ -3,8 +3,8 @@
     "version": "2.0.0",
     "tipo": "jurisprudencia_em_teses",
     "tribunal": "STJ",
-    "total_edicoes": 283,
-    "total_teses": 3508,
+    "total_edicoes": 284,
+    "total_teses": 3526,
     "ramos_direito": {
       "Direito Administrativo": 578,
       "Direito Ambiental": 87,
@@ -20,10 +20,10 @@
       "Direito da Criança e do Adolescente": 104,
       "Direito do Consumidor": 113,
       "Direitos Humanos": 175,
-      "Não classificado": 138,
+      "Não classificado": 156,
       "Orientações Jurisprudenciais": 71
     },
-    "gerado_em": "2026-07-30T02:37:36+00:00",
+    "gerado_em": "2026-08-21T22:36:23+00:00",
     "descricao": "Jurisprudência em Teses extraída das páginas oficiais do STJ",
     "transformacao": "jt_stj_html_v1",
     "edicoes_retidas_sem_correspondencia": [
@@ -16767,11 +16767,11 @@
       "edicao_titulo": "JUIZADOS ESPECIAIS CRIMINAIS - II",
       "tese_numero": 11,
       "ramo_direito": "Direito Processual Penal",
-      "enunciado": "Compete ao Juizado Especial Estadual apreciar o crime de uso de entorpecente para consumo próprio, infração de menor potencial ofensivo, pois a conduta não está prevista em tratado internacional e a legislação pertinente não o incluiu entre os que devem ser julgados pela Justiça Federal.",
+      "enunciado": "A posse de até 40g de cannabis sativa para uso próprio constitui conduta atípica, sujeita exclusivamente a sanções administrativas, aplicáveis no âmbito do Juizado Especial Criminal.",
       "rito_especial": false,
       "data_publicacao": "2018-01-31",
-      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=96#:~:text=Compete%20ao%20Juizado%20Especial%20Estadual%20apreciar%20o%20crime%20de%20uso%20de%20entorpecente%20para%20consumo%20pr%C3%B3prio%2C%20infra%C3%A7%C3%A3o%20de%20menor%20potencial%20ofensivo%2C%20pois%20a",
-      "qtd_julgados": 3
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=96#:~:text=A%20posse%20de%20at%C3%A9%2040g%20de%20cannabis%20sativa%20para%20uso%20pr%C3%B3prio%20constitui%20conduta%20at%C3%ADpica%2C%20sujeita%20exclusivamente%20a%20san%C3%A7%C3%B5es%20administrativas%2C%20aplic%C3%A1veis%20no%20%C3%A2mbito",
+      "qtd_julgados": 2
     },
     "JT_096_T12": {
       "id": "JT_096_T12",
@@ -16779,10 +16779,10 @@
       "edicao_titulo": "JUIZADOS ESPECIAIS CRIMINAIS - II",
       "tese_numero": 12,
       "ramo_direito": "Direito Processual Penal",
-      "enunciado": "A conduta prevista no art. 28 da Lei n. 11.343/2006 admite tanto a transação penal quanto a suspensão condicional do processo.",
+      "enunciado": "Tese superada pelo Tema da Repercussão Geral n. 506 do Supremo Tribunal Federal.",
       "rito_especial": false,
       "data_publicacao": "2018-01-31",
-      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=96#:~:text=A%20conduta%20prevista%20no%20art.%2028%20da%20Lei%20n.%2011.343%2F2006%20admite%20tanto%20a%20transa%C3%A7%C3%A3o%20penal%20quanto%20a%20suspens%C3%A3o%20condicional%20do%20processo.",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=96#:~:text=Tese%20superada%20pelo%20Tema%20da%20Repercuss%C3%A3o%20Geral%20n.%20506%20do%20Supremo%20Tribunal%20Federal.",
       "qtd_julgados": 2
     },
     "JT_097_T01": {
@@ -20275,7 +20275,7 @@
       "rito_especial": false,
       "data_publicacao": "2019-04-16",
       "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=O%20crime%20de%20financiar%20ou%20custear%20o%20tr%C3%A1fico%20il%C3%ADcito%20de%20drogas%20%28art.%2036%20da%20Lei%20n.%2011.343%2F2006%29%20%C3%A9%20delito%20aut%C3%B4nomo%20aplic%C3%A1vel%20ao",
-      "qtd_julgados": 2
+      "qtd_julgados": 4
     },
     "JT_123_T02": {
       "id": "JT_123_T02",
@@ -20283,11 +20283,11 @@
       "edicao_titulo": "LEI DE DROGAS - III",
       "tese_numero": 2,
       "ramo_direito": "Direito Penal",
-      "enunciado": "O agente que atua diretamente na traficância e que também financia ou custeia a aquisição de drogas deve responder pelo crime previsto no art. 33, caput, com a incidência da causa de aumento de pena prevista no art. 40, inciso VII, da Lei n. 11.343/2006, afastando-se, por conseguinte, a conduta autônoma prevista no art. 36 da referida legislação.",
+      "enunciado": "O agente que atua diretamente na traficância e que também financia ou custeia a aquisição de drogas deve responder pelo crime previsto no art. 33, caput, com a incidência da causa de aumento de pena prevista no art. 40, inciso VII, da Lei n. 11.343/2006; afasta-se, por conseguinte, a conduta autônoma prevista no art. 36 da referida legislação.",
       "rito_especial": false,
       "data_publicacao": "2019-04-16",
       "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=O%20agente%20que%20atua%20diretamente%20na%20trafic%C3%A2ncia%20e%20que%20tamb%C3%A9m%20financia%20ou%20custeia%20a%20aquisi%C3%A7%C3%A3o%20de%20drogas%20deve%20responder%20pelo%20crime%20previsto",
-      "qtd_julgados": 2
+      "qtd_julgados": 3
     },
     "JT_123_T03": {
       "id": "JT_123_T03",
@@ -20295,11 +20295,11 @@
       "edicao_titulo": "LEI DE DROGAS - III",
       "tese_numero": 3,
       "ramo_direito": "Direito Penal",
-      "enunciado": "O crime de colaboração com o tráfico, art. 37 da Lei n. 11.343/2006, é um tipo penal subsidiário em relação aos delitos dos arts. 33 e 35 e tem como destinatário o agente que colabora como informante, de forma esporádica, eventual, sem vínculo efetivo, para o êxito da atividade de grupo, de associação ou de organização criminosa destinados à prática de qualquer dos delitos previstos nos arts. 33, caput e § 1º, e 34 da Lei de Drogas.",
+      "enunciado": "O crime de colaboração com o tráfico, art. 37 da Lei n. 11.343/2006, é tipo penal subsidiário em relação aos arts. 33 e 35 da mesma lei e tem como destinatário o agente que colabora como informante, de forma esporádica e sem vínculo efetivo, para o êxito da atividade de grupo, associação ou organização criminosa destinados à prática de qualquer dos delitos previstos nos arts. 33, caput e § 1º, e 34 da Lei de Drogas.",
       "rito_especial": false,
       "data_publicacao": "2019-04-16",
-      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=O%20crime%20de%20colabora%C3%A7%C3%A3o%20com%20o%20tr%C3%A1fico%2C%20art.%2037%20da%20Lei%20n.%2011.343%2F2006%2C%20%C3%A9%20um%20tipo%20penal%20subsidi%C3%A1rio%20em%20rela%C3%A7%C3%A3o%20aos%20delitos",
-      "qtd_julgados": 4
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=O%20crime%20de%20colabora%C3%A7%C3%A3o%20com%20o%20tr%C3%A1fico%2C%20art.%2037%20da%20Lei%20n.%2011.343%2F2006%2C%20%C3%A9%20tipo%20penal%20subsidi%C3%A1rio%20em%20rela%C3%A7%C3%A3o%20aos%20arts.%2033",
+      "qtd_julgados": 6
     },
     "JT_123_T04": {
       "id": "JT_123_T04",
@@ -20307,10 +20307,10 @@
       "edicao_titulo": "LEI DE DROGAS - III",
       "tese_numero": 4,
       "ramo_direito": "Direito Penal",
-      "enunciado": "O rol previsto no inciso III do art. 40 da Lei n. 11.343/2006 não deve ser encarado como taxativo, pois o objetivo da lei é proteger espaços que promovam a aglomeração de pessoas, circunstância que facilita a ação criminosa.",
+      "enunciado": "Item retirado.",
       "rito_especial": false,
       "data_publicacao": "2019-04-16",
-      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=O%20rol%20previsto%20no%20inciso%20III%20do%20art.%2040%20da%20Lei%20n.%2011.343%2F2006%20n%C3%A3o%20deve%20ser%20encarado%20como%20taxativo%2C%20pois%20o%20objetivo",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=Item%20retirado.",
       "qtd_julgados": 2
     },
     "JT_123_T05": {
@@ -20319,7 +20319,7 @@
       "edicao_titulo": "LEI DE DROGAS - III",
       "tese_numero": 5,
       "ramo_direito": "Direito Penal",
-      "enunciado": "A causa de aumento de pena prevista no inciso III do art. 40 da Lei de Drogas possui natureza objetiva e se aplica em função do lugar do cometimento do delito, sendo despicienda a comprovação efetiva do tráfico ou de que o crime visava a atingir os frequentadores desses locais.",
+      "enunciado": "A causa de aumento de pena prevista no inciso III do art. 40 da Lei de Drogas possui natureza objetiva e se aplica em razão do lugar do crime, portanto, é desnecessária a comprovação de tráfico efetivo nos locais e nas imediações mencionadas no inciso ou de que o crime visava atingir seus frequentadores.",
       "rito_especial": false,
       "data_publicacao": "2019-04-16",
       "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=A%20causa%20de%20aumento%20de%20pena%20prevista%20no%20inciso%20III%20do%20art.%2040%20da%20Lei%20de%20Drogas%20possui%20natureza%20objetiva%20e%20se",
@@ -20331,11 +20331,11 @@
       "edicao_titulo": "LEI DE DROGAS - III",
       "tese_numero": 6,
       "ramo_direito": "Direito Penal",
-      "enunciado": "A incidência da majorante prevista no art. 40, inciso III, da Lei n 11.343/2006 pode ser excepcionalmente afastada na hipótese de não existir nenhuma indicação de que houve o aproveitamento da aglomeração de pessoas ou a exposição dos frequentadores do local para a disseminação de drogas, verificando-se, caso a caso, as condições de dia, local e horário da prática do delito.",
+      "enunciado": "A incidência da majorante prevista no art. 40, inciso III, da Lei n. 11.343/2006 pode ser excepcionalmente afastada quando inexistir indicação de aproveitamento da aglomeração de pessoas ou de exposição dos frequentadores do local para a disseminação de drogas, a depender da análise das circunstâncias de dia, local e horário da prática do delito.",
       "rito_especial": false,
       "data_publicacao": "2019-04-16",
-      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=A%20incid%C3%AAncia%20da%20majorante%20prevista%20no%20art.%2040%2C%20inciso%20III%2C%20da%20Lei%20n%2011.343%2F2006%20pode%20ser%20excepcionalmente%20afastada%20na%20hip%C3%B3tese%20de%20n%C3%A3o",
-      "qtd_julgados": 4
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=A%20incid%C3%AAncia%20da%20majorante%20prevista%20no%20art.%2040%2C%20inciso%20III%2C%20da%20Lei%20n.%2011.343%2F2006%20pode%20ser%20excepcionalmente%20afastada%20quando%20inexistir%20indica%C3%A7%C3%A3o%20de",
+      "qtd_julgados": 3
     },
     "JT_123_T07": {
       "id": "JT_123_T07",
@@ -20343,11 +20343,11 @@
       "edicao_titulo": "LEI DE DROGAS - III",
       "tese_numero": 7,
       "ramo_direito": "Direito Penal",
-      "enunciado": "Para a caracterização da causa de aumento de pena do art. 40, inciso III, da Lei n. 11.343/2006, é necessária a efetiva oferta ou a comercialização da droga no interior de veículo público, não bastando, para a sua incidência, o fato de o agente ter se utilizado dele como meio de locomoção e de transporte da substância ilícita.",
+      "enunciado": "Para caracterizar a causa de aumento de pena do art. 40, III, da Lei n. 11. 343/2006, é necessária a efetiva oferta ou a comercialização da droga no interior de veículo público, não basta, para a sua incidência, o fato de o agente ter o veículo apenas como meio de locomoção e de transporte da substância ilícita.",
       "rito_especial": false,
       "data_publicacao": "2019-04-16",
-      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=Para%20a%20caracteriza%C3%A7%C3%A3o%20da%20causa%20de%20aumento%20de%20pena%20do%20art.%2040%2C%20inciso%20III%2C%20da%20Lei%20n.%2011.343%2F2006%2C%20%C3%A9%20necess%C3%A1ria%20a%20efetiva",
-      "qtd_julgados": 6
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=Para%20caracterizar%20a%20causa%20de%20aumento%20de%20pena%20do%20art.%2040%2C%20III%2C%20da%20Lei%20n.%2011.%20343%2F2006%2C%20%C3%A9%20necess%C3%A1ria%20a%20efetiva%20oferta",
+      "qtd_julgados": 2
     },
     "JT_123_T08": {
       "id": "JT_123_T08",
@@ -20355,10 +20355,10 @@
       "edicao_titulo": "LEI DE DROGAS - III",
       "tese_numero": 8,
       "ramo_direito": "Direito Penal",
-      "enunciado": "A incidência da majorante da segunda parte do inciso III do art. 18 da Lei n. 6. 368/1976 - \"visar [o crime] a menores de 21 (vinte e um) anos\" -, segue contemplada no art. 40, inciso VI, da nova Lei de Drogas - \"sua prática envolver ou visar a atingir criança ou adolescente\" -, não restando configurada a abolitio criminis.",
+      "enunciado": "A incidência da causa de aumento da segunda parte do inciso III do art. 18 da Lei n. 6. 368/1976 - \"visar [o crime] a menores de 21 (vinte e um) anos\" -, segue contemplada no art. 40, inciso VI, da nova Lei de Drogas - \"sua prática envolver ou visar a atingir criança ou adolescente\"; não se configura, portanto, a abolitio criminis.",
       "rito_especial": false,
       "data_publicacao": "2019-04-16",
-      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=A%20incid%C3%AAncia%20da%20majorante%20da%20segunda%20parte%20do%20inciso%20III%20do%20art.%2018%20da%20Lei%20n.%206.%20368%2F1976%20-%20%22visar%20%5Bo%20crime%5D",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=A%20incid%C3%AAncia%20da%20causa%20de%20aumento%20da%20segunda%20parte%20do%20inciso%20III%20do%20art.%2018%20da%20Lei%20n.%206.%20368%2F1976%20-%20%22visar",
       "qtd_julgados": 5
     },
     "JT_123_T09": {
@@ -20367,7 +20367,7 @@
       "edicao_titulo": "LEI DE DROGAS - III",
       "tese_numero": 9,
       "ramo_direito": "Direito Penal",
-      "enunciado": "O ato infracional análogo ao tráfico de drogas, por si só, não conduz obrigatoriamente à imposição de medida socioeducativa de internação do adolescente. (Súmula n. 492/STJ)",
+      "enunciado": "O ato infracional análogo ao tráfico de drogas, por si só, não conduz obrigatoriamente à imposição de medida socioeducativa de internação do adolescente (Súmula n. 492/STJ).",
       "rito_especial": false,
       "data_publicacao": "2019-04-16",
       "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=O%20ato%20infracional%20an%C3%A1logo%20ao%20tr%C3%A1fico%20de%20drogas%2C%20por%20si%20s%C3%B3%2C%20n%C3%A3o%20conduz%20obrigatoriamente%20%C3%A0%20imposi%C3%A7%C3%A3o%20de%20medida%20socioeducativa%20de%20interna%C3%A7%C3%A3o%20do",
@@ -20391,10 +20391,10 @@
       "edicao_titulo": "LEI DE DROGAS - III",
       "tese_numero": 11,
       "ramo_direito": "Direito Penal",
-      "enunciado": "O crime de uso de entorpecente para consumo próprio, previsto no art. 28 da Lei n. 11.343/2006, é de menor potencial ofensivo, o que determina a competência do juizado especial estadual, já que ele não está previsto em tratado internacional e o art. 70 da Lei de Drogas não o inclui dentre os que devem ser julgados pela justiça federal.",
+      "enunciado": "A posse de até 40g de cannabis sativa para uso próprio constitui conduta atípica, sujeita exclusivamente a sanções administrativas, aplicáveis no âmbito do Juizado Especial Criminal.",
       "rito_especial": false,
       "data_publicacao": "2019-04-16",
-      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=O%20crime%20de%20uso%20de%20entorpecente%20para%20consumo%20pr%C3%B3prio%2C%20previsto%20no%20art.%2028%20da%20Lei%20n.%2011.343%2F2006%2C%20%C3%A9%20de%20menor%20potencial%20ofensivo%2C",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=A%20posse%20de%20at%C3%A9%2040g%20de%20cannabis%20sativa%20para%20uso%20pr%C3%B3prio%20constitui%20conduta%20at%C3%ADpica%2C%20sujeita%20exclusivamente%20a%20san%C3%A7%C3%B5es%20administrativas%2C%20aplic%C3%A1veis%20no%20%C3%A2mbito",
       "qtd_julgados": 2
     },
     "JT_123_T12": {
@@ -20403,10 +20403,10 @@
       "edicao_titulo": "LEI DE DROGAS - III",
       "tese_numero": 12,
       "ramo_direito": "Direito Penal",
-      "enunciado": "A conduta prevista no art. 28 da Lei n. 11.343/2006 admite tanto a transação penal quanto a suspensão condicional do processo.",
+      "enunciado": "Tese superada pelo Tema da Repercussão Geral n. 506 do Supremo Tribunal Federal.",
       "rito_especial": false,
       "data_publicacao": "2019-04-16",
-      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=A%20conduta%20prevista%20no%20art.%2028%20da%20Lei%20n.%2011.343%2F2006%20admite%20tanto%20a%20transa%C3%A7%C3%A3o%20penal%20quanto%20a%20suspens%C3%A3o%20condicional%20do%20processo.",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=123#:~:text=Tese%20superada%20pelo%20Tema%20da%20Repercuss%C3%A3o%20Geral%20n.%20506%20do%20Supremo%20Tribunal%20Federal.",
       "qtd_julgados": 6
     },
     "JT_124_T01": {
@@ -41612,6 +41612,222 @@
       "data_publicacao": "2026-07-17",
       "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=284#:~:text=%C3%89%20ilegal%20menor%20de%2018%20anos%2C%20mesmo%20que%20emancipado%20ou%20com%20altas%20habilidades%2C%20antecipar%20a%20conclus%C3%A3o%20de%20sua%20educa%C3%A7%C3%A3o%20b%C3%A1sica%20submetendo-se%20ao",
       "qtd_julgados": 4
+    },
+    "JT_285_T01": {
+      "id": "JT_285_T01",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 1,
+      "ramo_direito": "Não classificado",
+      "enunciado": "As vagas remanescentes dos cursos técnicos oferecidos pelo Senai no Programa de Acesso ao Ensino Técnico e Emprego - PRONATEC - devem ser disponibilizadas aos estudantes da Educação de Jovens e Adultos (EJA), desde que comprovem escolaridade equivalente ao ensino médio.",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=As%20vagas%20remanescentes%20dos%20cursos%20t%C3%A9cnicos%20oferecidos%20pelo%20Senai%20no%20Programa%20de%20Acesso%20ao%20Ensino%20T%C3%A9cnico%20e%20Emprego%20-%20PRONATEC%20-%20devem",
+      "qtd_julgados": 1
+    },
+    "JT_285_T02": {
+      "id": "JT_285_T02",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 2,
+      "ramo_direito": "Não classificado",
+      "enunciado": "Em se tratando de demanda em que se discute a ausência/obstáculo de credenciamento da instituição de ensino superior pelo Ministério da Educação como condição de expedição de diploma aos estudantes, é inegável a presença de interesse jurídico da União, razão pela qual deve a competência ser atribuída à Justiça Federal, nos termos do art. 109, I, da Constituição Federal de 1988 (Tese julgada sob o rito do art. 543-C do CPC/1973 - Tema n. 584).",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=Em%20se%20tratando%20de%20demanda%20em%20que%20se%20discute%20a%20aus%C3%AAncia%2Fobst%C3%A1culo%20de%20credenciamento%20da%20institui%C3%A7%C3%A3o%20de%20ensino%20superior%20pelo%20Minist%C3%A9rio%20da%20Educa%C3%A7%C3%A3o",
+      "qtd_julgados": 6
+    },
+    "JT_285_T03": {
+      "id": "JT_285_T03",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 3,
+      "ramo_direito": "Não classificado",
+      "enunciado": "Compete à Justiça Federal o processo e julgamento de demanda em que se discute a ausência de ou o obstáculo ao credenciamento de instituição particular de ensino superior no Ministério da Educação como condição de expedição de diploma de ensino a distância aos estudantes (Súmula n. 570 do STJ).",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=Compete%20%C3%A0%20Justi%C3%A7a%20Federal%20o%20processo%20e%20julgamento%20de%20demanda%20em%20que%20se%20discute%20a%20aus%C3%AAncia%20de%20ou%20o%20obst%C3%A1culo%20ao%20credenciamento",
+      "qtd_julgados": 4
+    },
+    "JT_285_T04": {
+      "id": "JT_285_T04",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 4,
+      "ramo_direito": "Não classificado",
+      "enunciado": "As instituições de ensino superior privadas sujeitam-se ao Sistema Federal de Ensino (SFE), o que atrai a competência da Justiça Federal para julgar casos em que se discuta negativa de expedição ou atraso na entrega de diploma - mesmo que a pretensão se limite ao pagamento de indenização - ou pedidos de colação de grau antecipada.",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=As%20institui%C3%A7%C3%B5es%20de%20ensino%20superior%20privadas%20sujeitam-se%20ao%20Sistema%20Federal%20de%20Ensino%20%28SFE%29%2C%20o%20que%20atrai%20a%20compet%C3%AAncia%20da%20Justi%C3%A7a%20Federal%20para",
+      "qtd_julgados": 5
+    },
+    "JT_285_T05": {
+      "id": "JT_285_T05",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 5,
+      "ramo_direito": "Não classificado",
+      "enunciado": "Não é possível o registro automático de diploma de graduação expedido por instituição de ensino superior dos países signatários da Convenção Regional sobre o Reconhecimento de Diploma de Ensino Superior na América Latina e no Caribe sem o devido processo de revalidação, a ser realizado pelas universidades brasileiras com base em normas específicas por elas estabelecidas.",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=N%C3%A3o%20%C3%A9%20poss%C3%ADvel%20o%20registro%20autom%C3%A1tico%20de%20diploma%20de%20gradua%C3%A7%C3%A3o%20expedido%20por%20institui%C3%A7%C3%A3o%20de%20ensino%20superior%20dos%20pa%C3%ADses%20signat%C3%A1rios%20da%20Conven%C3%A7%C3%A3o%20Regional",
+      "qtd_julgados": 7
+    },
+    "JT_285_T06": {
+      "id": "JT_285_T06",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 6,
+      "ramo_direito": "Não classificado",
+      "enunciado": "É obrigatória a revalidação de diploma de medicina obtido em instituição cubana, ainda que expedido antes da Lei n. 9.394/1996, aplica-se, portanto, o Tema n. 615/STJ, sem distinção apta a afastar o precedente.",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=%C3%89%20obrigat%C3%B3ria%20a%20revalida%C3%A7%C3%A3o%20de%20diploma%20de%20medicina%20obtido%20em%20institui%C3%A7%C3%A3o%20cubana%2C%20ainda%20que%20expedido%20antes%20da%20Lei%20n.%209.394%2F1996%2C%20aplica-se%2C%20portanto%2C",
+      "qtd_julgados": 4
+    },
+    "JT_285_T07": {
+      "id": "JT_285_T07",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 7,
+      "ramo_direito": "Não classificado",
+      "enunciado": "Ao profissional formado em educação física, na modalidade licenciatura de graduação plena, somente é permitido atuar na educação básica, sendo-lhe defeso o exercício da profissão na área não formal (Tese julgada sob o rito do art. 543-C do CPC/1973 - Tema n. 647).",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=Ao%20profissional%20formado%20em%20educa%C3%A7%C3%A3o%20f%C3%ADsica%2C%20na%20modalidade%20licenciatura%20de%20gradua%C3%A7%C3%A3o%20plena%2C%20somente%20%C3%A9%20permitido%20atuar%20na%20educa%C3%A7%C3%A3o%20b%C3%A1sica%2C%20sendo-lhe%20defeso%20o",
+      "qtd_julgados": 6
+    },
+    "JT_285_T08": {
+      "id": "JT_285_T08",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 8,
+      "ramo_direito": "Não classificado",
+      "enunciado": "É dever da instituição de ensino superior informar o discente , com clareza e transparência, sobre as modificações que se relacionem ao exercício da profissão pelos alunos que cursam licenciatura plena em Educação Física e não bacharelado, especialmente, àqueles que se matricularam após outubro de 2005.",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=%C3%89%20dever%20da%20institui%C3%A7%C3%A3o%20de%20ensino%20superior%20informar%20o%20discente%20%2C%20com%20clareza%20e%20transpar%C3%AAncia%2C%20sobre%20as%20modifica%C3%A7%C3%B5es%20que%20se%20relacionem%20ao",
+      "qtd_julgados": 1
+    },
+    "JT_285_T09": {
+      "id": "JT_285_T09",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 9,
+      "ramo_direito": "Não classificado",
+      "enunciado": "Não cabe ao Poder Judiciário analisar os critérios de escolha dos membros de banca examinadora de concurso público para o cargo de professor de ensino superior, sob pena de violação do princípio constitucional da autonomia universitária.",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=N%C3%A3o%20cabe%20ao%20Poder%20Judici%C3%A1rio%20analisar%20os%20crit%C3%A9rios%20de%20escolha%20dos%20membros%20de%20banca%20examinadora%20de%20concurso%20p%C3%BAblico%20para%20o%20cargo%20de",
+      "qtd_julgados": 1
+    },
+    "JT_285_T10": {
+      "id": "JT_285_T10",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 10,
+      "ramo_direito": "Não classificado",
+      "enunciado": "A oferta irregular de cursos superiores e a terceirização ilícita de atividades acadêmicas configuram dano moral coletivo presumido (in re ipsa) quando implicarem violação injusta e intolerável a direitos extrapatrimoniais da coletividade.",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=A%20oferta%20irregular%20de%20cursos%20superiores%20e%20a%20terceiriza%C3%A7%C3%A3o%20il%C3%ADcita%20de%20atividades%20acad%C3%AAmicas%20configuram%20dano%20moral%20coletivo%20presumido%20%28in%20re%20ipsa%29%20quando",
+      "qtd_julgados": 3
+    },
+    "JT_285_T11": {
+      "id": "JT_285_T11",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 11,
+      "ramo_direito": "Não classificado",
+      "enunciado": "A declaração de conclusão do curso constitui meio hábil à comprovação do nível de escolaridade.",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=A%20declara%C3%A7%C3%A3o%20de%20conclus%C3%A3o%20do%20curso%20constitui%20meio%20h%C3%A1bil%20%C3%A0%20comprova%C3%A7%C3%A3o%20do%20n%C3%ADvel%20de%20escolaridade.",
+      "qtd_julgados": 2
+    },
+    "JT_285_T12": {
+      "id": "JT_285_T12",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 12,
+      "ramo_direito": "Não classificado",
+      "enunciado": "O Ministério Público tem legitimidade ativa para ajuizar ação civil pública com o fim de impedir a cobrança abusiva de mensalidades escolares.",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=O%20Minist%C3%A9rio%20P%C3%BAblico%20tem%20legitimidade%20ativa%20para%20ajuizar%20a%C3%A7%C3%A3o%20civil%20p%C3%BAblica%20com%20o%20fim%20de%20impedir%20a%20cobran%C3%A7a%20abusiva%20de%20mensalidades%20escolares.",
+      "qtd_julgados": 4
+    },
+    "JT_285_T13": {
+      "id": "JT_285_T13",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 13,
+      "ramo_direito": "Não classificado",
+      "enunciado": "A União é parte legítima para figurar no polo passivo de ação em que se discute o indeferimento de bolsa do PROUNI.",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=A%20Uni%C3%A3o%20%C3%A9%20parte%20leg%C3%ADtima%20para%20figurar%20no%20polo%20passivo%20de%20a%C3%A7%C3%A3o%20em%20que%20se%20discute%20o%20indeferimento%20de%20bolsa%20do%20PROUNI.",
+      "qtd_julgados": 1
+    },
+    "JT_285_T14": {
+      "id": "JT_285_T14",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 14,
+      "ramo_direito": "Não classificado",
+      "enunciado": "Considera-se título único, para fins de concurso público, a dupla ou múltipla titulação de pós-graduação obtida, simultaneamente, em universidades brasileira e estrangeira.",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=Considera-se%20t%C3%ADtulo%20%C3%BAnico%2C%20para%20fins%20de%20concurso%20p%C3%BAblico%2C%20a%20dupla%20ou%20m%C3%BAltipla%20titula%C3%A7%C3%A3o%20de%20p%C3%B3s-gradua%C3%A7%C3%A3o%20obtida%2C%20simultaneamente%2C%20em%20universidades%20brasileira%20e%20estrangeira.",
+      "qtd_julgados": 1
+    },
+    "JT_285_T15": {
+      "id": "JT_285_T15",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 15,
+      "ramo_direito": "Não classificado",
+      "enunciado": "A educação superior abrange cursos sequenciais por campo de saber, cursos de graduação, cursos de pós-graduação e cursos de extensão, cujos certificados de conclusão são equivalentes aos diplomas de curso superior.",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=A%20educa%C3%A7%C3%A3o%20superior%20abrange%20cursos%20sequenciais%20por%20campo%20de%20saber%2C%20cursos%20de%20gradua%C3%A7%C3%A3o%2C%20cursos%20de%20p%C3%B3s-gradua%C3%A7%C3%A3o%20e%20cursos%20de%20extens%C3%A3o%2C%20cujos%20certificados",
+      "qtd_julgados": 3
+    },
+    "JT_285_T16": {
+      "id": "JT_285_T16",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 16,
+      "ramo_direito": "Não classificado",
+      "enunciado": "É assegurado, excepcionalmente, o ingresso no ensino superior pelo sistema de cotas a candidatos abrangidos por políticas de ação afirmativa que tenham cursado o ensino médio em instituição filantrópica em razão da inexistência de vagas na rede pública da respectiva localidade.",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=%C3%89%20assegurado%2C%20excepcionalmente%2C%20o%20ingresso%20no%20ensino%20superior%20pelo%20sistema%20de%20cotas%20a%20candidatos%20abrangidos%20por%20pol%C3%ADticas%20de%20a%C3%A7%C3%A3o%20afirmativa%20que%20tenham",
+      "qtd_julgados": 2
+    },
+    "JT_285_T17": {
+      "id": "JT_285_T17",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 17,
+      "ramo_direito": "Não classificado",
+      "enunciado": "A aceleração da promoção é permitida exclusivamente aos servidores que, em 1º/3/2013, já ocupavam o cargo de professor de magistério superior, uma vez que, a transferência entre instituições, sem interrupção de vínculo, não autoriza a transposição de enquadramentos funcionais anteriormente obtidos.",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=A%20acelera%C3%A7%C3%A3o%20da%20promo%C3%A7%C3%A3o%20%C3%A9%20permitida%20exclusivamente%20aos%20servidores%20que%2C%20em%201%C2%BA%2F3%2F2013%2C%20j%C3%A1%20ocupavam%20o%20cargo%20de%20professor%20de%20magist%C3%A9rio%20superior%2C%20uma",
+      "qtd_julgados": 5
+    },
+    "JT_285_T18": {
+      "id": "JT_285_T18",
+      "edicao": 285,
+      "edicao_titulo": "DIREITO À EDUCAÇÃO III",
+      "tese_numero": 18,
+      "ramo_direito": "Não classificado",
+      "enunciado": "A extensão da carência do contrato de financiamento estudantil para médicos residentes só é possível quando o contrato de financiamento estudantil não tiver ingressado na fase de amortização da dívida.",
+      "rito_especial": false,
+      "data_publicacao": "2026-08-14",
+      "url": "https://scon.stj.jus.br/SCON/GetPDFSelecaoJT?selecao_edicao=285#:~:text=A%20extens%C3%A3o%20da%20car%C3%AAncia%20do%20contrato%20de%20financiamento%20estudantil%20para%20m%C3%A9dicos%20residentes%20s%C3%B3%20%C3%A9%20poss%C3%ADvel%20quando%20o%20contrato%20de%20financiamento%20estudantil%20n%C3%A3o",
+      "qtd_julgados": 3
     },
     "JT_147_T01": {
       "id": "JT_147_T01",

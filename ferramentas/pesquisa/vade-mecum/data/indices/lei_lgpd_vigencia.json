@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_lgpd.json",
       "colecao": "artigos",
-      "sha256": "3270668780b9b8ebf61e554df4259cc26a9f203b88a143e834a669cb7cac3ab3",
+      "sha256": "b0572d5671bf8a88eb655f263fa1e38b5e6cda7fe92780581d02d204a5aee8c0",
       "total_registros": 79,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:11+00:00"
     },
     "relacao": {
       "chave": "numero",

@@ -23,9 +23,9 @@
     "fonte": {
       "arquivo": "lei_l9613.json",
       "colecao": "artigos",
-      "sha256": "3ce2ba462e402f2e48d6a92eff44f1f70090a4da002aa02d86b8cec9cdd3ec9b",
+      "sha256": "d087b6c21cb00ae41baa63668c58c7db2cb1eaa804ce631f335d613d82697ed1",
       "total_registros": 28,
-      "gerado_em": "2026-07-23"
+      "gerado_em": "2026-08-21T22:36:32+00:00"
     },
     "relacao": {
       "chave": "numero",
